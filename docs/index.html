@@ -94,6 +94,8 @@
   .attachment-note{font-size:11px;color:var(--grey-dark);font-style:italic;display:flex;align-items:center;gap:5px;}
   .tag{font-size:10px;font-weight:700;padding:2px 7px;border-radius:4px;text-transform:uppercase;letter-spacing:.06em;}
   .tag-attachment{background:var(--sky-light);color:var(--navy);}
+  .tag-pdf{background:#e8f4fb;color:var(--navy);border:1px solid var(--sky);}
+  .tag-scanned{background:var(--grey);color:var(--grey-dark);}
   .tag-anon{background:var(--grey);color:var(--grey-dark);}
   .no-results{padding:40px;text-align:center;color:var(--grey-dark);font-size:13px;}
 
@@ -400,12 +402,16 @@
             ${org ? `<span class="commenter-org">${esc(org)}</span>` : ''}
             ${!name && !org ? `<span class="tag tag-anon">Anonymous</span>` : ''}
             ${loc ? `<span style="font-size:11px;color:var(--grey-dark);">${esc(loc)}</span>` : ''}
-            ${c.has_attachment ? `<span class="tag tag-attachment">Attachment</span>` : ''}
+            ${c.has_attachment && !c.pdf_extracted ? `<span class="tag tag-attachment">Attachment</span>` : ''}
+            ${c.pdf_extracted ? `<span class="tag tag-pdf">PDF extracted</span>` : ''}
+            ${c.pdf_scanned ? `<span class="tag tag-scanned">Scanned PDF</span>` : ''}
             <span class="comment-date">${date}</span>
           </div>
           ${text ? `
             <div class="comment-body ${long ? 'truncated' : ''}" id="body-${id}">${esc(text)}</div>
             ${long ? `<button class="expand-btn" onclick="expand('${id}')">Read more ↓</button>` : ''}
+          ` : c.pdf_scanned ? `
+            <div class="attachment-note">🖨️ Scanned PDF — text not extractable. <a class="ext-link" href="${c.url}" target="_blank">View on regulations.gov ↗</a></div>
           ` : `
             <div class="attachment-note">📎 Full comment submitted as an attachment — <a class="ext-link" href="${c.url}" target="_blank">view on regulations.gov ↗</a></div>
           `}
