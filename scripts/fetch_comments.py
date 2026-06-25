@@ -37,6 +37,7 @@ if not API_KEY:
 
 HEADERS = {"X-Api-Key": API_KEY}
 OUT_FILE = Path(__file__).parent.parent / "docs" / "comments.json"
+DATA_JS  = Path(__file__).parent.parent / "docs" / "data.js"
 
 
 def get(url, params=None, retries=3):
@@ -230,8 +231,10 @@ def main():
         "comments": comments,
     }
 
-    OUT_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Wrote {len(comments)} comments to {OUT_FILE}", file=sys.stderr)
+    json_str = json.dumps(output, indent=2, ensure_ascii=False)
+    OUT_FILE.write_text(json_str, encoding="utf-8")
+    DATA_JS.write_text(f"const COMMENTS_DATA = {json_str};\n", encoding="utf-8")
+    print(f"Wrote {len(comments)} comments to {OUT_FILE} and {DATA_JS.name}", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -125,6 +125,7 @@
     .hero-stats{flex-direction:row;min-width:unset;}
   }
 </style>
+<script src="data.js"></script>
 </head>
 <body>
 
@@ -311,9 +312,8 @@
 
   async function loadComments() {
     try {
-      const r = await fetch('comments.json');
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      const data = await r.json();
+      if (typeof COMMENTS_DATA === 'undefined') throw new Error('data.js not loaded');
+      const data = COMMENTS_DATA;
       allComments = data.comments || [];
 
       // Stats
@@ -338,7 +338,7 @@
       renderThemes(allComments);
       renderComments();
     } catch (e) {
-      document.getElementById('comment-list').innerHTML = `<div class="no-results">Could not load comments.json — run the fetch script first.<br><small>${e.message}</small></div>`;
+      document.getElementById('comment-list').innerHTML = `<div class="no-results">Could not load data — run <code>scripts/fetch_comments.py</code> to generate data.js.<br><small>${e.message}</small></div>`;
       document.getElementById('result-label').textContent = 'No data';
     }
   }
