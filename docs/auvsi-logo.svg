@@ -1,0 +1,16 @@
+<svg viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon mark: three arc segments (outer R=26, inner r=15, center 30,30) -->
+  <g transform="translate(30,30)">
+    <!-- Gray — top arc 240°→350° -->
+    <path fill="#A6A6A5" d="M-13,-22.52 A26,26,0,0,1,25.6,-4.52 L14.77,-2.61 A15,15,0,0,0,-7.5,-13 Z"/>
+    <!-- Sky blue — lower-right arc 0°→110° -->
+    <path fill="#54AEDC" d="M26,0 A26,26,0,0,1,-8.89,24.44 L-5.13,14.1 A15,15,0,0,0,15,0 Z"/>
+    <!-- Red — left arc 120°→230° -->
+    <path fill="#D02E27" d="M-13,22.52 A26,26,0,0,1,-16.72,-19.92 L-9.64,-11.49 A15,15,0,0,0,-7.5,13 Z"/>
+  </g>
+  <!-- AUVSI wordmark — white for dark backgrounds -->
+  <text x="68" y="40" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="35" fill="white" letter-spacing="-0.5">AUVSI</text>
+  <text x="180" y="21" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="white">&#8482;</text>
+  <!-- ADVOCACY — sky blue -->
+  <text x="70" y="56" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#54AEDC" letter-spacing="5">ADVOCACY</text>
+</svg>
