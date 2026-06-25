@@ -27,5 +27,5 @@ Among genuine 2209 stakeholders (106 comments): support-with-changes plurality (
 Comments are fetched daily from the regulations.gov v4 API and committed automatically via GitHub Actions. The dashboard is a static file — no server required.
 
 - **Docket:** FAA-2026-4558
-- **Comment period:** closes July 7, 2026
+- **Comment period:** closes July 6, 2026
 - **Last updated:** see `docs/comments.json`
