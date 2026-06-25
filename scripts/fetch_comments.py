@@ -15,6 +15,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import re
 import requests
 
 try:
@@ -133,7 +134,15 @@ def fetch_comment_detail(comment_id):
     attrs = raw.get("data", {}).get("attributes", {})
 
     inline_text = (attrs.get("comment") or "").strip()
-    has_attachment = inline_text.lower().startswith("see attached") or not inline_text
+    _ATTACH_HINT = re.compile(
+        r'\b(attach(ed|ment|ments)?|see (attached|below)|please (read|see|find))\b',
+        re.I
+    )
+    has_attachment = (
+        not inline_text
+        or inline_text.lower().startswith("see attached")
+        or (len(inline_text) < 400 and bool(_ATTACH_HINT.search(inline_text)))
+    )
 
     pdf_text = ""
     pdf_scanned = False

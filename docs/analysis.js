@@ -1,17 +1,17 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-06-25T15:46:30.529872+00:00",
+  "generated_utc": "2026-06-25T16:16:12.217579+00:00",
   "total": 407,
   "campaign_count": 301,
   "campaign_pct": 74,
   "positions_all": {
-    "support_with_changes": 55,
-    "unclear": 6,
+    "support_with_changes": 58,
+    "unclear": 3,
     "oppose": 22,
     "support": 324
   },
   "positions_ex_campaign": {
-    "support_with_changes": 55,
-    "unclear": 6,
+    "support_with_changes": 58,
+    "unclear": 3,
     "oppose": 22,
     "support": 23
   },
@@ -95,55 +95,55 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 167
+      "count": 169
     },
     {
       "label": "National security / threat",
-      "count": 146
+      "count": 148
     },
     {
       "label": "Small business / cost",
-      "count": 127
+      "count": 130
     },
     {
       "label": "Facility eligibility scope",
-      "count": 94
+      "count": 97
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 79
+      "count": 81
     },
     {
       "label": "Federal preemption",
-      "count": 50
+      "count": 53
     },
     {
       "label": "First Amendment / media",
-      "count": 49
+      "count": 50
     },
     {
       "label": "Transparency / publication",
-      "count": 46
+      "count": 47
     },
     {
       "label": "Boundaries / altitude",
-      "count": 39
+      "count": 42
     },
     {
       "label": "Contractor / owner gap",
       "count": 34
     },
     {
-      "label": "Counter-UAS / mitigation",
-      "count": 31
+      "label": "Remote ID / detection gap",
+      "count": 33
     },
     {
-      "label": "Remote ID / detection gap",
-      "count": 30
+      "label": "Counter-UAS / mitigation",
+      "count": 32
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 23
+      "count": 24
     },
     {
       "label": "Overreach / withdraw",
@@ -829,11 +829,16 @@ const ANALYSIS_DATA = {
     {
       "id": "FAA-2026-4558-0403",
       "name": "Comment from Virginia Department of Aviation",
-      "org": "",
+      "org": "Virginia Department of Aviation",
       "category": "government_agency",
-      "position": "unclear",
+      "position": "support_with_changes",
       "arguments": [
-        "Virginia Dept of Aviation — comment in attachment"
+        "7460-style state stakeholder review of UAFR applications before FAA decision",
+        "States should be able to apply for expedited UAFRs during regional emergencies (hurricanes)",
+        "Integrate UAFR data with state UAS Flight Information Exchanges (VA, PA, WV, OH, OK FIX's)",
+        "Tiered boundaries: property line sufficient for venues but not defense/CI facilities (e.g., Huntington Ingalls Shipyard espionage risk)",
+        "UAFR applications shared with state agencies for NEPA compliance",
+        "General aviation airport traffic patterns and approach/departure corridors should be eligible permanent UAFR areas"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0403"
     },
@@ -956,9 +961,14 @@ const ANALYSIS_DATA = {
       "name": "Comment from Drone Service Providers Alliance",
       "org": "Drone Service Providers Alliance",
       "category": "trade_association",
-      "position": "unclear",
+      "position": "support_with_changes",
       "arguments": [
-        "Drone Service Providers Alliance — comment in attachment"
+        "LAANC-style notify-and-fly for all FAA-authorized ops (Part 107, 44809, 135, 137)",
+        "Require documented UAS incursions before Standard UAFR granted; mere concern insufficient",
+        "Boundaries limited to fence line; buffer zones only if standardized nationwide",
+        "Explicitly prohibit private UAS mitigation/interdiction (SAFER SKIES Act)",
+        "Avoid transit-only restriction — allow inspect/map/photograph over facility",
+        "Strong federal preemption; proposes specific § 74.240 CFR language"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0350"
     },
@@ -992,9 +1002,13 @@ const ANALYSIS_DATA = {
       "name": "Comment from Nevada Center for Applied Research Nevada UAS Test Site",
       "org": "Nevada Center for Applied Research Nevada UAS Test Site",
       "category": "academic",
-      "position": "unclear",
+      "position": "support_with_changes",
       "arguments": [
-        "Nevada UAS Test Site — comment in attachment"
+        "Commends FAA for 2209 NPRM as CI protection milestone",
+        "§ 74.54 eligibility language should reference all criteria, not only subsection (c)",
+        "§ 74.255 access notification: include Remote ID serial number; needs streamlined process",
+        "UAFR boundaries should be proportional and evidence-based",
+        "Preserve scalable commercial drone access alongside CI protection"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0218"
     },

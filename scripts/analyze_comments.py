@@ -95,13 +95,13 @@ CURATED = {
 
     # --- Trade associations ---
     "FAA-2026-4558-0343": ("trade_association", "support_with_changes", ["Support rule for working waterfront", "Requests refinements to UAFR framework"]),
-    "FAA-2026-4558-0350": ("trade_association", "unclear", ["Drone Service Providers Alliance — comment in attachment"]),
+    "FAA-2026-4558-0350": ("trade_association", "support_with_changes", ["LAANC-style notify-and-fly for all FAA-authorized ops (Part 107, 44809, 135, 137)", "Require documented UAS incursions before Standard UAFR granted; mere concern insufficient", "Boundaries limited to fence line; buffer zones only if standardized nationwide", "Explicitly prohibit private UAS mitigation/interdiction (SAFER SKIES Act)", "Avoid transit-only restriction — allow inspect/map/photograph over facility", "Strong federal preemption; proposes specific § 74.240 CFR language"]),
 
     # --- Government agencies ---
     "FAA-2026-4558-0194": ("government_agency", "support", ["Restrict over wastewater/SICSO facilities", "Reconnaissance and ICS threat", "Safety hazard to field personnel"]),
     "FAA-2026-4558-0253": ("government_agency", "support_with_changes", ["UAFRs could block recurring inspection flights", "Streamlined process for statewide DOTs", "Publish UAFR data machine-readable"]),
     "FAA-2026-4558-0352": ("government_agency", "support_with_changes", ["Recognize municipal water/wastewater", "Exempt municipal-operated drones", "Streamline application for local government"]),
-    "FAA-2026-4558-0403": ("government_agency", "unclear", ["Virginia Dept of Aviation — comment in attachment"]),
+    "FAA-2026-4558-0403": ("government_agency", "support_with_changes", ["7460-style state stakeholder review of UAFR applications before FAA decision", "States should be able to apply for expedited UAFRs during regional emergencies (hurricanes)", "Integrate UAFR data with state UAS Flight Information Exchanges (VA, PA, WV, OH, OK FIX's)", "Tiered boundaries: property line sufficient for venues but not defense/CI facilities (e.g., Huntington Ingalls Shipyard espionage risk)", "UAFR applications shared with state agencies for NEPA compliance", "General aviation airport traffic patterns and approach/departure corridors should be eligible permanent UAFR areas"]),
     "FAA-2026-4558-0417": ("government_agency", "unclear", ["NY Attorney General — requests 30-day comment period extension"]),
     "FAA-2026-4558-0419": ("government_agency", "support_with_changes", ["9 bridges and 6 tunnels qualify", "Holistic network approach to infrastructure", "Preserve state authority over ROW", "Avoid diminishing state DOT role"]),
 
@@ -148,7 +148,7 @@ CURATED = {
     "FAA-2026-4558-0222": ("individual_other", "support_with_changes", ["Supports UAFR process", "Restrictions must be easy to find", "Facility ops without undue delay"]),
     "FAA-2026-4558-0012": ("individual_other", "unclear", ["Asks how rule interacts with existing SSI sites"]),
     "FAA-2026-4558-0298": ("individual_other", "unclear", ["Asks whether drones restricted over amusement parks"]),
-    "FAA-2026-4558-0218": ("academic", "unclear", ["Nevada UAS Test Site — comment in attachment"]),
+    "FAA-2026-4558-0218": ("academic", "support_with_changes", ["Commends FAA for 2209 NPRM as CI protection milestone", "§ 74.54 eligibility language should reference all criteria, not only subsection (c)", "§ 74.255 access notification: include Remote ID serial number; needs streamlined process", "UAFR boundaries should be proportional and evidence-based", "Preserve scalable commercial drone access alongside CI protection"]),
 }
 
 # Campaign stragglers: clearly railroad-worker grievance but missing keywords
