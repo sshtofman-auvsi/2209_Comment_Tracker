@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAA Section 2209 — Public Comment Tracker</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=DM+Mono:wght@400;500&display=swap');
+  :root {
+    --navy:#1a3560;--navy-deep:#0f2240;--sky:#4fb8d8;--sky-light:#e8f6fb;
+    --red:#c0292b;--red-light:#fdf0f0;--gold:#e8a020;--gold-light:#fdf6e8;
+    --green:#2a7a4f;--green-light:#edf7f2;--grey:#f4f5f7;--grey-mid:#e2e5ea;
+    --grey-dark:#6b7280;--text:#1a1f2e;--text-light:#4a5568;--white:#fff;--border:#dde1e8;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:'DM Sans',sans-serif;background:#f1f3f7;color:var(--text);font-size:14px;line-height:1.6;overflow-x:hidden;}
+
+  /* HEADER */
+  .site-header{background:var(--navy-deep);position:sticky;top:0;z-index:100;box-shadow:0 2px 12px rgba(0,0,0,.3);}
+  .header-inner{max-width:1300px;margin:0 auto;padding:10px 28px;display:flex;align-items:center;justify-content:space-between;gap:20px;}
+  .header-brand{display:flex;align-items:center;gap:14px;}
+  .brand-text{font-size:15px;font-weight:700;color:white;letter-spacing:-.01em;}
+  .brand-sub{font-size:11px;font-weight:500;color:rgba(255,255,255,.55);margin-top:1px;}
+  .brand-divider{width:1px;height:32px;background:rgba(255,255,255,.18);}
+  .header-meta{display:flex;align-items:center;gap:8px;}
+  .header-tag{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:4px 10px;border-radius:4px;background:rgba(255,255,255,.08);color:rgba(255,255,255,.6);font-family:'DM Mono',monospace;}
+  .deadline-chip{font-size:11px;font-weight:700;padding:4px 12px;border-radius:20px;color:white;letter-spacing:.03em;}
+  .chip-open{background:var(--green);}
+  .chip-closed{background:var(--grey-dark);}
+
+  /* HERO */
+  .hero{background:linear-gradient(135deg,var(--navy) 0%,var(--navy-deep) 60%,#0a1628 100%);padding:32px 28px 28px;position:relative;overflow:hidden;}
+  .hero::before{content:'';position:absolute;top:-80px;right:-80px;width:360px;height:360px;background:radial-gradient(circle,rgba(79,184,216,.1) 0%,transparent 70%);pointer-events:none;}
+  .hero::after{content:'';position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--sky) 0%,var(--red) 50%,var(--gold) 100%);}
+  .hero-inner{max-width:1300px;margin:0 auto;display:grid;grid-template-columns:1fr auto;gap:28px;align-items:start;}
+  .hero-label{font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--sky);margin-bottom:6px;font-family:'DM Mono',monospace;}
+  .hero-title{font-size:22px;font-weight:700;color:white;line-height:1.25;margin-bottom:6px;}
+  .hero-sub{font-size:12.5px;color:rgba(255,255,255,.55);max-width:600px;line-height:1.6;}
+  .hero-stats{display:flex;flex-direction:column;gap:7px;min-width:185px;}
+  .hero-stat{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:8px;padding:9px 15px;text-align:center;}
+  .hero-stat-val{font-size:22px;font-weight:700;color:var(--sky);line-height:1;margin-bottom:2px;font-family:'DM Mono',monospace;}
+  .hero-stat-label{font-size:10px;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.07em;}
+
+  /* STAT BAR */
+  .stat-bar{background:white;border-bottom:1px solid var(--border);}
+  .stat-bar-inner{max-width:1300px;margin:0 auto;padding:0 28px;display:flex;flex-wrap:wrap;}
+  .stat-item{padding:11px 20px;border-right:1px solid var(--border);display:flex;align-items:center;gap:8px;flex:1;min-width:140px;}
+  .stat-item:first-child{padding-left:0;}
+  .stat-item:last-child{border-right:none;}
+  .stat-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+  .dot-navy{background:var(--navy)}.dot-sky{background:var(--sky)}.dot-red{background:var(--red)}.dot-gold{background:var(--gold)}.dot-green{background:var(--green)}
+  .stat-val{font-size:16px;font-weight:700;color:var(--navy);line-height:1;font-family:'DM Mono',monospace;}
+  .stat-lbl{font-size:10px;color:var(--grey-dark);text-transform:uppercase;letter-spacing:.05em;white-space:nowrap;}
+
+  /* BODY */
+  .page-body{max-width:1300px;margin:0 auto;padding:22px 28px 60px;display:grid;grid-template-columns:1fr 300px;gap:20px;align-items:start;}
+  .main-col{display:flex;flex-direction:column;gap:0;}
+  .side-col{display:flex;flex-direction:column;gap:16px;}
+
+  /* CARD */
+  .card{background:white;border-radius:10px;border:1px solid var(--border);overflow:hidden;}
+  .card-header{padding:12px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;gap:10px;}
+  .card-header-left{display:flex;align-items:center;gap:8px;}
+  .card-icon{width:24px;height:24px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0;}
+  .icon-navy{background:var(--navy);color:white}.icon-sky{background:var(--sky-light);color:var(--navy)}.icon-red{background:var(--red-light);color:var(--red)}.icon-gold{background:var(--gold-light);color:#8a5a00}.icon-green{background:var(--green-light);color:var(--green)}
+  .card-title{font-size:13px;font-weight:700;color:var(--navy);}
+  .card-count{font-size:11px;font-weight:600;padding:2px 7px;border-radius:10px;background:var(--grey);color:var(--grey-dark);font-family:'DM Mono',monospace;}
+  .card-body{padding:16px;}
+
+  /* FILTERS */
+  .filters-bar{display:flex;gap:6px;flex-wrap:wrap;padding:10px 16px;border-bottom:1px solid var(--border);background:var(--grey);align-items:center;}
+  .search-box{flex:1;min-width:180px;padding:5px 10px;border:1px solid var(--border);border-radius:6px;font-size:12px;font-family:'DM Sans',sans-serif;color:var(--text);outline:none;}
+  .search-box:focus{border-color:var(--sky);}
+  .pill{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;border:1px solid var(--border);background:white;color:var(--text-light);cursor:pointer;transition:all .15s;white-space:nowrap;}
+  .pill:hover{border-color:var(--navy);color:var(--navy);}
+  .pill.active{background:var(--navy);color:white;border-color:var(--navy);}
+  .pill.active-sky{background:var(--sky);color:var(--navy-deep);border-color:var(--sky);}
+  .pill.active-gold{background:var(--gold);color:white;border-color:var(--gold);}
+
+  .result-bar{padding:6px 16px;font-size:11.5px;color:var(--grey-dark);background:white;border-bottom:1px solid var(--border);font-family:'DM Mono',monospace;}
+  .result-bar span{color:var(--navy);font-weight:700;}
+
+  /* COMMENT LIST */
+  .comment-list{display:flex;flex-direction:column;}
+  .comment-row{border-bottom:1px solid var(--border);padding:14px 16px;display:flex;flex-direction:column;gap:6px;transition:background .1s;}
+  .comment-row:last-child{border-bottom:none;}
+  .comment-row:hover{background:#fafbfc;}
+  .comment-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+  .commenter-name{font-size:13px;font-weight:700;color:var(--navy);}
+  .commenter-org{font-size:11.5px;color:var(--grey-dark);}
+  .comment-date{font-size:10.5px;color:var(--grey-dark);font-family:'DM Mono',monospace;margin-left:auto;}
+  .comment-body{font-size:12.5px;color:var(--text-light);line-height:1.6;}
+  .comment-body.truncated{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+  .expand-btn{font-size:11px;color:var(--sky);cursor:pointer;font-weight:600;border:none;background:none;padding:0;font-family:'DM Sans',sans-serif;}
+  .expand-btn:hover{text-decoration:underline;}
+  .attachment-note{font-size:11px;color:var(--grey-dark);font-style:italic;display:flex;align-items:center;gap:5px;}
+  .tag{font-size:10px;font-weight:700;padding:2px 7px;border-radius:4px;text-transform:uppercase;letter-spacing:.06em;}
+  .tag-attachment{background:var(--gold-light);color:#8a5a00;}
+  .tag-anon{background:var(--grey);color:var(--grey-dark);}
+  .no-results{padding:40px;text-align:center;color:var(--grey-dark);font-size:13px;}
+
+  /* SIDEBAR */
+  .side-stat{display:flex;justify-content:space-between;align-items:center;padding:9px 0;border-bottom:1px solid var(--border);font-size:12.5px;}
+  .side-stat:last-child{border-bottom:none;}
+  .side-stat-label{color:var(--text-light);}
+  .side-stat-val{font-weight:700;color:var(--navy);font-family:'DM Mono',monospace;}
+  .theme-row{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid var(--border);font-size:12px;}
+  .theme-row:last-child{border-bottom:none;}
+  .theme-bar-wrap{flex:1;margin:0 10px;height:5px;background:var(--grey-mid);border-radius:3px;overflow:hidden;}
+  .theme-bar-fill{height:100%;background:var(--sky);border-radius:3px;transition:width .4s;}
+  .theme-count{font-size:11px;font-family:'DM Mono',monospace;color:var(--grey-dark);white-space:nowrap;}
+  .update-note{font-size:11px;color:var(--grey-dark);text-align:center;padding:8px 16px;background:var(--grey);border-top:1px solid var(--border);}
+  .ext-link{color:var(--sky);text-decoration:none;font-size:12px;}
+  .ext-link:hover{text-decoration:underline;}
+
+  /* LOADING / ERROR */
+  .loading{padding:60px;text-align:center;color:var(--grey-dark);}
+  .spinner{width:28px;height:28px;border:3px solid var(--grey-mid);border-top-color:var(--sky);border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 12px;}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  @media(max-width:900px){
+    .page-body{grid-template-columns:1fr;}
+    .side-col{display:none;}
+    .hero-inner{grid-template-columns:1fr;}
+    .hero-stats{flex-direction:row;min-width:unset;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <div>
+        <div class="brand-text">AUVSI</div>
+        <div class="brand-sub">Regulatory Affairs</div>
+      </div>
+      <div class="brand-divider"></div>
+      <div class="brand-sub">Section 2209 NPRM — Public Comment Tracker</div>
+    </div>
+    <div class="header-meta">
+      <span class="header-tag">FAA-2026-4558</span>
+      <span id="deadline-chip" class="deadline-chip chip-open">Comments Open</span>
+    </div>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-label">FAA NPRM · Docket FAA-2026-4558</div>
+      <div class="hero-title">Restrict the Operation of Unmanned Aircraft<br>in Close Proximity to a Fixed Site Facility</div>
+      <div class="hero-sub">Public comment tracker for the Section 2209 proposed rule. Refreshes daily from regulations.gov. Comment period: May 6 – July 7, 2026.</div>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="stat-total">—</div>
+        <div class="hero-stat-label">Total Comments</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="stat-orgs">—</div>
+        <div class="hero-stat-label">Organizations</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="stat-days">12</div>
+        <div class="hero-stat-label">Days Remaining</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="stat-bar">
+  <div class="stat-bar-inner">
+    <div class="stat-item">
+      <div class="stat-dot dot-navy"></div>
+      <div>
+        <div class="stat-val" id="bar-total">—</div>
+        <div class="stat-lbl">Total Comments</div>
+      </div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-dot dot-sky"></div>
+      <div>
+        <div class="stat-val" id="bar-orgs">—</div>
+        <div class="stat-lbl">Organizations</div>
+      </div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-dot dot-gold"></div>
+      <div>
+        <div class="stat-val" id="bar-with-text">—</div>
+        <div class="stat-lbl">With Inline Text</div>
+      </div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-dot dot-red"></div>
+      <div>
+        <div class="stat-val" id="bar-attachments">—</div>
+        <div class="stat-lbl">Attachments Only</div>
+      </div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-dot dot-green"></div>
+      <div>
+        <div class="stat-val" id="bar-updated">—</div>
+        <div class="stat-lbl">Last Fetched</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-body">
+  <div class="main-col">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-header-left">
+          <div class="card-icon icon-navy">💬</div>
+          <span class="card-title">Public Comments</span>
+          <span class="card-count" id="visible-count">—</span>
+        </div>
+        <a class="ext-link" href="https://www.regulations.gov/document/FAA-2026-4558-0001/comment" target="_blank">View on regulations.gov ↗</a>
+      </div>
+      <div class="filters-bar">
+        <input class="search-box" id="search" type="text" placeholder="Search commenter, org, or keyword…">
+        <button class="pill active" data-filter="all" onclick="setFilter(this,'all')">All</button>
+        <button class="pill" data-filter="org" onclick="setFilter(this,'org')">Organizations</button>
+        <button class="pill" data-filter="individual" onclick="setFilter(this,'individual')">Individuals</button>
+        <button class="pill" data-filter="text" onclick="setFilter(this,'text')">Has Text</button>
+        <button class="pill" data-filter="attachment" onclick="setFilter(this,'attachment')">Attachment</button>
+      </div>
+      <div class="result-bar"><span id="result-label">Loading…</span></div>
+      <div class="comment-list" id="comment-list">
+        <div class="loading"><div class="spinner"></div>Loading comments from regulations.gov…</div>
+      </div>
+      <div class="update-note" id="update-note"></div>
+    </div>
+  </div>
+
+  <div class="side-col">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-header-left">
+          <div class="card-icon icon-sky">📋</div>
+          <span class="card-title">Docket Info</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <div class="side-stat"><span class="side-stat-label">Docket</span><span class="side-stat-val">FAA-2026-4558</span></div>
+        <div class="side-stat"><span class="side-stat-label">RIN</span><span class="side-stat-val">2120-AL33</span></div>
+        <div class="side-stat"><span class="side-stat-label">FR Doc</span><span class="side-stat-val">2026-08943</span></div>
+        <div class="side-stat"><span class="side-stat-label">Opened</span><span class="side-stat-val">May 6, 2026</span></div>
+        <div class="side-stat"><span class="side-stat-label">Closes</span><span class="side-stat-val">Jul 7, 2026</span></div>
+        <div class="side-stat"><span class="side-stat-label">Auth.</span><span class="side-stat-val">§ 2209 FESSA</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div class="card-header-left">
+          <div class="card-icon icon-gold">🏷️</div>
+          <span class="card-title">Themes in Comments</span>
+        </div>
+      </div>
+      <div class="card-body" id="themes-list">
+        <div style="color:var(--grey-dark);font-size:12px;">Loading…</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div class="card-header-left">
+          <div class="card-icon icon-green">🔗</div>
+          <span class="card-title">Related Documents</span>
+        </div>
+      </div>
+      <div class="card-body" style="display:flex;flex-direction:column;gap:8px;">
+        <a class="ext-link" href="https://www.regulations.gov/docket/FAA-2026-4558" target="_blank">Full Docket ↗</a>
+        <a class="ext-link" href="https://www.regulations.gov/document/FAA-2026-4558-0001" target="_blank">Proposed Rule Text ↗</a>
+        <a class="ext-link" href="https://www.regulations.gov/document/FAA-2026-4558-0002" target="_blank">Regulatory Impact Analysis ↗</a>
+        <a class="ext-link" href="https://www.regulations.gov/document/FAA-2026-4558-0003" target="_blank">Environmental Assessment ↗</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const COMMENT_PERIOD_END = new Date('2026-07-07T23:59:59-04:00');
+  const THEMES = [
+    { label: 'Remote ID / detection gap', keywords: ['remote id','passive','detection','non-cooperative'] },
+    { label: 'LAANC / automation', keywords: ['laanc','automat','real-time','near-real'] },
+    { label: 'Access pathways', keywords: ['access','pathway','whitelist','approval','deviation'] },
+    { label: 'First Amendment / media', keywords: ['first amendment','newsgather','journalism','media','press'] },
+    { label: 'Small business burden', keywords: ['small business','irfa','ria','cost','burden'] },
+    { label: 'Facility designation', keywords: ['designation','eligible','sector','critical infrastructure'] },
+    { label: 'Contractor / owner gap', keywords: ['contractor','owner','hired','third-party'] },
+    { label: 'C-UAS / security', keywords: ['c-uas','counter','security','weapon','threat'] },
+  ];
+
+  let allComments = [];
+  let activeFilter = 'all';
+  let searchQuery = '';
+
+  // Days remaining
+  const today = new Date();
+  const daysLeft = Math.max(0, Math.ceil((COMMENT_PERIOD_END - today) / 86400000));
+  document.getElementById('stat-days').textContent = daysLeft;
+  if (daysLeft === 0) {
+    document.getElementById('deadline-chip').textContent = 'Period Closed';
+    document.getElementById('deadline-chip').className = 'deadline-chip chip-closed';
+  }
+
+  async function loadComments() {
+    try {
+      const r = await fetch('comments.json');
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const data = await r.json();
+      allComments = data.comments || [];
+
+      // Stats
+      const total = allComments.length;
+      const orgs = new Set(allComments.map(c => c.organization).filter(Boolean)).size;
+      const withText = allComments.filter(c => c.comment_text).length;
+      const withAttachment = allComments.filter(c => c.has_attachment).length;
+
+      document.getElementById('stat-total').textContent = total.toLocaleString();
+      document.getElementById('stat-orgs').textContent = orgs.toLocaleString();
+      document.getElementById('bar-total').textContent = total.toLocaleString();
+      document.getElementById('bar-orgs').textContent = orgs.toLocaleString();
+      document.getElementById('bar-with-text').textContent = withText.toLocaleString();
+      document.getElementById('bar-attachments').textContent = withAttachment.toLocaleString();
+
+      const updated = data.last_updated ? new Date(data.last_updated) : null;
+      if (updated) {
+        document.getElementById('bar-updated').textContent = updated.toLocaleDateString('en-US', {month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'});
+        document.getElementById('update-note').textContent = `Last synced from regulations.gov: ${updated.toLocaleString('en-US', {dateStyle:'medium',timeStyle:'short'})} UTC`;
+      }
+
+      renderThemes(allComments);
+      renderComments();
+    } catch (e) {
+      document.getElementById('comment-list').innerHTML = `<div class="no-results">Could not load comments.json — run the fetch script first.<br><small>${e.message}</small></div>`;
+      document.getElementById('result-label').textContent = 'No data';
+    }
+  }
+
+  function renderThemes(comments) {
+    const textComments = comments.map(c => (c.comment_text || '').toLowerCase());
+    const total = Math.max(textComments.filter(t => t.length > 0).length, 1);
+    const rows = THEMES.map(t => {
+      const count = textComments.filter(text => t.keywords.some(kw => text.includes(kw))).length;
+      return { ...t, count };
+    }).filter(t => t.count > 0).sort((a,b) => b.count - a.count);
+
+    const max = rows[0]?.count || 1;
+    document.getElementById('themes-list').innerHTML = rows.map(t => `
+      <div class="theme-row">
+        <span style="font-size:12px;color:var(--text-light);flex:1;">${t.label}</span>
+        <div class="theme-bar-wrap"><div class="theme-bar-fill" style="width:${Math.round(t.count/max*100)}%"></div></div>
+        <span class="theme-count">${t.count}</span>
+      </div>
+    `).join('') || '<div style="color:var(--grey-dark);font-size:12px;">No inline text yet.</div>';
+  }
+
+  function getVisible() {
+    const q = searchQuery.toLowerCase();
+    return allComments.filter(c => {
+      if (activeFilter === 'org' && !c.organization) return false;
+      if (activeFilter === 'individual' && c.organization) return false;
+      if (activeFilter === 'text' && !c.comment_text) return false;
+      if (activeFilter === 'attachment' && !c.has_attachment) return false;
+      if (q) {
+        const haystack = [c.commenter, c.organization, c.comment_text, c.city, c.state_province].join(' ').toLowerCase();
+        if (!haystack.includes(q)) return false;
+      }
+      return true;
+    });
+  }
+
+  function renderComments() {
+    const visible = getVisible();
+    document.getElementById('visible-count').textContent = visible.length.toLocaleString();
+    document.getElementById('result-label').innerHTML = `Showing <span>${visible.length.toLocaleString()}</span> of <span>${allComments.length.toLocaleString()}</span> comments`;
+
+    if (!visible.length) {
+      document.getElementById('comment-list').innerHTML = '<div class="no-results">No comments match the current filters.</div>';
+      return;
+    }
+
+    document.getElementById('comment-list').innerHTML = visible.map(c => {
+      const name = c.commenter || (c.organization ? '' : 'Anonymous');
+      const org = c.organization;
+      const loc = [c.city, c.state_province].filter(Boolean).join(', ');
+      const date = c.posted_date ? new Date(c.posted_date).toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'}) : '';
+      const text = c.comment_text;
+      const long = text && text.length > 400;
+      const id = c.id.replace(/[^a-z0-9]/gi,'_');
+
+      return `
+        <div class="comment-row">
+          <div class="comment-meta">
+            ${name ? `<span class="commenter-name">${esc(name)}</span>` : ''}
+            ${org ? `<span class="commenter-org">${esc(org)}</span>` : ''}
+            ${!name && !org ? `<span class="tag tag-anon">Anonymous</span>` : ''}
+            ${loc ? `<span style="font-size:11px;color:var(--grey-dark);">${esc(loc)}</span>` : ''}
+            ${c.has_attachment ? `<span class="tag tag-attachment">Attachment</span>` : ''}
+            <span class="comment-date">${date}</span>
+          </div>
+          ${text ? `
+            <div class="comment-body ${long ? 'truncated' : ''}" id="body-${id}">${esc(text)}</div>
+            ${long ? `<button class="expand-btn" onclick="expand('${id}')">Read more ↓</button>` : ''}
+          ` : `
+            <div class="attachment-note">📎 Full comment submitted as an attachment — <a class="ext-link" href="${c.url}" target="_blank">view on regulations.gov ↗</a></div>
+          `}
+        </div>
+      `;
+    }).join('');
+  }
+
+  function expand(id) {
+    const el = document.getElementById('body-' + id);
+    const btn = el.nextElementSibling;
+    el.classList.remove('truncated');
+    btn.remove();
+  }
+
+  function setFilter(btn, filter) {
+    activeFilter = filter;
+    document.querySelectorAll('.pill[data-filter]').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    renderComments();
+  }
+
+  function esc(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  document.getElementById('search').addEventListener('input', e => {
+    searchQuery = e.target.value;
+    renderComments();
+  });
+
+  loadComments();
+</script>
+</body>
+</html>
