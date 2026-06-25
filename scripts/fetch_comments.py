@@ -54,7 +54,7 @@ def fetch_all_comment_ids():
     page = 1
     while True:
         data = get(f"{API_BASE}/comments", {
-            "filter[commentOnId]": DOCUMENT_ID,
+            "filter[docketId]": DOCKET_ID,
             "page[size]": PAGE_SIZE,
             "page[number]": page,
             "sort": "postedDate",
@@ -148,7 +148,7 @@ def main():
         "comments": comments,
     }
 
-    OUT_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False))
+    OUT_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {len(comments)} comments to {OUT_FILE}", file=sys.stderr)
 
 
