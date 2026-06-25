@@ -1,0 +1,346 @@
+[
+ {
+  "id": "FAA-2026-4558-0387",
+  "commenter": "Comment from HUNTRAK Defense Systems, Inc.",
+  "organization": "HUNTRAK Defense Systems, Inc.",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Re: Docket FAA-2026-4558; Notice No. 26-03; FR Doc. 2026-08943, &quot;Designation - Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot;; implementing Section 2209 of the FAA Extension, Safety, and Security Act of 2016.<br/><br/>HUNTRAK Defense Systems, Inc. respectfully submits these comments on the FAA&#39;s NPRM implementing Section 2209. HUNTRAK is an early-stage, U.S.-based developer of passive, receive-only, multi-sensor systems for small uncrewed-aircraft-system (UAS) detection and airspace awareness. Its work is limited to detection and situational awareness; it does not transmit, jam, decrypt, disable, interdict, or otherwise affect any aircraft or signal.<br/><br/>HUNTRAK supports a transparent, consistent process for eligible fixed-site facilities to request Unmanned Aircraft Flight Restrictions (UAFRs) while preserving the FAA&#39;s authority over the National Airspace System. We support the proposed Section 74.56 requirement that eligible facilities be able, directly or through a contracted service, to receive broadcast Remote Identification messages.<br/><br/>We respectfully recommend that the final rule:<br/><br/>1. Expressly recognize lawful passive detection. Clarify that new Part 74 does not prohibit fixed-site operators from deploying lawful, passive, receive-only detection technologies for situational awareness, compliance monitoring, and incident documentation, and that passive detection confers no airspace-control or enforcement authority.<br/><br/>2. Treat the passive-RF Remote ID minimum as a floor, not a ceiling. Because Remote ID reception alone cannot detect non-cooperative aircraft (drones not broadcasting Remote ID, or autonomous or RF-silent drones), confirm that more advanced lawful passive approaches (acoustic, electro-optical, infrared, and multi-sensor fusion) are acceptable means of meeting and exceeding the requirement.<br/><br/>3. Maintain a clear distinction between detection and mitigation. Passive detection receives information without transmitting toward, interfering with, controlling, or disabling an aircraft or signal. Mitigation raises materially different legal, safety, and spectrum considerations. The rule should address the two separately and make clear that authorizing a UAFR does not authorize mitigation.<br/><br/>4. Provide an accessible, workable application process usable by smaller facilities as well as large operators. Consistent with Section 74.56(4), the FAA should permit reliance on qualified contracted monitoring services while keeping responsibility for the UAFR with the eligible operator or proprietor.<br/><br/>5. Address Remote Identification data retention proportionately. If retention is required, set a reasonable, clearly-defined period with privacy, cybersecurity, and access-control safeguards; hosted platforms can support compliant, auditable retention. Any requirement should be proportionate to the cost burden on smaller facilities.<br/><br/>6. Use technology-neutral, standards-based requirements rather than favoring a single sensor type, protocol, or vendor; emphasize measurable functions, interoperability, cybersecurity, and data governance.<br/><br/>HUNTRAK appreciates the FAA&#39;s work to implement Section 2209. Clear recognition of lawful passive detection (distinct from mitigation, and able to extend beyond the passive-RF Remote ID minimum) will help operators understand their responsibilities and adopt appropriate awareness tools.<br/><br/>Respectfully submitted,<br/>HUNTRAK Defense Systems, Inc.<br/>Office of the Chief Executive Officer"
+ },
+ {
+  "id": "FAA-2026-4558-0389",
+  "commenter": "savanna dawkins",
+  "organization": "",
+  "state": "WI",
+  "date": "2026-06-22",
+  "text": "drones are unsafe and creepy and can cause a freight conductor to become distracted while protecting shove movements in the freight yard, potentially causing death or dismemberment, derailment, etc.<br/>drones should not be allowed near freight trains. they are risky and distracting, and it&#39;s difficult for employees to differentiate if the drone is being used by management/ FRA or a terrorist plotting an attack."
+ },
+ {
+  "id": "FAA-2026-4558-0393",
+  "commenter": "Blake Morris",
+  "organization": "",
+  "state": "TX",
+  "date": "2026-06-22",
+  "text": "I am a Trainman, a conductor, for Union Pacific. I&#39;m not against rules testing. I&#39;m not against safety evaluations, I&#39;m not against the FRA. But drones are a different can of worms. I&#39;ve seen countless videos of suicide drones crashing into transport vehicles, and drones dropping grenades into enemy positions. We haul giant tank cars of chemicals that turn into hydrogen cyanide gas upon contact with water. Over 100 tons of these chemicals per tank car, multiple cars per train. A shaped charge on a drone built in a garage would be more than enough to crack one of those cars wide open. The day my dispatcher tells me to stop my train and inspect it because someone called in about a train with a busted open tank car leaving behind a gas cloud is the day I don&#39;t just refuse to walk my train, but it&#39;s the day I abandon my train and start running upwind. The day I look up to see a drone hovering over me while I&#39;m yarding my train is the day I stop all movement and call 911 on my radio. I&#39;m not taking this drone stuff lightly, it&#39;s an extremely serious security risk. We do NOT need stupid managers flying drones over us for rules observations, I won&#39;t stand for it"
+ },
+ {
+  "id": "FAA-2026-4558-0400",
+  "commenter": "Comment from Gerrittsen Beach Fire Department / Volunteer Firemen’s Association of the City of New York",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "To the Federal Aviation Administration:<br/><br/>I am submitting this supplemental comment today, June 22, 2026, to add to the comment I previously submitted on May 7, 2026.<br/><br/>I support the FAA&#39;s goal. Sensitive facilities need protection from careless, unsafe, or malicious drone activity. Nobody should use a drone to interfere with emergency operations, harass people, fly recklessly, deliver contraband, or create a safety issue near critical infrastructure or public safety locations.<br/><br/>Since my original comment, New York has enacted a drone law that appears to address some of the same facility protection concerns as this UAFR rulemaking (NYS ARTICLE 280<br/>Offenses Relating to Unlawful Use of a Drone). That law creates a new prohibited space concept above and within 500 feet around certain locations, including fire department stations, police stations, dispatch stations, large gatherings, critical infrastructure, and schools.<br/><br/>I understand the purpose behind that law. My concern is that a 500 foot buffer around broad categories of locations could function like a state created no fly area, even though FAA is proposing a federal UAFR process for facility based UAS restrictions. That could unintentionally box out legitimate public safety drone operations.<br/><br/>The Gerrittsen Beach Fire Department operates a public safety drone program under Part 107. We use drones for brush fires, search and rescue, water rescue support, fireground and hazmat overwatch, storm checks, damage assessment, training, and mutual aid. These are public safety flights used to protect life and property.<br/><br/>In New York City, everything is close together. Firehouses, police facilities, schools, utilities, bridges, waterways, critical infrastructure, large gatherings, residential neighborhoods, and emergency response areas can all overlap. If federal UAFRs, state prohibited space rules, and local concerns overlap, public safety drone operators may not know which rule controls, who can approve the flight, whether FAA approval is enough, or whether an FAA compliant operation still creates a state issue.<br/><br/>During an emergency, that confusion can slow down operations meant to protect the public. Public safety departments should not have to guess during a brush fire, search and rescue call, water rescue, storm event, or hazmat incident whether they are about to violate a state airspace rule while operating under FAA rules and incident command.<br/><br/>That is why the FAA&#39;s UAFR process matters. Facility based drone restrictions should be handled through one clear FAA managed process. States and local governments should still be able to enforce laws against reckless, criminal, harassing, contraband related, or emergency interfering drone use. But creating airspace restrictions around facilities is different and should be coordinated through FAA.<br/><br/>I am especially concerned about recognized volunteer fire departments and similar emergency response organizations. Volunteer fire departments may not fit neatly into language written for government or law enforcement agencies, but we are still part of the emergency response system. When operating under incident command or supporting a local emergency response, the rules need to give us a practical way to operate.<br/><br/>I respectfully ask FAA to make the final rule clear that:<br/><br/>1. Public safety Part 107 operations should be allowed within standard UAFRs when connected to emergency response, incident assessment, training, preparedness, mapping, equipment checks, or safe launch and recovery.<br/><br/>2. Standard UAFRs should remain notice based, not permission based, for legitimate public safety operations.<br/><br/>3. During emergencies, public safety operators should be allowed to notify the facility as soon as reasonably possible when advance notice is not practical.<br/><br/>4. Recognized volunteer fire departments and emergency response organizations operating under incident command should be treated the same as other public safety operators for notification purposes.<br/><br/>5. FAA should explain how UAFRs interact with state and local drone laws so public safety operators are not caught between conflicting rules.<br/><br/>6. State and local governments may enforce laws against reckless, criminal, harassing, contraband related, or emergency interfering drone use, but facility based airspace restrictions should be handled through FAA.<br/><br/>7. UAFR applicants should consider impacts on public safety launch sites, recovery areas, training areas, mutual aid operations, and emergency response corridors.<br/><br/>The bottom line is simple. I support protecting sensitive facilities and stopping reckless or malicious drone use. But the final FAA rule should make sure public safety drone programs are not accidentally boxed out by overlapping federal, state, and local restrictions.<br/><br/>Respectfully submitted,<br/><br/>Daniel Cavanagh<br/>Chief of Department<br/>Gerrittsen Beach Fire Department<br/>President<br/>Volunteer Firemen&#39;s Association of the City of New York"
+ },
+ {
+  "id": "FAA-2026-4558-0403",
+  "commenter": "Comment from Virginia Department of Aviation",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "The attached comments are those provided by the Virginia Department of Aviation"
+ },
+ {
+  "id": "FAA-2026-4558-0405",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "As a railroad switchman with over 20 years of service, I have serious concerns regarding the use of drones by railroad management for operational testing and employee observation.<br/><br/>Railroad work requires constant situational awareness and focus. Employees must continuously monitor moving equipment, track conditions, radio communications, vehicle traffic, weather conditions, and the actions of fellow crew members. Any unnecessary distraction can reduce an employee&rsquo;s ability to safely perform these duties.<br/><br/>The presence of drones overhead creates a significant distraction. Rather than allowing employees to focus entirely on the safe execution of switching operations, workers become aware that they are being continuously monitored from above. This can shift attention away from the task at hand and toward the drone itself, reducing concentration on actual hazards present in the work environment.<br/><br/>Additionally, drones are often perceived not as tools for evaluating overall operational safety, but as tools used to identify minor technical violations or &ldquo;gotcha&rdquo; situations. This can encourage employees to focus excessively on avoiding small procedural errors rather than maintaining broad situational awareness and safe work practices.<br/><br/>For example, it is similar to issuing a speeding citation for driving 25.5 mph in a 25 mph zone while ignoring the overall context of safe driving behavior. When employees believe they are being scrutinized primarily for minor infractions, their attention can become divided between performing the work and anticipating how their actions appear from a drone&rsquo;s perspective.<br/><br/>Human factors research has consistently shown that distractions and divided attention increase risk in safety-sensitive occupations. The railroad industry should carefully consider whether drone-based observation may unintentionally create new hazards by diverting employees&rsquo; attention from the operational environment.<br/><br/>My concern is that increased focus on drone surveillance, rather than on the safe performance of railroad duties, could ultimately contribute to an accident or injury. Any safety program should prioritize improving situational awareness and hazard recognition, not introduce additional distractions into an already high-risk work environment."
+ },
+ {
+  "id": "FAA-2026-4558-0406",
+  "commenter": "Ken Pearson",
+  "organization": "",
+  "state": "MS",
+  "date": "2026-06-22",
+  "text": "Railroad use of drones create unnecessary risk to safety while in performance of our duties. I am a 22 year conductor, and since the introduction of these drones for testing purposes I have tripped over objects in my walking path while being distracted by the presence of the drone. It&rsquo;s never clear whether the drone is rail related or terroristic. I am also an Army veteran and the presence of the drone makes me very nervous and triggers ptsd from my military experience of dealing with unknown drones and drone strikes. <br/><br/>Thank you for your time."
+ },
+ {
+  "id": "FAA-2026-4558-0394",
+  "commenter": "David E Jones",
+  "organization": "",
+  "state": "TX",
+  "date": "2026-06-22",
+  "text": "I&#39;ve worked for the BNSF Railroad for 37 years and the last 32 years as an engineer. As you already know, crew sizes in most of our yards are conductor only. The job of switching cars, building and air testing trains is already hard enough when we had two people on the ground to do these task and now that it&#39;s just one, it&#39;s even harder. Most of the workers with any seniority and experience have left the yards to work on the road and a lot of them is for the one man crew size. So, now you have workers that are just starting their career and some with just a few years of experience working the yard jobs that had workers with 10 to 15 or 20 years of experience manning them and they will tell you drones would be a distraction to them. Now, you take a person that just hired out and do testing with a drone, their attention won&#39;t be staying alert and vigilant, instead they&#39;ll be watching the drone. Officials at these railroads, a lot of them not coming from a railroad background don&#39;t understand the problems with this type of testing. Workers will now be transfixed on the drone instead of paying attention to what they should be doing and now they&#39;re walking right in front of a car or engine because somebody thought that it would be a good idea to test with a drone. <br/>With all of that said, now comes the even bigger threat of the drone flying above the yard being from a terrorist trying to blowup tank cars filled with chlorine, gasoline or even a carload of explosives. So, if there was no testing done with drones, when a drone is seen in and around yards, workers would know fairly certain that it was a terrorist trying to do harm to the community and our country. <br/>"
+ },
+ {
+  "id": "FAA-2026-4558-0374",
+  "commenter": "Neekhoach Duhart",
+  "organization": "",
+  "state": "IL",
+  "date": "2026-06-22",
+  "text": "I think that using drones in a rail yard while conductors and engineers are operating on live tracks is ridiculous and it should be prohibited. Number one while we are doing shelves and while we are connecting trains, there should be nothing flying over you in the yard. You can also make mistakes while operating in the yard by lining switches wrong, and going in between equipment because you feel like something is buzzing or flying next to you for safety people are jobs for this unsafe act by management. Also, I think that Managment should do exactly what the train crew does prior to operating and do a job briefing to let us know what&rsquo;s going on in the yard and if they are going to fly drones over us, they failed to do so Managment does not let train Cruz know that they are flying active drones over us in the yard so that we can be aware that they are in the sky. It should be prohibited as well as any other G core rule or critical rule in the yard. If you wanna know what an employee is doing in the yard stop being lazy get up out of your seat and go and monitor if an employee is violating any critical rules you can give them corrective action prior to discipline instead of using a drone to terminate people when you&rsquo;re actually not there or out there on the rail tracks. Drone footage can be inaccurate also and it also can be fabricated which means that Managment can make up lies with a draw. Drona uses by management should be prohibited from any Railroad yard or on main line while operating and working with live and moving equipment. For the safety of the employees that is operating."
+ },
+ {
+  "id": "FAA-2026-4558-0379",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "I work for CSX transportation and I am all for rules being enforced for everyone&rsquo;s safety but these drones are a huge distraction on the job in my honest opinion. At the bare minimum they&rsquo;re a trip and fall hazard because you look up to see what the noise is and that breaks your focus."
+ },
+ {
+  "id": "FAA-2026-4558-0390",
+  "commenter": "Remington Parkman",
+  "organization": "",
+  "state": "MA",
+  "date": "2026-06-22",
+  "text": "I am a railroad conductor with years of experience working in active rail yards and around moving trains. Railroad operations require constant situational awareness, communication, and focus. Employees must monitor train movements, radio communications, equipment, vehicles, and coworkers while working in potentially hazardous environments.<br/><br/>The presence of drones in and around active rail facilities creates an unnecessary distraction in an industry where even a momentary lapse in attention can have serious consequences. Workers may find themselves looking up to determine whether a drone is a company-authorized aircraft, a hobbyist drone, or a potential security threat. That uncertainty alone diverts attention from critical job duties.<br/><br/>In many situations, it is difficult or impossible for railroad employees to distinguish between authorized operational drones and unauthorized civilian drones. When drones are observed near trains, hazardous materials, or critical infrastructure, workers are left to wonder whether they are observing legitimate activity or a potential threat. This creates unnecessary concern and can interfere with normal operations.<br/><br/>Rail yards already contain moving equipment, hazardous materials, and complex operations that demand full concentration. Introducing additional aerial activity in close proximity to these environments increases risk without providing any benefit to the employees responsible for safely conducting railroad operations.<br/><br/>I support stronger restrictions on drone operations near active rail facilities and critical railroad infrastructure in order to protect worker safety, operational security, and the safe movement of freight and passengers."
+ },
+ {
+  "id": "FAA-2026-4558-0396",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Rail testing by UAV is not a good way to conduct safety &ldquo;enforcement.&rdquo; I think everyone that doesn&rsquo;t work for rail if asked would be taken back by this practice. It is reminiscent more of a military operation on rail employees than anything within reason with no thought to the human factor. It makes doing our tasks with new reduced crew size even harder putting extra stress knowing there is always a presence from inward facing cameras, cameras in mounted positions in yards and right of ways. The increased use of drones instead of managers actually being present or rules classes just seems dehumanizing, there is no communication any more between transportation and management and the carrier no longer trains employees on rules or safety in order to cut costs. It&rsquo;s moving back to an (I caught you culture) and a hostile workplace in order for managers to move up the ladder. In my perspective as a retired military (disabled) veteran the first time I heard they were using drones on us I thought someone would come to there senses and realize this is not a good practice or fit for any industry. I guess I was wrong, anyone who works in  transportation will tell you this brings a stressful dehumanizing factor and has no place in rail testing."
+ },
+ {
+  "id": "FAA-2026-4558-0398",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Being a railroad employee how am I to know if I&#39;m being observed or if its a security issue! I feel like the drones should be used in other aspects of our industry. Just to watch someone do their job isn&#39;t the right use. Please do away with the railroad company&#39;s from using drones for testing"
+ },
+ {
+  "id": "FAA-2026-4558-0397",
+  "commenter": "Jason marlow",
+  "organization": "",
+  "state": "MN",
+  "date": "2026-06-22",
+  "text": "I have been a conductor on the ground for three years at this point.  Drones in our yards is a huge hot button with safety.  With the constant fear of losing our jobs already on the forefront of our minds alone with the daily rule changing and what&rsquo;s seems to be a focus on firing people instead of properly training people, if a drone is in the air, we focus more on the drone and the million tiny things that can now take us out of service than the safety and flow of the work we are trying to accomplish.  The work environment is already toxic enough without drones.  Adding that to the growing list of things that get us fired is just going to cause more injuries and distractions."
+ },
+ {
+  "id": "FAA-2026-4558-0370",
+  "commenter": "Hrant Gulesserian",
+  "organization": "",
+  "state": "CA",
+  "date": "2026-06-22",
+  "text": "To Whom It May Concern,<br/>I am a Part 107 Remote Pilot and commercial drone operator. While I support reasonable protections for truly sensitive facilities, I believe the proposed Section 2209 rule is overly broad and could create significant unintended consequences for both commercial and recreational drone operators.<br/>The proposal would allow a wide range of facilities to seek Unmanned Aircraft Flight Restriction (UAFR) status, potentially creating a patchwork of low-altitude restricted airspace that limits lawful drone operations. This would have a substantial impact on commercial operators who provide infrastructure inspections, construction documentation, surveying, emergency response support, filmmaking, and other valuable services. Restricting access to these areas could make many routine operations more difficult, costly, and time-consuming.<br/>As the owner of a commercial drone company serving the film, television, and advertising industries, I frequently operate in urban environments where electrical infrastructure, telecommunications facilities, rail corridors, and other potentially eligible sites are common. Requiring separate approvals from facility owners could delay projects and increase costs without providing a meaningful security benefit.<br/>The proposal also places unnecessary restrictions on recreational pilots. Many facilities that may qualify for UAFR designation are located near parks, open spaces, and long-established flying locations. Recreational pilots who comply with FAA rules, maintain visual line of sight, fly below 400 feet, and broadcast Remote ID should not automatically lose access to these areas.<br/>I am also concerned about over-designation. Not every infrastructure asset presents a national security risk. The FAA should require applicants to demonstrate a specific security vulnerability and show why existing laws and regulations are insufficient before granting a UAFR. Any restricted area should be limited to the minimum size necessary to address the identified concern.<br/>The drone industry has invested heavily in compliance, training, certification, and safety. Expanding restricted airspace without a clear, efficient authorization process could undermine innovation and economic growth while having little effect on individuals who intend to ignore the rules.<br/>I respectfully request that the FAA:<br/>Apply strict criteria for UAFR designation.<br/>Ensure restricted areas are narrowly tailored.<br/>Create a simple authorization process similar to LAANC.<br/>Preserve access for legitimate commercial operations.<br/>Allow reasonable recreational operations where appropriate.<br/>Prevent unnecessary expansion of restricted airspace.<br/>The FAA should protect critical infrastructure while preserving the ability of responsible drone operators to safely and legally use the National Airspace System.<br/>Respectfully,<br/>Hrant G."
+ },
+ {
+  "id": "FAA-2026-4558-0365",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Drones make me feel unsafe by the filling around while I&rsquo;m working around heavy equipment and it is a big distraction from what I have to be focused on they are not there for our safety they use them to fire us and it&rsquo;s a metal distress while trying to already follow safety rules that chance on a daily bases the fact that while riding equipping have a drone above you is very safety sensitive matter and a distraction to the task at hand"
+ },
+ {
+  "id": "FAA-2026-4558-0399",
+  "commenter": "Jeff Stewart",
+  "organization": "",
+  "state": "UT",
+  "date": "2026-06-22",
+  "text": "Drones are causing distractions for the proper concentration that the crews need to work safely and effectively"
+ },
+ {
+  "id": "FAA-2026-4558-0401",
+  "commenter": "G Rosales",
+  "organization": "",
+  "state": "UT",
+  "date": "2026-06-22",
+  "text": "I have worked for Union Pacific since 2017 as a conductor and locomotive engineer. Rail yards are already dangerous environments that require constant attention to moving trains, switches, equipment, radio communications, and fellow employees.<br/><br/>Since Union Pacific began using drones for operational testing and surveillance, I have noticed a change in my own behavior and mindset while working. Instead of focusing solely on the movement of trains and the hazards around me, I find myself wondering whether a drone is overhead and whether I am being watched or tested. After being disciplined through a drone-based operational test, that concern became even greater.<br/><br/>In my opinion, this creates a distraction in an environment where distractions can have serious consequences. Employees should be focused on safely performing their duties, not looking into the sky or worrying about whether a drone is observing them. I believe drone testing has the unintended effect of shifting attention away from the hazards that can actually injure or kill railroad employees.<br/><br/>Frontline railroad workers are the people who understand these risks best because we work around them every day. Before allowing expanded drone operations in active rail yards, the FAA should consider how these practices affect employee attention, situational awareness, and overall safety.<br/><br/>Active rail yards contain moving trains, heavy equipment, and hazardous materials. Adding drones used for surveillance and testing creates additional distractions and security concerns in an already high-risk environment. Based on my firsthand experience, I do not believe these practices improve safety, and I believe railroad employees should be consulted before they become normalized throughout the industry."
+ },
+ {
+  "id": "FAA-2026-4558-0402",
+  "commenter": "Kevin Peck",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Rail conductor/ engineer of almost 5 years. Drones overhead are creating distractions, and impact work in the rail yard. Hard to not notice them and take eyes off of the necessary work. This shouldn&#39;t be allowed. Eyes off work equals unsafe workplace."
+ },
+ {
+  "id": "FAA-2026-4558-0404",
+  "commenter": "Frank Sicilia",
+  "organization": "",
+  "state": "ID",
+  "date": "2026-06-22",
+  "text": "I&rsquo;m a 33 year career railroad engineer. Our rail yards are dangerous enough without having drones flying overhead. There are so many safety concerns with this I&rsquo;m truly surprised you&rsquo;re actually letting this type of activity happen. The risks vs reward do not add up. We all deal with and understand operations testing. When you allow laziness and that&rsquo;s what this is, that&rsquo;s where problems really start. Complacency breads contempt. The hazardous environment we work in already has too many dangers to deal with without having to worry about drones. There&rsquo;s such a security risk to this as well. No one will be able to distinguish if this is a railroad drone or a terrorist drone. We transport millions of gallons of hazardous chemicals, government equipment, and items that are vital to our nations security and infrastructure. In truth this should be a complete no fly zone as it is. Thank you for your time."
+ },
+ {
+  "id": "FAA-2026-4558-0395",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "The growing push for railroads to use drones during operational testing is creating real safety concerns for the people actually working in the field. The biggest issue isn&rsquo;t the technology itself &mdash; it&rsquo;s the way it distracts workers from the immediate hazards around moving equipment. When you&rsquo;re on active track, every ounce of attention matters. Adding drones overhead, buzzing cameras, and the feeling of being monitored pulls focus away from situational awareness, which is the one thing that keeps people alive out there.<br/><br/>On top of that, corporate cost‑cutting and the constant demand to &ldquo;do more with less&rdquo; are already stretching field employees thin. Reduced staffing, fewer tools, and unrealistic expectations all contribute to fatigue &mdash; and fatigue is one of the most dangerous conditions in railroad operations. When workers are exhausted and still pressured to meet impossible standards, introducing drone surveillance only amplifies the stress.<br/><br/>Increased discipline and the sense of being watched from above don&rsquo;t make the job safer. They make it harder for employees to focus on identifying real hazards in the field. Instead of looking for unsafe conditions, workers end up worrying about being written up for minor mistakes caught on camera. That shift in attention is dangerous, and it undermines the very safety culture management claims to support.<br/><br/>If drones are going to be used at all, the priority must be protecting workers &mdash; not policing them. Until the industry addresses distraction risks, fatigue, understaffing, and unrealistic expectations, drone testing will continue to create more hazards than it solves."
+ },
+ {
+  "id": "FAA-2026-4558-0373",
+  "commenter": "Michael Smith",
+  "organization": "",
+  "state": "IL",
+  "date": "2026-06-22",
+  "text": "I am a 25 year veteran railroad conductor that works a block away from an airport. The railroad is an extremely dangerous place to work and it requires an emense amount of situational awareness and focusing on the task at hand, especially with Remote Control Operations (RCO). The last thing we as railroaders need is to worry about a drone flying over our head and losing that situational awareness. We shouldn&#39;t have to guess whether the drone above a chlorine car is a terrorism threat or a standard efficiency Test while we are trying to make a coupling. Please do not allow drones to be used on the railroad."
+ },
+ {
+  "id": "FAA-2026-4558-0380",
+  "commenter": "James Oreilly",
+  "organization": "",
+  "state": "OH",
+  "date": "2026-06-22",
+  "text": "Good afternoon,<br/><br/>I&rsquo;d like to take a minute to share my thoughts on drones operating in the vicinity of rail yards. As a certified conductor and locomotive engineer with 20 years of service for a Class 1 railroad, I have plenty of experience with switching and industry work. Focus and attention to the task at hand is paramount. Distractions can absolutely contribute to damage to rail equipment, personal injury, and even death. My railroad stresses the importance of focus and limiting distractions. Because of this, I&rsquo;m sure they have no interest in drones hovering over rail yards while employees are conducting switching operations. The buzz of a drone changing elevation and direction would certainly take your focus off the task at hand. Additionally, the widespread use of drones in war zones and use in other criminal activity would add to employee anxiety at a time when focus is key. In closing, we have done a good job at limiting distractions in our work place. The last thing we need is unmanned aircraft buzzing over our heads. Drones have no place in our yards."
+ },
+ {
+  "id": "FAA-2026-4558-0382",
+  "commenter": "Daniel McNamara",
+  "organization": "",
+  "state": "WA",
+  "date": "2026-06-22",
+  "text": "22Year Conductor/switchman.<br/><br/>My concern is part of railroad lead programs on how we are the first line of defense against infrastructure for the railroad.  Along with this being a active distraction to our completion of our duties, I fail to understand how we are supposed to identify potential risk, and assess in real time if it&rsquo;s a railroad operator or potential bad character looking for potential holes in the railroad for attack potential.  As is common knowledge we deal many hazardous materials with real potential for safety issues.  As drones are often easily accessible now a days I don&rsquo;t see how we can properly notify our management teams of risks that we see as front line works.  It will become just another drone and many workers won&rsquo;t even give the time of day to secure our facilities, and have risk assessments in place for terrorist activities."
+ },
+ {
+  "id": "FAA-2026-4558-0384",
+  "commenter": "Chad Chapman",
+  "organization": "",
+  "state": "WY",
+  "date": "2026-06-22",
+  "text": "I am an Engineer for the Union Pacifi. I know that having drones harassing employees while working causes undue distraction that is not only dangerous but has the possibility of deadly consequences. Please make it illegal to fly drones around any area where any railroad work is happening."
+ },
+ {
+  "id": "FAA-2026-4558-0386",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Hello! Thanks for the opportunity to hear my voice on this subject. I am an active railroad worker of 22 years. I have found yards and the railroad industry to be extremely dangerous and difficult to maneuver without even more distractions such as drones flying around my head while I&rsquo;m switching tons of heavy equipment and hazardous materials. The class one railroads continue to find ways to belittle ourselves and our jobs with constant harassment of testing from drones, managers and cameras everywhere! It is hard to stay focused and everyone is scared to do their jobs because of this! They are using these harassment tactics to get us fired! We don&rsquo;t know if this drone is a civilian drone, terrorist drone or a police drone? We are constantly looking to the skies while trying to do our jobs and how is this safe?? It&rsquo;s not. But they love it so they can fire some more people and get their testing quotas in. We shouldn&rsquo;t have to guess if it&rsquo;s Joe Blow manager trying to get his bad boy tickets in/firings or a terrorist flying above our hazmat cars. We need your help of eliminating these dangerous obstacles and distractions that lead to disruptions and termination of employment. It also leads to more injuries as we look to the skies to see who it it is or if they are watching. I&rsquo;m asking you to consider getting rid of all drones on all railroad properties. Thanks for your time and attention on this issue."
+ },
+ {
+  "id": "FAA-2026-4558-0391",
+  "commenter": "Jordan Boone",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "As an employee for 21 years as a conductor, there are so many distractions with out the need of something flying around are heads. Let me name a few.  Never knowing when we are going to work, rest is so hard to manage and by science says that our focus suffers when we don&rsquo;t get the proper rest.  Railroads line ups to go to work are never accurate.  Getting proper rest is unattainable by railroad lineups.   Missing family/children events way heavy on our conscience at work that happen on so may occasions that another distraction like a drone puts another risk."
+ },
+ {
+  "id": "FAA-2026-4558-0392",
+  "commenter": "Jeff McFadden",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-22",
+  "text": "Drones operating over railroad workers is a very dangerous distraction and diverts our attention away from trying to make switching operations a safe and focused task. We don&rsquo;t need these types of distractions whether it is a company operations test interfering and dangerously distracting our attention and focus or trying to gauge if its an illegal crime in progress or even a terrorist attack. This job already has enough risks associated with it and throwing more diversions is nothing but increasing the danger and risk of injury and accidents. Drones over railroad workers is a very dangerous distraction, and a very, very bad idea. It should be made nothing short of illegal."
+ },
+ {
+  "id": "FAA-2026-4558-0368",
+  "commenter": "Guy Benning",
+  "organization": "",
+  "state": "MO",
+  "date": "2026-06-22",
+  "text": "As a conductor of 14 years service  I find that the job of conductor is a very demanding in situations where there is active work going on   so in theses situations when there is work going on it is a huge distraction to have a drone flying around when you are trying to stay focused on safety and work to be performed  but have a constant buzzing sound flying around like a mosquito you can hear but just can&#39;t get rid of   thank you"
+ },
+ {
+  "id": "FAA-2026-4558-0388",
+  "commenter": "Eric Jenness",
+  "organization": "",
+  "state": "TX",
+  "date": "2026-06-22",
+  "text": "As a train conductor, my duties are safety sensitive and include significant hazards. These hazards include physical crushing hazards to myself resulting in maiming or death, as well as toxic chemicals that could cause a mass casualty event of released.<br/>   I need every bit of concentration I have at all times during critical moves such as &quot;shoving&quot;, or directing back-up maneuvers using radio transmissions. <br/>   At my carrier, moments such as these require what is termed a &quot;cab red zone&quot;, or CRZ. During a CRX, we may be disciplined or fired for making any conversation not related to the task at hand, including job duties not pertinent to the present moment. <br/>   Railroad managers are currently commissioned to fly drones overhead while we are engaging in shoves and other moves necessitating a CRZ. I strongly feel that being distracted by a drone is a direct violation of the Cab Red Zone intent, which is to ensure that our focus is on the task at hand. <br/>    My ability to concentrate is highly stressed during a drone observation by management, and that endangers not just myself but also the public with the risk of a release of hazardous materials.<br/>"
+ },
+ {
+  "id": "FAA-2026-4558-0413",
+  "commenter": "Trent Yarbrough",
+  "organization": "",
+  "state": "MO",
+  "date": "2026-06-23",
+  "text": "I am a RR Switchman with 28 years experience on a class 1 railroad.RRs employees are aging out with a severe need for new hires. Drones are an obvious distraction to any employee and will add distractions and nervousness to new employees that I believe creates an even larger danger in years to come."
+ },
+ {
+  "id": "FAA-2026-4558-0409",
+  "commenter": "Duston STONE",
+  "organization": "",
+  "state": "MO",
+  "date": "2026-06-23",
+  "text": "I have been a railroad conductor for 20 years. Today, I want to address the issue of drones operating near real yards and main lines in the railroad industry. This safety-sensitive environment is becoming increasingly hazardous due to the rising presence of drones on and around railroad property, especially in light of heightened concerns about terrorism. It is often difficult to distinguish between friendly and potentially hostile drones.<br/><br/>I believe that all drones should be prohibited in proximity to railroad equipment. We have observed a growing number of drones flying over and monitoring railroad assets, including intermodal containers, which raises concerns about theft. The increasing presence of these drones over the past few years has become a significant distraction for railroad workers, particularly given the safety-sensitive nature of our work and the presence of hazardous materials and moving machinery.<br/><br/>When railroad companies operate drones, they should inform all crew members on the ground beforehand to prevent confusion and anxiety about potential threats. In conclusion, I strongly advocate for a ban on drones in all rail yards and along main lines. Additionally, any railroad company flying a drone must notify ground crew members to ensure their safety and prevent accidents. Thank you."
+ },
+ {
+  "id": "FAA-2026-4558-0412",
+  "commenter": "Willie Wilson",
+  "organization": "",
+  "state": "MS",
+  "date": "2026-06-23",
+  "text": "I have been personally ridiculed by drones. I have failed twice both times I seen the drone and knew they were there, but the anxiety and excitement caused me to mess up. It caused my blood pressure to go up anxiety to go up. I was nervous. I was scared and I got failed both times. I do not think they should fly drones watching us work. it took me a few hours to get my nerves back calm after they failed me."
+ },
+ {
+  "id": "FAA-2026-4558-0408",
+  "commenter": "Raleigh Smith",
+  "organization": "",
+  "state": "ID",
+  "date": "2026-06-23",
+  "text": "Hello, This comment is about The FAA&#39;s purposed UAFR Plan and its importance in all rail yards in the United States. I&#39;m a TY&amp;E employee for BNSF Railway with almost 4 years of experience.  Representatives of the FAA should be aware that  any UA&#39;s in rail yards for any reasons poses a serious risk of security to the U.S. as well as its citizens. Not only do we work with, store and unload security safety material like nuclear material, explosives, poisonous gases in these yards we transport them in dense urban areas that could cause catastrophic events if said materials were tracked with UA&#39;s and tampered with for acts of terrorism. Rail yards are extremely dangerous already, willfully allowing Rail carriers and the public alike to use UA&#39;s for Photography, Operations testing etc. not only adds more distractions to an already dangerous environment it invites situations that could cause serious injury or fatality."
+ },
+ {
+  "id": "FAA-2026-4558-0410",
+  "commenter": "Gregory Henson",
+  "organization": "",
+  "state": "MO",
+  "date": "2026-06-23",
+  "text": "I have been with the railroad for 19 years and 9 months. We were working as a full crew, one engineer and one foreman and one helper. This day we were building a cut of cars for an industry switch. I was the helper this day and working down in the track. I heard this loud buzzing around me, and got distracted by this noise, looking around to see where it was coming from. This point, I called the foreman to halt the operation, as we both had discovered it was a hit team doing ops testing. Once we called it out, they came and told us of all the failures they found. Thus creating unsafe conditions with this distraction from looking up to find out what was making this noise. I had the control of the movement with car counts, but stopped immediately to not cause a hazardous situation to occur. I have to say this type of ops testing is very dangerous and extremely distracting to our already dangerous environment. I would prefer they do ops test the normal way. Not with this distracted noise making."
+ },
+ {
+  "id": "FAA-2026-4558-0411",
+  "commenter": "Kevin Southworth",
+  "organization": "",
+  "state": "UT",
+  "date": "2026-06-23",
+  "text": "This is very simple. For one they make you look up. Fatality or injury. Two, if you&rsquo;ve ever been in the military that&rsquo;s my resignation papers. This used to be a railroad not a war zone or a playground for hobbyists.  How this ever got approved and not rejected immediately on a safety violation by the FAA or the railroads in the consideration for a railroad workers life has made my me highly question my career with a railroad that uses drones."
+ },
+ {
+  "id": "FAA-2026-4558-0407",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-23",
+  "text": "Rail yards are dangerous by nature and us workers need to be focused and aware of our surroundings and don&rsquo;t need distractions interfering with safety. Drones are a distraction."
+ },
+ {
+  "id": "FAA-2026-4558-0415",
+  "commenter": "Anonymous Anonymous",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-24",
+  "text": "Good morning. My concerns are definitely about our safety in regards to drone operations both in rail yards and industries. The issue is, there&rsquo;s literally no way to guarantee protection against equipment malfunctions 300 ft in the air. Any debris falling from such heights can be catastrophic to the community in the event that there&rsquo;s some sort of interaction with the industries&rsquo;s product and equipment causing a reaction. Working under the immense pressure knowing there could possibly be drones above you causes distraction and in many ways increases the chances of error while working on, with and around heavy equipment. The risks of toxic chemical spills, explosions, and or bodily injuries should be mitigated at all cost and What we can&rsquo;t see tends to be more impactful while preventing us from being able to protect our selves and others. Our safety should be top priority and drone operations are amongst my biggest concerns."
+ },
+ {
+  "id": "FAA-2026-4558-0414",
+  "commenter": "Comment from One Ring Drones",
+  "organization": "One Ring Drones",
+  "state": "",
+  "date": "2026-06-24",
+  "text": "Subject: Comments on NPRM &ndash; Unmanned Aircraft Flight Restrictions (UAFRs) &ndash; Docket FAA-2026-4558.<br/><br/>I am a professional Part 107 remote pilot and operator with 4 years of experience providing commercial drone services across the United States. I support the FAA&rsquo;s effort to address legitimate safety and security concerns at critical infrastructure sites through a clear, standardized process.  However, I urge the FAA to finalize a rule that is minimally burdensome on lawful commercial operators and maintains the highest possible bar for approving flight restrictions.  <br/><br/>Key Recommendations:  <br/>1. Preserve routine overflight access. Professional drone pilots routinely need to transit or operate near critical infrastructure for essential commercial and public-benefit work (e.g., infrastructure inspections, utility corridor mapping, construction monitoring, emergency response support, and precision agriculture). Blanket or easily granted restrictions would unnecessarily disrupt these operations and harm the commercial UAS industry.<br/><br/>2. Set a very high bar for restricted airspace approval. UAFR requests should only be granted when the applicant provides clear, documented, site-specific evidence of credible threats that cannot be adequately mitigated through existing tools (Remote ID, LAANC, airspace coordination, or security protocols).  National security or homeland security justifications must meet a rigorous standard and include input from relevant federal security agencies, not merely local preference.<br/><br/>3. Minimize bureaucracy and keep processes simple. Any approved UAFR must include clear, publicly available boundaries, straightforward waiver/transit procedures, and advance notification requirements that do not exceed what is operationally necessary. Excessive paperwork, repeated renewals, or vague approval criteria would create undue regulatory burden on small business operators.  Ideally, approvals for overflight would be online, automated and similar to the current LAANC approval system for airspace management - even include this category in the current LAANC approval system<br/><br/>4. Protect legitimate commercial activity, like flights by Part 107 drone operators. The final rule should explicitly recognize that safe, compliant Part 107 operations (including visual line-of-sight transits and data-collection flights) are generally compatible with critical infrastructure protection when Remote ID is broadcast and basic coordination occurs.<br/><br/>A balanced rule that protects genuine high-risk sites without creating a patchwork of overly restrictive zones will best serve both national security and the continued safe integration of commercial drones.Thank you for considering these comments.Respectfully submitted,<br/>Daniel Snyder<br/>One Ring Drones - EIN# 87-3385928<br/>Naples FL<br/>oneringdrones@gmail.com<br/>Professional Remote Pilot &ndash; Part 107 - 4620670<br/><br/>"
+ },
+ {
+  "id": "FAA-2026-4558-0416",
+  "commenter": "Dan Mitchell",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-24",
+  "text": "I submit this comment in strong support of the proposed rule establishing Unmanned Aircraft Flight Restrictions (UAFRs) around critical infrastructure under Section 2209 of the FAA Extension, Safety, and Security Act of 2016.<br/><br/>The Security Imperative:<br/><br/>I write as a former U.S. Marine Corps Signals Intelligence and Electronic Warfare Officer, with professional experience in wireless communications, satellite systems, and defense technology consulting. The threat this rule addresses is not theoretical from my vantage point.<br/><br/>UAS platforms are no longer limited to commercial imaging or recreation. Their use for reconnaissance, site mapping, and payload delivery against fixed infrastructure has been documented in active conflict environments and cited as an emerging domestic threat by federal intelligence and law enforcement agencies. A malicious actor can conduct pre-attack surveillance without trespassing, identify hazardous material locations, and in a weaponized configuration execute an attack with no current regulatory mechanism to clearly prohibit it. The UAFR framework fills a critical and long-overdue gap.<br/><br/>The vulnerability surface is broader than commonly discussed. Chemical facilities, water treatment plants, energy nodes, and transportation hubs represent the obvious tier. But the FAA should also weigh the threat profile of high-density venues including stadiums, amusement parks, and large commercial entertainment districts. These are significant economic centers of gravity with concentrated civilian populations. A drone-delivered payload or weaponized swarm at such a venue carries mass casualty and economic disruption potential rivaling traditional infrastructure targets. Designation criteria should be interpreted broadly enough to include high-density venues meeting the threshold for regional or national debilitating impact.<br/><br/>Buffer zone boundaries should be defined narrowly and facility-specifically rather than as broad circular designations. A standardized fast-track authorization pathway for vetted Part 107 operators, analogous to LAANC, should be embedded in the final rule.<br/><br/>Design the Rule to Evolve:<br/><br/>The FAA should resist structural rigidity here. Counter-UAS detection and mitigation technology is advancing rapidly. Standoff distances necessary today may be reducible as detection matures and automated response solutions allow humans to move from being &quot;in the loop&quot; to &quot;on the loop&quot; with machine-assisted mitigation.<br/><br/>Today, maximum standoff is warranted because detection and response capabilities are not yet mature or universally deployed. A facility lacking certified counter-UAS detection, integrated law enforcement protocols, and Remote ID enforcement capability needs more airspace buffer because human response timelines remain substantial. As capabilities mature, the FAA should have built-in mechanisms to adjust UAFR parameters downward for facilities demonstrating adequate detection and response capability. The final rule should include a structured review process and mandatory renewal provisions to prevent designations becoming permanent by default.<br/><br/>A Note on the Comment Record:<br/><br/>The FAA should evaluate a significant portion of this docket with clear-eyed context. A majority of comments originate from railroad workers directed to comment by SMART-TD, a major rail labor union, through a coordinated campaign documented on their national website. The core grievance is railroad management using drones to conduct Operations Testing, which is workplace surveillance on company property. The union separately petitioned the FAA under Docket No. 2025-1908 to prohibit this. A UAFR restricts external operators. It cannot restrict a facility owner operating drones on their own property. This is a labor-management dispute belonging in arbitration or OSHA proceedings, not FAA airspace regulation.<br/><br/>To be fair, comments addressing the inability to distinguish a management drone from a hostile actor over hazardous rail cars raise a concern genuinely within scope. That security ambiguity deserves serious weight. But comments centered on employer surveillance anxiety are not substantive airspace security arguments. The FAA&#39;s obligation under the APA is to weigh arguments on their merits. This comment volume reflects union organizing capacity, not the strength of the underlying security case.<br/><br/>Finalize this rule to serve its actual purpose: protecting critical infrastructure and high-density civilian venues from a credible and evolving drone threat, with built-in flexibility to adapt as counter-UAS technology and legal response frameworks mature.<br/><br/>Respectfully submitted,<br/><br/>A former USMC SIGINT/EW Officer &amp; Defense and Security Consultant"
+ },
+ {
+  "id": "FAA-2026-4558-0418",
+  "commenter": "Jeremy Hickman",
+  "organization": "",
+  "state": "OH",
+  "date": "2026-06-25",
+  "text": "Engineer/Conductor 16 years with the railroad.  Switching operations are inherently dangerous enough without MTOs flying drones over the operation.  Employees need to be vigilant at all times due to the safety sensitive operation, noticing trespassers, complying with rules and regulations and they want to fly drones overhead which will and does create a distraction.  The people flying the drones are barely trained in safe operation of the drone and there are numerous incidents probably not recorded by the carrier of drones being unsafely utilized and crashed at these yards and terminals.  How will employees know when it&rsquo;s a rule observation flight or an active terrorist situation, not to mention the number of combat veterans who are employed by the railroads which a drone flight could trigger a ptsd event further creating that loss of focus or distraction that could be fatal in switching operations."
+ },
+ {
+  "id": "FAA-2026-4558-0419",
+  "commenter": "Comment from Virginia Department of Transportation",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-25",
+  "text": "DEPARTMENT OF TRANSPORTATION\nStephen C. Brich, P.E. 1221 East Broad Street (804) 482-5818\nCommissioner Richmond, Virginia 23219\nJune 15, 2026\nU.S. Department of Transportation (DOT)\n1200 New Jersey Avenue SE, Room W58 213\nWest Building 5th Floor\nWashington, DC 20590 0001.\nSubject: Federal Aviation Administration; Notice of Proposed Rulemaking; Designation\nRestrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility [Docket\nNo. FAA 2026 4558; Notice No. 26-03]\nTo Whom It May Concern:\nThe Virginia Department of Transportation (VDOT) appreciates the opportunity to provide\ncomments in response to the Federal Aviation Administration (FAA) Notice of Proposed\nRulemaking (NPRM) -Restrict the Operation of Unmanned Aircraft in\naddress\ntechnical considerations relevant to the proposed regulation, with a particular focus on potential\nconflicts with 23 C.F.R. Part 710.\nI. FAA Proposed Rule Summary\nThis action would implement section 2209 of the FAA Extension Safety and Security Act of\n2016, by establishing a process for operators and proprietors of certain fixed site facilities to\nrequest and maintain an unmanned aircraft flight restriction (UAFR). The proposal also\nestablishes requirements for applicants to demonstrate the unmanned aircraft flight restriction is\nnecessary for: aviation safety, protection of people and property on the ground, national security,\nor homeland security. Lastly, the proposal identifies the types of operations that are allowed in\nthe UAFR.\nII. Virginia Department of Transportation (VDOT)\nVDOT operates the third largest state-maintained highway system in the United States, behind\nonly North Carolina and Texas. VDOT manages 59,672 centerline miles of roadway, of which\nabout 5000 centerline miles are Interstate Highway with limited access controls. Since 2016,\nVDOT has also advanced innovation in transportation management through its safety-driven\nUnmanned Aircraft Systems (UAS) program, operating under both FAA 14 C.F.R. Part 107 and\nPublic Aircraft Operations - UAS authorization under 49 U.S.C. § 40125(a)(2).\nWE KEEP VIRGINIA MOVING\n\nVDOT Comments to FAA\nDocket No. FAA 2026 4558; Notice No. 26-03\nFAA NPRM: Designation Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility\nPage 2 of 6\nIII. General Position\nVDOT supports the intent of the FAA proposed rulemaking and respectfully requests that FAA\nprovide clarification in the proposed rulemaking in response to the following comments. VDOT\nsecurity, safety, and transparency. VDOT believes that\ntransportation interagency coordination will be critical to the successful implementation of this\nrulemaking. VDOT and ly supported efforts will be key to avoiding any\nunintended consequences.\nIV. NPRM Comments\nUnder this proposed rule, VDOT has preliminarilyidentified nine (9) highway bridges and six\n(6) tunnels that serve 50,000 or more vehicles daily and have a structure length of at least a half\nmile that would qualify under this proposed rulefor a UAFR.\nVDOT believes that a collaborative approach among owners of critical infrastructure and with\nthe FAA is essential to accomplishing our shared objective of\non the ground. Our mission sets have distinctions that present implementation\nchallenges beyond just restricting UAS overflight.\nWhile VDOT welcomes the federal protections afforded to our qualifying sites, VDOT also\nrecommends that the FAA adopt a holistic approach to critical infrastructure, and in particular\nthe security of transportation system, looking beyond the singular fixed site and considering\nthe impacts on the whole network of systems. The FAA should consider considering together all\ncritical infrastructure assets in a certain area, not looking at the various critical infrastructure\nassets as mutually exclusive. As an example, within a 5-mile segment of highway right-of-way,\nthere may be several critical infrastructure assets (e.g.,cellular towers, electric power stations\nand communication conjunction boxes, natural gas terminal) that all have separate perimeter\nfencing and controlled access points. These are just a few examples of where critical\ninfrastructure nodes intersect and may not always necessarily be located on facilities that meet\nthe UAFR criteria stated in the proposed federal rule.\nThe transportation infrastructure regulations should allow for ability to protect the\ninfrastructure areas that VDOT owns because that would best promote the public interests in\nsafety and security without VDOT needing toprovide additional justification to FAA regarding\nthe need for imposing additional restrictions pursuant to safety and security requirements\nalready granted to VDOT under federal or state laws.\nAbsent clarification that the proposed rule does not prevent state transportation agencies from\nusing existing legal authority to protect people and property on the ground beyond qualifying\nsites, the proposed rule may substantially diminishthe role of state transportation agencies in the\nplanning, coordination, and oversight of aviation activities that directly affect state-owned\ninfrastructure, publicly funded transportation assets, and multimodal transportation systems.\n2\n\nVDOT Comments to FAA\nDocket No. FAA 2026 4558; Notice No. 26-03\nFAA NPRM: Designation Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility\nPage 3 of 6\nWhile the FAA maintains exclusive authority over the safety and efficiency of the National\nAirspace System, states retain independent sovereign authority and statutory responsibilities for\ntransportation planning, infrastructure investment, right-of-way management, public property\nadministration, emergency management, and stewardship of taxpayer-funded transportation\nassets.\nState transportation agencies collectively invest billions of dollars annually in airports,\ntransportation corridors, communications infrastructure, navigational facilities, and emerging\ntechnologies. These investments create a legitimate "
+ },
+ {
+  "id": "FAA-2026-4558-0417",
+  "commenter": "Comment from Office of the Attorney General of the State of New York",
+  "organization": "",
+  "state": "",
+  "date": "2026-06-25",
+  "text": "The Office of the Attorney General of the State of New York respectfully requests that the Federal Aviation Administration (FAA) provide a 30-day extension for public comments on the notice of proposed rulemaking titled &quot;Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; for the reasons stated in the attached letter. We respectfully request that any notice by the FAA concerning this request be published in the Federal Register no later than July 3, 2026."
+ }
+]

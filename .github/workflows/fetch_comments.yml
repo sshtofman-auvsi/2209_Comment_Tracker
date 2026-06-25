@@ -27,10 +27,13 @@ jobs:
           REGULATIONS_GOV_API_KEY: ${{ secrets.REGULATIONS_GOV_API_KEY }}
         run: python scripts/fetch_comments.py
 
+      - name: Build analysis
+        run: python scripts/analyze_comments.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/comments.json
-          git diff --cached --quiet || git commit -m "chore: update comments $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add docs/comments.json docs/data.js docs/analysis.js
+          git diff --cached --quiet || git commit -m "chore: update comments + analysis $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
