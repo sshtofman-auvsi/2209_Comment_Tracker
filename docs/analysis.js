@@ -1,30 +1,30 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-06-25T18:25:25.012452+00:00",
-  "total": 407,
-  "campaign_count": 301,
-  "campaign_pct": 74,
+  "generated_utc": "2026-06-26T20:22:58.520058+00:00",
+  "total": 415,
+  "campaign_count": 303,
+  "campaign_pct": 73,
   "positions_all": {
-    "support_with_changes": 58,
+    "support_with_changes": 62,
     "unclear": 3,
-    "oppose": 22,
-    "support": 324
+    "oppose": 23,
+    "support": 327
   },
   "positions_ex_campaign": {
-    "support_with_changes": 58,
+    "support_with_changes": 62,
     "unclear": 3,
-    "oppose": 22,
-    "support": 23
+    "oppose": 23,
+    "support": 24
   },
   "categories": [
     {
       "key": "railroad_labor",
       "label": "Railroad labor (write-in campaign)",
-      "count": 301
+      "count": 303
     },
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 32
+      "count": 37
     },
     {
       "key": "individual_part107_operator",
@@ -37,13 +37,13 @@ const ANALYSIS_DATA = {
       "count": 9
     },
     {
-      "key": "media_photography",
-      "label": "Media / photography",
-      "count": 7
-    },
-    {
       "key": "individual_hobbyist",
       "label": "Hobbyists",
+      "count": 8
+    },
+    {
+      "key": "media_photography",
+      "label": "Media / photography",
       "count": 7
     },
     {
@@ -95,27 +95,27 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 169
+      "count": 172
     },
     {
       "label": "National security / threat",
-      "count": 148
+      "count": 152
     },
     {
       "label": "Small business / cost",
-      "count": 130
+      "count": 133
     },
     {
       "label": "Facility eligibility scope",
-      "count": 97
+      "count": 101
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 81
+      "count": 86
     },
     {
       "label": "Federal preemption",
-      "count": 53
+      "count": 55
     },
     {
       "label": "First Amendment / media",
@@ -123,23 +123,23 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Transparency / publication",
-      "count": 47
+      "count": 49
     },
     {
       "label": "Boundaries / altitude",
-      "count": 42
-    },
-    {
-      "label": "Contractor / owner gap",
-      "count": 34
+      "count": 44
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 33
+      "count": 37
+    },
+    {
+      "label": "Contractor / owner gap",
+      "count": 36
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 32
+      "count": 34
     },
     {
       "label": "Patchwork / no-fly zones",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 17
+      "count": 18
     }
   ],
   "timeline": [
@@ -188,8 +188,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W26",
-      "label": "Jun 25",
-      "count": 55
+      "label": "Jun 26",
+      "count": 63
     }
   ],
   "notable": [
@@ -1439,11 +1439,42 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0197"
     }
   ],
-  "unreviewed": [],
+  "unreviewed": [
+    {
+      "id": "FAA-2026-4558-0422",
+      "org": "Senneca Innovations",
+      "date": "2026-06-25",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0422"
+    },
+    {
+      "id": "FAA-2026-4558-0420",
+      "org": "Seneca Innovations",
+      "date": "2026-06-25",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0420"
+    },
+    {
+      "id": "FAA-2026-4558-0421",
+      "org": "Seneca Innovations",
+      "date": "2026-06-25",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0421"
+    },
+    {
+      "id": "FAA-2026-4558-0426",
+      "org": "FPV Freedom Coalition",
+      "date": "2026-06-26",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0426"
+    },
+    {
+      "id": "FAA-2026-4558-0423",
+      "org": "DT Midstream",
+      "date": "2026-06-26",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0423"
+    }
+  ],
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 74% of comments (301 of 407) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 73% of comments (303 of 415) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
