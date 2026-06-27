@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-06-26T20:22:58.520058+00:00",
+  "generated_utc": "2026-06-27T17:44:45.200979+00:00",
   "total": 415,
   "campaign_count": 303,
   "campaign_pct": 73,
