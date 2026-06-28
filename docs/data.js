@@ -4,7 +4,7 @@ const COMMENTS_DATA = {
   "title": "Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
   "comment_period_end": "2026-07-06",
   "total_comments": 415,
-  "last_updated": "2026-06-27T17:44:44.686721+00:00",
+  "last_updated": "2026-06-28T17:52:37.040001+00:00",
   "comments": [
     {
       "id": "FAA-2026-4558-0011",
