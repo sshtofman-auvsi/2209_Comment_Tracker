@@ -3,8 +3,8 @@ const COMMENTS_DATA = {
   "document_id": "FAA-2026-4558-0001",
   "title": "Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
   "comment_period_end": "2026-07-06",
-  "total_comments": 415,
-  "last_updated": "2026-06-28T17:52:37.040001+00:00",
+  "total_comments": 422,
+  "last_updated": "2026-06-29T20:32:38.658680+00:00",
   "comments": [
     {
       "id": "FAA-2026-4558-0011",
@@ -4396,6 +4396,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0304"
     },
     {
+      "id": "FAA-2026-4558-0296",
+      "commenter": "Kevin Serres",
+      "organization": "",
+      "city": "St. Augustine",
+      "state_province": "FL",
+      "country": "United States",
+      "posted_date": "2026-06-10T04:00:00Z",
+      "received_date": "2026-06-10T04:00:00Z",
+      "comment_text": "My comment is attached in the uploaded File.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0296"
+    },
+    {
       "id": "FAA-2026-4558-0302",
       "commenter": "Anonymous Anonymous",
       "organization": "",
@@ -4424,21 +4439,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0301"
-    },
-    {
-      "id": "FAA-2026-4558-0296",
-      "commenter": "Kevin Serres",
-      "organization": "",
-      "city": "St. Augustine",
-      "state_province": "FL",
-      "country": "United States",
-      "posted_date": "2026-06-10T04:00:00Z",
-      "received_date": "2026-06-10T04:00:00Z",
-      "comment_text": "My comment is attached in the uploaded File.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0296"
     },
     {
       "id": "FAA-2026-4558-0312",
@@ -4681,21 +4681,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0314"
     },
     {
-      "id": "FAA-2026-4558-0313",
-      "commenter": "J F",
-      "organization": "",
-      "city": "Portland",
-      "state_province": "OR",
-      "country": "United States",
-      "posted_date": "2026-06-11T04:00:00Z",
-      "received_date": "2026-06-10T04:00:00Z",
-      "comment_text": "To whom it may concern, I am an engineer for a class 1 railroad and recently had a very distracting and unsafe encounter with a private drone in a local rail yard. While in the process of pulling my train forward, a drone appeared within 20&#39; of the front of my locomotive as a huge distraction. On the shove onto the yard,the same drone followed within 20&#39;of the cab and sides of the cab moving back and forth creating a very unsafe condition to where I had to stop the move. Upon doing so,the drone veered off into the yard. A trespasser crossed over 2 hot main lines and I to an active yard to try to find his drone. I hade to tell him to leave the premises. A BNSF crew heard us on the radio talking about the drone and said it apparently hit a power line in the yard and fell on top of their crew hauler vehicle. This individual put the safety of multiple train crews at risk because there aren&#39;t regulations keeping all drone activity out of railroad airspace regardless of company drones or private drones. They are a distraction and an unnecessary component to rail safety.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0313"
-    },
-    {
       "id": "FAA-2026-4558-0306",
       "commenter": "Kenneth Benjamin",
       "organization": "",
@@ -4709,6 +4694,21 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0306"
+    },
+    {
+      "id": "FAA-2026-4558-0313",
+      "commenter": "J F",
+      "organization": "",
+      "city": "Portland",
+      "state_province": "OR",
+      "country": "United States",
+      "posted_date": "2026-06-11T04:00:00Z",
+      "received_date": "2026-06-10T04:00:00Z",
+      "comment_text": "To whom it may concern, I am an engineer for a class 1 railroad and recently had a very distracting and unsafe encounter with a private drone in a local rail yard. While in the process of pulling my train forward, a drone appeared within 20&#39; of the front of my locomotive as a huge distraction. On the shove onto the yard,the same drone followed within 20&#39;of the cab and sides of the cab moving back and forth creating a very unsafe condition to where I had to stop the move. Upon doing so,the drone veered off into the yard. A trespasser crossed over 2 hot main lines and I to an active yard to try to find his drone. I hade to tell him to leave the premises. A BNSF crew heard us on the radio talking about the drone and said it apparently hit a power line in the yard and fell on top of their crew hauler vehicle. This individual put the safety of multiple train crews at risk because there aren&#39;t regulations keeping all drone activity out of railroad airspace regardless of company drones or private drones. They are a distraction and an unnecessary component to rail safety.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0313"
     },
     {
       "id": "FAA-2026-4558-0311",
@@ -5103,6 +5103,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0343"
     },
     {
+      "id": "FAA-2026-4558-0351",
+      "commenter": "Comment from Steal Shot Aerials",
+      "organization": "Steal Shot Aerials",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-15T04:00:00Z",
+      "received_date": "2026-06-15T04:00:00Z",
+      "comment_text": "To the FAA Docket:<br/><br/>I am a commercial drone operator based in Fort Worth, Texas, operating under Part 107. My company, Steal Shot Aerials, provides aerial photography, videography, inspection, and construction documentation services to clients throughout Dallas-Fort Worth &mdash; including work at critical infrastructure sites, commercial developments, and large-scale industrial facilities. I write as a working operator who navigates airspace restrictions daily.<br/><br/>I support the FAA&#39;s intent to establish a clear, petition-based process under Section 2209. A transparent framework is preferable to the current patchwork of ad hoc restrictions. However, the NPRM as drafted raises several concerns for small commercial operators, and I urge the FAA to address the following points before finalizing this rule.<br/><br/>1. The Transit Carve-Out in &sect; 74.250 Must Be Preserved and Strengthened<br/><br/>The provision allowing Part 107, 108, 135, and 137 operators to transit UAFR airspace with Remote ID, the shortest practicable route, and advance notification is essential. Without it, UAFRs become de facto no-fly zones that block legitimate commercial work &mdash; including critical infrastructure inspection, surveying, and emergency response. I support this carve-out and urge the FAA to retain it in the final rule.<br/><br/>However, the &quot;advance notification&quot; requirement needs a standardized, streamlined mechanism. If every UAFR has its own notification process, operators will face an unmanageable compliance burden &mdash; particularly small operators without legal or dispatch teams. The FAA should establish a single electronic notification portal and require that UAFR holders accept and respond to transit requests through that portal within a reasonable timeframe. Without this, the transit right becomes theoretical.<br/><br/>2. UAFR Boundaries Must Be Machine-Readable and Real-Time<br/><br/>For Remote ID compliance and flight planning, UAFR data must be published in a machine-readable format (GeoJSON, NOTAM-style digital feed) and updated in real time. Relying on static PDFs or manual NOTAM review is incompatible with modern flight operations. I request that the FAA require digital publication of all UAFR boundaries, altitudes, effective dates, and contact information &mdash; integrated into LAANC and B4UFLY so operators can plan and adjust in the field.<br/><br/>3. Guard Against Overly Broad UAFR Definitions<br/><br/>Sixteen critical infrastructure sectors is a wide net. If facility operators can petition for UAFRs that extend well beyond their actual security footprint, the cumulative effect will be a fragmented national airspace &mdash; particularly in dense urban and industrial corridors like DFW, where multiple qualifying facilities exist in close proximity. I request that the FAA:<br/><br/>(a) Require petitioners to demonstrate specific, evidence-based risk rather than relying on categorical designation alone.<br/><br/>(b) Limit UAFR horizontal and vertical dimensions to the minimum necessary to address the demonstrated risk.<br/><br/>(c) Reject petitions where an existing airspace restriction (TFR, NOTAM, controlled airspace) already addresses the concern.<br/><br/>4. The Cumulative Burden on Small Operators<br/><br/>Each UAFR adds another layer of preflight research, notification, and routing. For a single-pilot operation with no support staff, the compliance overhead adds up fast &mdash; and every minute spent navigating restrictions is a minute not spent on the job I&#39;m being paid for. The FAA should consider the cumulative operational impact on small businesses, not just each restriction in isolation, and include a small business flexibility analysis that acknowledges this reality.<br/><br/>5. UAFRs Must Not Become a Tool to Block Commercial Competition<br/><br/>I am concerned that facility operators could use the UAFR petition process to exclude commercial drone operators for competitive reasons rather than legitimate security concerns. The FAA&#39;s review process must include scrutiny of the petitioner&#39;s stated rationale and reject petitions that appear to serve anti-competitive purposes.<br/><br/>6. Emergency and Time-Sensitive Operations<br/><br/>The rule should include clear exceptions for emergency response, disaster assessment, and time-critical infrastructure inspection. If a bridge or pipeline needs immediate aerial inspection after a severe weather event, the operator should not be blocked by a UAFR notification backlog.<br/><br/>Summary<br/><br/>I urge the FAA to:<br/><br/>&bull; Retain and strengthen the &sect; 74.250 transit carve-out<br/>&bull; Require machine-readable, real-time UAFR data publication<br/>&bull; Limit UAFR dimensions to evidence-based minimums<br/>&bull; Build a single, standardized notification system<br/>&bull; Include meaningful small business impact analysis<br/>&bull; Prevent anti-competitive use of the petition process<br/>&bull; Provide clear emergency access provisions<br/><br/>Thank you for the opportunity to comment.<br/><br/>Respectfully,<br/>Jonathan Smith<br/>Pilot / Owner, Steal Shot Aerials<br/>Fort Worth, Texas<br/>Part 107 Certified Remote Pilot",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0351"
+    },
+    {
       "id": "FAA-2026-4558-0345",
       "commenter": "Greg Schmidt",
       "organization": "",
@@ -5131,21 +5146,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0348"
-    },
-    {
-      "id": "FAA-2026-4558-0351",
-      "commenter": "Comment from Steal Shot Aerials",
-      "organization": "Steal Shot Aerials",
-      "city": "",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-06-15T04:00:00Z",
-      "received_date": "2026-06-15T04:00:00Z",
-      "comment_text": "To the FAA Docket:<br/><br/>I am a commercial drone operator based in Fort Worth, Texas, operating under Part 107. My company, Steal Shot Aerials, provides aerial photography, videography, inspection, and construction documentation services to clients throughout Dallas-Fort Worth &mdash; including work at critical infrastructure sites, commercial developments, and large-scale industrial facilities. I write as a working operator who navigates airspace restrictions daily.<br/><br/>I support the FAA&#39;s intent to establish a clear, petition-based process under Section 2209. A transparent framework is preferable to the current patchwork of ad hoc restrictions. However, the NPRM as drafted raises several concerns for small commercial operators, and I urge the FAA to address the following points before finalizing this rule.<br/><br/>1. The Transit Carve-Out in &sect; 74.250 Must Be Preserved and Strengthened<br/><br/>The provision allowing Part 107, 108, 135, and 137 operators to transit UAFR airspace with Remote ID, the shortest practicable route, and advance notification is essential. Without it, UAFRs become de facto no-fly zones that block legitimate commercial work &mdash; including critical infrastructure inspection, surveying, and emergency response. I support this carve-out and urge the FAA to retain it in the final rule.<br/><br/>However, the &quot;advance notification&quot; requirement needs a standardized, streamlined mechanism. If every UAFR has its own notification process, operators will face an unmanageable compliance burden &mdash; particularly small operators without legal or dispatch teams. The FAA should establish a single electronic notification portal and require that UAFR holders accept and respond to transit requests through that portal within a reasonable timeframe. Without this, the transit right becomes theoretical.<br/><br/>2. UAFR Boundaries Must Be Machine-Readable and Real-Time<br/><br/>For Remote ID compliance and flight planning, UAFR data must be published in a machine-readable format (GeoJSON, NOTAM-style digital feed) and updated in real time. Relying on static PDFs or manual NOTAM review is incompatible with modern flight operations. I request that the FAA require digital publication of all UAFR boundaries, altitudes, effective dates, and contact information &mdash; integrated into LAANC and B4UFLY so operators can plan and adjust in the field.<br/><br/>3. Guard Against Overly Broad UAFR Definitions<br/><br/>Sixteen critical infrastructure sectors is a wide net. If facility operators can petition for UAFRs that extend well beyond their actual security footprint, the cumulative effect will be a fragmented national airspace &mdash; particularly in dense urban and industrial corridors like DFW, where multiple qualifying facilities exist in close proximity. I request that the FAA:<br/><br/>(a) Require petitioners to demonstrate specific, evidence-based risk rather than relying on categorical designation alone.<br/><br/>(b) Limit UAFR horizontal and vertical dimensions to the minimum necessary to address the demonstrated risk.<br/><br/>(c) Reject petitions where an existing airspace restriction (TFR, NOTAM, controlled airspace) already addresses the concern.<br/><br/>4. The Cumulative Burden on Small Operators<br/><br/>Each UAFR adds another layer of preflight research, notification, and routing. For a single-pilot operation with no support staff, the compliance overhead adds up fast &mdash; and every minute spent navigating restrictions is a minute not spent on the job I&#39;m being paid for. The FAA should consider the cumulative operational impact on small businesses, not just each restriction in isolation, and include a small business flexibility analysis that acknowledges this reality.<br/><br/>5. UAFRs Must Not Become a Tool to Block Commercial Competition<br/><br/>I am concerned that facility operators could use the UAFR petition process to exclude commercial drone operators for competitive reasons rather than legitimate security concerns. The FAA&#39;s review process must include scrutiny of the petitioner&#39;s stated rationale and reject petitions that appear to serve anti-competitive purposes.<br/><br/>6. Emergency and Time-Sensitive Operations<br/><br/>The rule should include clear exceptions for emergency response, disaster assessment, and time-critical infrastructure inspection. If a bridge or pipeline needs immediate aerial inspection after a severe weather event, the operator should not be blocked by a UAFR notification backlog.<br/><br/>Summary<br/><br/>I urge the FAA to:<br/><br/>&bull; Retain and strengthen the &sect; 74.250 transit carve-out<br/>&bull; Require machine-readable, real-time UAFR data publication<br/>&bull; Limit UAFR dimensions to evidence-based minimums<br/>&bull; Build a single, standardized notification system<br/>&bull; Include meaningful small business impact analysis<br/>&bull; Prevent anti-competitive use of the petition process<br/>&bull; Provide clear emergency access provisions<br/><br/>Thank you for the opportunity to comment.<br/><br/>Respectfully,<br/>Jonathan Smith<br/>Pilot / Owner, Steal Shot Aerials<br/>Fort Worth, Texas<br/>Part 107 Certified Remote Pilot",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0351"
     },
     {
       "id": "FAA-2026-4558-0355",
@@ -5180,21 +5180,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0356"
     },
     {
-      "id": "FAA-2026-4558-0354",
-      "commenter": "Vincent Baer",
-      "organization": "",
-      "city": "Columbus",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-06-16T04:00:00Z",
-      "received_date": "2026-06-15T04:00:00Z",
-      "comment_text": "As a railroader, I can definitely raise the alarm bells with these drone operations. Also as former military, having drones fly over rail yards or tracks raises serious national security issues. Not knowing who is flying a drone above, these operations could be scouting the area for hazardous materials, military equipment, and gaining intel on railroad operations and procedures. In our modern day wartime drones are used to create destruction and even death. The railroad is a highly sensitive area, sometimes transporting explosive materials, toxic gases, and chemicals that can be a danger to the environment. Currently management uses drones for surveillance of its employees to do safety testing. I find this very alarming only because we do not know if in fact it is a manager operating the drone, or someone doing drone surveillance to inflict harm, destroy property, or terrorist activities. Please ban all aerial vehicles over the railroads, and rail yards.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0354"
-    },
-    {
       "id": "FAA-2026-4558-0352",
       "commenter": "Travis Pruitt",
       "organization": "",
@@ -5223,6 +5208,21 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0353"
+    },
+    {
+      "id": "FAA-2026-4558-0354",
+      "commenter": "Vincent Baer",
+      "organization": "",
+      "city": "Columbus",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-16T04:00:00Z",
+      "received_date": "2026-06-15T04:00:00Z",
+      "comment_text": "As a railroader, I can definitely raise the alarm bells with these drone operations. Also as former military, having drones fly over rail yards or tracks raises serious national security issues. Not knowing who is flying a drone above, these operations could be scouting the area for hazardous materials, military equipment, and gaining intel on railroad operations and procedures. In our modern day wartime drones are used to create destruction and even death. The railroad is a highly sensitive area, sometimes transporting explosive materials, toxic gases, and chemicals that can be a danger to the environment. Currently management uses drones for surveillance of its employees to do safety testing. I find this very alarming only because we do not know if in fact it is a manager operating the drone, or someone doing drone surveillance to inflict harm, destroy property, or terrorist activities. Please ban all aerial vehicles over the railroads, and rail yards.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0354"
     },
     {
       "id": "FAA-2026-4558-0358",
@@ -5591,6 +5591,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0405"
     },
     {
+      "id": "FAA-2026-4558-0406",
+      "commenter": "Ken Pearson",
+      "organization": "",
+      "city": "Brandon",
+      "state_province": "MS",
+      "country": "United States",
+      "posted_date": "2026-06-22T04:00:00Z",
+      "received_date": "2026-06-22T04:00:00Z",
+      "comment_text": "Railroad use of drones create unnecessary risk to safety while in performance of our duties. I am a 22 year conductor, and since the introduction of these drones for testing purposes I have tripped over objects in my walking path while being distracted by the presence of the drone. It&rsquo;s never clear whether the drone is rail related or terroristic. I am also an Army veteran and the presence of the drone makes me very nervous and triggers ptsd from my military experience of dealing with unknown drones and drone strikes. <br/><br/>Thank you for your time.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0406"
+    },
+    {
       "id": "FAA-2026-4558-0394",
       "commenter": "David E Jones",
       "organization": "",
@@ -5741,21 +5756,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0399"
     },
     {
-      "id": "FAA-2026-4558-0406",
-      "commenter": "Ken Pearson",
-      "organization": "",
-      "city": "Brandon",
-      "state_province": "MS",
-      "country": "United States",
-      "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-22T04:00:00Z",
-      "comment_text": "Railroad use of drones create unnecessary risk to safety while in performance of our duties. I am a 22 year conductor, and since the introduction of these drones for testing purposes I have tripped over objects in my walking path while being distracted by the presence of the drone. It&rsquo;s never clear whether the drone is rail related or terroristic. I am also an Army veteran and the presence of the drone makes me very nervous and triggers ptsd from my military experience of dealing with unknown drones and drone strikes. <br/><br/>Thank you for your time.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0406"
-    },
-    {
       "id": "FAA-2026-4558-0401",
       "commenter": "G Rosales",
       "organization": "",
@@ -5784,6 +5784,21 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0402"
+    },
+    {
+      "id": "FAA-2026-4558-0404",
+      "commenter": "Frank Sicilia",
+      "organization": "",
+      "city": "Coeur D Alene",
+      "state_province": "ID",
+      "country": "United States",
+      "posted_date": "2026-06-22T04:00:00Z",
+      "received_date": "2026-06-22T04:00:00Z",
+      "comment_text": "I&rsquo;m a 33 year career railroad engineer. Our rail yards are dangerous enough without having drones flying overhead. There are so many safety concerns with this I&rsquo;m truly surprised you&rsquo;re actually letting this type of activity happen. The risks vs reward do not add up. We all deal with and understand operations testing. When you allow laziness and that&rsquo;s what this is, that&rsquo;s where problems really start. Complacency breads contempt. The hazardous environment we work in already has too many dangers to deal with without having to worry about drones. There&rsquo;s such a security risk to this as well. No one will be able to distinguish if this is a railroad drone or a terrorist drone. We transport millions of gallons of hazardous chemicals, government equipment, and items that are vital to our nations security and infrastructure. In truth this should be a complete no fly zone as it is. Thank you for your time.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0404"
     },
     {
       "id": "FAA-2026-4558-0395",
@@ -5876,21 +5891,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0386"
     },
     {
-      "id": "FAA-2026-4558-0388",
-      "commenter": "Eric Jenness",
-      "organization": "",
-      "city": "Houston",
-      "state_province": "TX",
-      "country": "",
-      "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-19T04:00:00Z",
-      "comment_text": "As a train conductor, my duties are safety sensitive and include significant hazards. These hazards include physical crushing hazards to myself resulting in maiming or death, as well as toxic chemicals that could cause a mass casualty event of released.<br/>   I need every bit of concentration I have at all times during critical moves such as &quot;shoving&quot;, or directing back-up maneuvers using radio transmissions. <br/>   At my carrier, moments such as these require what is termed a &quot;cab red zone&quot;, or CRZ. During a CRX, we may be disciplined or fired for making any conversation not related to the task at hand, including job duties not pertinent to the present moment. <br/>   Railroad managers are currently commissioned to fly drones overhead while we are engaging in shoves and other moves necessitating a CRZ. I strongly feel that being distracted by a drone is a direct violation of the Cab Red Zone intent, which is to ensure that our focus is on the task at hand. <br/>    My ability to concentrate is highly stressed during a drone observation by management, and that endangers not just myself but also the public with the risk of a release of hazardous materials.<br/>",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0388"
-    },
-    {
       "id": "FAA-2026-4558-0391",
       "commenter": "Jordan Boone",
       "organization": "",
@@ -5936,19 +5936,19 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0368"
     },
     {
-      "id": "FAA-2026-4558-0404",
-      "commenter": "Frank Sicilia",
+      "id": "FAA-2026-4558-0388",
+      "commenter": "Eric Jenness",
       "organization": "",
-      "city": "Coeur D Alene",
-      "state_province": "ID",
-      "country": "United States",
+      "city": "Houston",
+      "state_province": "TX",
+      "country": "",
       "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-22T04:00:00Z",
-      "comment_text": "I&rsquo;m a 33 year career railroad engineer. Our rail yards are dangerous enough without having drones flying overhead. There are so many safety concerns with this I&rsquo;m truly surprised you&rsquo;re actually letting this type of activity happen. The risks vs reward do not add up. We all deal with and understand operations testing. When you allow laziness and that&rsquo;s what this is, that&rsquo;s where problems really start. Complacency breads contempt. The hazardous environment we work in already has too many dangers to deal with without having to worry about drones. There&rsquo;s such a security risk to this as well. No one will be able to distinguish if this is a railroad drone or a terrorist drone. We transport millions of gallons of hazardous chemicals, government equipment, and items that are vital to our nations security and infrastructure. In truth this should be a complete no fly zone as it is. Thank you for your time.",
+      "received_date": "2026-06-19T04:00:00Z",
+      "comment_text": "As a train conductor, my duties are safety sensitive and include significant hazards. These hazards include physical crushing hazards to myself resulting in maiming or death, as well as toxic chemicals that could cause a mass casualty event of released.<br/>   I need every bit of concentration I have at all times during critical moves such as &quot;shoving&quot;, or directing back-up maneuvers using radio transmissions. <br/>   At my carrier, moments such as these require what is termed a &quot;cab red zone&quot;, or CRZ. During a CRX, we may be disciplined or fired for making any conversation not related to the task at hand, including job duties not pertinent to the present moment. <br/>   Railroad managers are currently commissioned to fly drones overhead while we are engaging in shoves and other moves necessitating a CRZ. I strongly feel that being distracted by a drone is a direct violation of the Cab Red Zone intent, which is to ensure that our focus is on the task at hand. <br/>    My ability to concentrate is highly stressed during a drone observation by management, and that endangers not just myself but also the public with the risk of a release of hazardous materials.<br/>",
       "has_attachment": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0404"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0388"
     },
     {
       "id": "FAA-2026-4558-0409",
@@ -6150,21 +6150,19 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0422"
     },
     {
-      "id": "FAA-2026-4558-0420",
-      "commenter": "Comment from Seneca Innovations",
-      "organization": "Seneca Innovations",
+      "id": "FAA-2026-4558-0417",
+      "commenter": "Comment from Office of the Attorney General of the State of New York",
+      "organization": "",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-06-25T04:00:00Z",
-      "received_date": "2026-06-25T04:00:00Z",
-      "comment_text": "Mandate a fast-track authorization pathway for commercial operators.<br/><br/>The proposed rule creates restrictions with no corresponding authorization system. The practical consequence is that Part 107 commercial operators performing facility-invited work (infrastructure inspections, utility surveys, maintenance documentation) will have no reliable pathway to access UAFR airspace even when the facility has authorized them. The LAANC program demonstrated that the private sector can build and operate fast, reliable airspace authorization infrastructure under FAA authorization. A UAFR authorization platform requires more facility-level customization than LAANC&#39;s geographic zone model, but the architecture is achievable and the market will build it if the FAA requires it. The final rule should mandate that any active UAFR include a defined, FAA-authorized authorization pathway for compliant commercial operators and emergency services personnel. That pathway should provide near-real-time field verification, allow facilities to pre-register authorized operators by Remote ID, and produce a logged record of all authorized operations within the UAFR. Without this requirement, the rule effectively grounds the commercial operators that the facilities themselves depend on for maintenance and inspection.",
+      "received_date": "2026-06-24T04:00:00Z",
+      "comment_text": "The Office of the Attorney General of the State of New York respectfully requests that the Federal Aviation Administration (FAA) provide a 30-day extension for public comments on the notice of proposed rulemaking titled &quot;Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; for the reasons stated in the attached letter. We respectfully request that any notice by the FAA concerning this request be published in the Federal Register no later than July 3, 2026.",
       "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0420"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0417"
     },
     {
       "id": "FAA-2026-4558-0421",
@@ -6184,19 +6182,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0421"
     },
     {
-      "id": "FAA-2026-4558-0417",
-      "commenter": "Comment from Office of the Attorney General of the State of New York",
-      "organization": "",
+      "id": "FAA-2026-4558-0420",
+      "commenter": "Comment from Seneca Innovations",
+      "organization": "Seneca Innovations",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-06-25T04:00:00Z",
-      "received_date": "2026-06-24T04:00:00Z",
-      "comment_text": "The Office of the Attorney General of the State of New York respectfully requests that the Federal Aviation Administration (FAA) provide a 30-day extension for public comments on the notice of proposed rulemaking titled &quot;Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; for the reasons stated in the attached letter. We respectfully request that any notice by the FAA concerning this request be published in the Federal Register no later than July 3, 2026.",
+      "received_date": "2026-06-25T04:00:00Z",
+      "comment_text": "Mandate a fast-track authorization pathway for commercial operators.<br/><br/>The proposed rule creates restrictions with no corresponding authorization system. The practical consequence is that Part 107 commercial operators performing facility-invited work (infrastructure inspections, utility surveys, maintenance documentation) will have no reliable pathway to access UAFR airspace even when the facility has authorized them. The LAANC program demonstrated that the private sector can build and operate fast, reliable airspace authorization infrastructure under FAA authorization. A UAFR authorization platform requires more facility-level customization than LAANC&#39;s geographic zone model, but the architecture is achievable and the market will build it if the FAA requires it. The final rule should mandate that any active UAFR include a defined, FAA-authorized authorization pathway for compliant commercial operators and emergency services personnel. That pathway should provide near-real-time field verification, allow facilities to pre-register authorized operators by Remote ID, and produce a logged record of all authorized operations within the UAFR. Without this requirement, the rule effectively grounds the commercial operators that the facilities themselves depend on for maintenance and inspection.",
       "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0417"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0420"
     },
     {
       "id": "FAA-2026-4558-0426",
@@ -6282,6 +6282,125 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0427"
+    },
+    {
+      "id": "FAA-2026-4558-0432",
+      "commenter": "Mike Scitt",
+      "organization": "",
+      "city": "Springfield",
+      "state_province": "MO",
+      "country": "",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-29T04:00:00Z",
+      "comment_text": "Drone usage for operations testing should have never been implemented in the first place. I voiced my concerns to management and much like every other valid concern it was downplayed. I have been tested around 150 times in the last calendar year. Drones are the biggest distraction I have ever encountered, 22 year employee btw. Even when drones aren&rsquo;t out we are consistently watching out for them creating distractions. Bnsf also does not stop you from moving when they see a serious rules violation. They let you keep working until you are finished with the industry, work or current moves being made. I have questioned them about this and the response was &ldquo;we like to observe&rdquo;. &ldquo;Sometime we can&rsquo;t observe because of a serious rules violation at the start of testing&rdquo;. I for one feel harassed since drone testing has been implemented. 150 times in a year is excessive considering my peers are around 10-15 a year.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0432"
+    },
+    {
+      "id": "FAA-2026-4558-0428",
+      "commenter": "Anna Toth",
+      "organization": "",
+      "city": "Rye, New york",
+      "state_province": "New York",
+      "country": "United States",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-26T04:00:00Z",
+      "comment_text": "Drone photography has become one of the most important tools for making the very often hidden world of industrial animal agriculture visible to the public which people should have the basic right to look up and learn about. I sincerely hope the FAA will carefully consider the crucial public value of aerial photojournalism as it evaluates this proposal.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0428"
+    },
+    {
+      "id": "FAA-2026-4558-0429",
+      "commenter": "Comment from SMART-TD",
+      "organization": "SMART-TD",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-27T04:00:00Z",
+      "comment_text": "Hello,<br/>I have 20 plus years of railroad service in transportation.  I have been trained to report anything out of sync with my work environment.  Boxes and containers placed haphazardly on or in railcars, mysterious containers on the right of way.  This frontline defense is in addition to the multitasking of operating in the railroad setting; pointing and calling for switch handling, reviewing switching orders, looking out for poor walking conditions, wildlife and insects that may be lurking inside a railcar or underneath switch stand timbers, and keeping a monitoring eye on a massive influx of new hire trainees.  As you can see my plate is full and my eyes are forever surveying the landscape before, beneath, and beside me.  <br/>I certainly, don&#39;t need another layer of distraction or another box to check off to see if the drone in the sky is friend or foe.  Is it over by the PIH tank car because it&#39;s watching me or is this the first phase of a techno terrorism assault.  <br/>Regards,<br/>Shawn Bruderly<br/>",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0429"
+    },
+    {
+      "id": "FAA-2026-4558-0434",
+      "commenter": "EDMUND RUTTLEDGE",
+      "organization": "",
+      "city": "Salem",
+      "state_province": "OR",
+      "country": "United States",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-29T04:00:00Z",
+      "comment_text": "Comments Submitted re: Restrict the Operation of Unmanned Aircraft in Close Proximity\nto a Fixed Site Facility - FAA-2026-4558-0001. Submitted June 29, 2026.\nMy name is Ed Ruttledge, and I reside at the following address:\n295 Church Street, SE #404\nSalem, Oregon 97301\nI am a semi-professional photographer. Retired, I provide photographic and video content\nas an unpaid volunteer to government entities and non-profit organizations which have\nincluded the following:\n• Cascade Volcano Observatory (USGS)\n• State of Oregon\n• Tillamook Public Utility District\n• The Tierra Del Mar Neighborhood Association\n• The Vashon Island Nature Center\n• Intercity Transit – Olympia, Washington\n• The Civita Institute\nI am a Certified Remote Pilot (#4234594) and presently have three small camera drones\nregistered with the FAA.\nThe primary purpose of my involvement with UAS devices has been to extend my\nphotographic capabilities. As technology advanced, it became possible to capture whole\nnew perspectives, especially in landscape and architectural photography by using small\nUAS devices such as the Skydio 2+ and DJI Air3 I presently own. My considerable\nphotographic experience was in still photography. But my work with UAS devices\nplatforms has developed my interest in doing video work as well. While I have become a\nskilled pilot of these UAV devices, flying a UAV is secondary to its function as a camera\nplatform.\nThere a myriad of issues raised by this proposed rule. I will focus on three topics in my\ncomments. I reserve my privilege to submit additional commentary within the comment\nperiod. My comments regarding the proposed rules include the following:\n• There needs to be a clear statement of Federal pre-emption - declaring UAS\nairspace regulation to be an exclusive FAA function. This would preempt any state,\ntribal, territorial, local or private entity rule that restricts UAS operations based on\nproximity to critical infrastructure. Without such Federal pre-emption, we can\nrealistically expect to have a patchwork of regulations from a myriad of jurisdictions\nor other entities impacting the operation of UAS devices within the NAS. Further,\nnotice to UAS pilots would become fragmented as would any waiver or\nauthorization procedures.\n\n• Transit through a Standard UAFR should not be prohibited, especially if the device\nbroadcasts Remote ID, and moves through the Standard UFAR in the shortest\npracticable time.\n• Measurable care should be taken in determining what constitutes “critical\ninfrastructure.” Definitions need to be unambiguous. For example, what if\nelectrical substations and cell towers are included as “critical infrastructure?”\nThey are everywhere. Is the T-Mobile Gateway sitting on my windowsill, which\nsends and receives 5G voice and data transmissions, a cell tower? What about the\nseries of undersea landing nodes that populate the California and Oregon\ncoastlines [and, which are usually underground and often purposefully obscured]?\nTransit corridors crisscross every neighborhood. Even the definition of what is a\n“railroad” could be debated. For example, is the Bus Rapid Transit (BRT) system in\nEugene, Oregon a “railroad?” Would the Rail Riders attraction in Tillamook County,\nOregon be a “railroad” or, perhaps, a linear “amusement park?”\nThank you for your consideration of the above in drafting the rule.",
+      "has_attachment": true,
+      "pdf_extracted": true,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0434"
+    },
+    {
+      "id": "FAA-2026-4558-0431",
+      "commenter": "Katt Domingue",
+      "organization": "",
+      "city": "Chatsworth",
+      "state_province": "CA",
+      "country": "United States",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-28T04:00:00Z",
+      "comment_text": "CAFOs (Concentrated Animal Feeding Operations) should not be included in the restrictions of operating unmanned aircrafts. While CAFOs are fixed facility sites, it is in the public&#39;s interest to be able to see how large in scale CAFOs are as on-the-ground imaging cannot capture their scale accurately. In addition, CAFOs are typically well-hidden, out of the public&#39;s view - the public deserves to know just how vast CAFOs are so they can better understand the impact of land use, water use, and animal welfare concerns. Unmanned aircrafts allow for a non-invasive way to document CAFOs and to serve public interests.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0431"
+    },
+    {
+      "id": "FAA-2026-4558-0430",
+      "commenter": "Anonymous Anonymous",
+      "organization": "",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-28T04:00:00Z",
+      "comment_text": "I support a restriction on the operations of unmanned (Part 107) or manned aircraft (Part 103) in close proximity to a fixed site facility.   There needs to be a definitive, objective criteria to keep these types of vehicles a safe distance from fixed site facilities, such as power stations, wind turbine farms, transmission lines, bridges, AToN facilitates, ports, etc.   But, also, since Part 103 aircraft have very vague restrictions, and because there has been a monumental proliferation in Part 103 aircraft since Part 103 was instituted, particularly with powered paragliding activist, it would be nonsensical to restrict unmanned aircraft from these sites without also including manned aircraft that utilize Part 103 for their operations from these sites as well, because it is virtually the same problem except with a different category of aircraft.  Unmanned Aircraft (UAS) contemplated here only weight up to 55 lbs, yet unregistered Part 107 aircraft are operated unlicensed aviators in aircraft that can weigh upwards of 254 lbs (empty) -plus- the weight of fuel and persons on board, making these vehicles even more hazardous to the infrastructure and bystanders than any UAS contemplated here.   So, if the FAA adopts restrictions for UAS, it should seriously consider adopting the same rules for Part 103 operations.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0430"
+    },
+    {
+      "id": "FAA-2026-4558-0433",
+      "commenter": "Comment from American Association of Port Authorities",
+      "organization": "American Association of Port Authorities",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-29T04:00:00Z",
+      "received_date": "2026-06-29T04:00:00Z",
+      "comment_text": "July 3, 2026\nDocket Operations\nU.S. Department of Transportation\n1200 New Jersey Avenue, S.E., Room W58-213\nWashington, D.C. 20590-0001\nDesk Officer for Federal Aviation Administration\nOffice of Management and Budget\nOffice of Information and Regulatory Affairs\nNew Executive Office Building\n725 17th Street, N.W.,\nRoom 10202\nWashington, D.C. 20053\nRe: Comments on Docket No. FAA-2026-4558; Notice No. 26-03 – Designation – Restrict\nthe Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility\nDear Federal Aviation Administration (FAA) Office of Rulemaking,\nThe American Association of Port Authorities (AAPA) appreciates the opportunity to comment\non the FAA’s Notice of Proposed Rulemaking (NPRM) concerning the designation of unmanned\naircraft flight restrictions (UAFRs) around eligible fixed site facilities. AAPA represents public\nport authorities throughout the United States, including many of the nation’s largest strategic\nseaports and critical infrastructure hubs.\nAAPA applauds the FAA’s efforts to implement Section 2209 of the FAA Extension, Safety, and\nSecurity Act of 2016. Establishing a process for eligible facilities to seek drone flight restrictions\nis a meaningful step toward addressing the growing threat posed by unauthorized unmanned\naircraft systems (UAS) operating over critical infrastructure.\nAmerica's ports increasingly face drone-related vulnerabilities and operational disruptions. Ports\nroutinely handle hazardous materials, military cargo, cruise passengers, energy products,\nchemical shipments, and essential consumer goods that are vital to national economic and\nhomeland security. Unauthorized drone activity in the vicinity of any of these facilities raises\nsafety, surveillance, and operational concerns. Moreover, the threat posed by attack drones is\nparticularly acute in the cruise sector, where a single vessel may carry several thousand\npassengers and crew. A successful attack against a large passenger vessel could result in\ncatastrophic loss of life on a scale rivaling the casualties inflicted during previous terrorist\nattacks, underscoring the urgent need for stronger protections for America’s seaports and\nmaritime gateways.\nStrategic seaports are increasingly recognized as high value targets for foreign intelligence\ncollection, cyber-enabled surveillance, and disruptive activities involving UAS. Operational\ndisruptions at major ports can rapidly cascade throughout national and regional supply chains,\n1\n\naffecting fuel distribution, agricultural exports, manufacturing inputs, military readiness, and\nconsumer goods availability. Many ports also support Department of War and Department of\nTransportation strategic sealift and military outload operations, further elevating their importance\nto national security.\nBecause of these unique operational and national security responsibilities, ports warrant special\nconsideration within the FAA's implementation of Section 2209. The consequences of\nunauthorized drone activity at a port may extend far beyond the immediate facility and impact\nbroader economic resilience, defense readiness, and homeland security objectives.\nGiven the sensitivity of their operations and proximity to large population centers, ports\nrepresent some of the most mature and security-conscious critical infrastructure operators in the\nnation. Accordingly, many port facilities are regulated under the Maritime Transportation\nSecurity Act of 2002 (MTSA), maintain approved Facility Security Plans (FSPs), comply with\nMaritime Security (MARSEC) requirements, and coordinate closely with the U.S. Coast Guard\n(USCG) and federal law enforcement agencies.\nAAPA strongly supports FAA’s recognition that fixed site facilities regulated under MTSA\nexplicitly qualify for UAFRs. We also appreciate the FAA’s acknowledgment that unmanned\naircraft may pose risks associated with surveillance, cyber intrusion, operational disruption, and\nphysical attacks against critical infrastructure.\nAAPA respectfully offers the following recommendations and concerns regarding the proposed\nrule:\nStreamline Eligibility for Maritime Transportation Facilities: AAPA strongly encourages\nFAA to establish an expedited or presumptive approval pathway for maritime facilities already\nregulated under MTSA and operating under an active USCG-approved FSP or Alternate Security\nPlan.\nThe NPRM appropriately recognizes that maritime transportation facilities regulated under\nMTSA are eligible to request a UAFR. These facilities already undergo extensive federal security\noversight and maintain layered physical and cybersecurity protections. Ports should not be\nrequired to duplicate extensive security demonstrations already validated through USCG\nprocesses. Further, MTSA-regulated facilities already satisfy many of the security and\nvulnerability assessment requirements contemplated by the NPRM. FSPs, Facility Security\nAssessments, Alternate Security Programs, Area Maritime Security Committee participation, and\nongoing USCG oversight provide a robust security framework that FAA should leverage\nwherever possible. Aligning UAFR eligibility with existing MTSA requirements would reduce\nadministrative burden, eliminate duplicative federal review, and advance broader interagency\nefficiency objectives.\nAccordingly, AAPA recommends that:\n• MTSA-regulated facilities with approved FSPs automatically qualify to apply for a\nUAFR;\n2\n\n• The FAA establish a streamlined review process for strategic seaports and maritime\ncritical infrastructure; and\n• Existing USCG security documentation be accepted in lieu of duplicative FAA-specific\nsubmissions where practicable.\nRecognize Port Authorities as Governing Critical Infrastructure Operators: The NPRM\ncurrently places substantial emphasis on individual site operators and property interests.\nHowever, many public port authorities are governmental entities with statutory authority over\ncomplex multi-tenant critical infrastructure environments.\nPorts frequently contain multiple energy, cargo, and cruise terminals, chemical facilities, rail\noperations, and federally regulated maritime facilities operating within a unified security\nenvironment. Requiring each tenant individually to apply for separate UAFRs would create\ninefficiency, inconsistency, and unnecessary administrative burdens.\nAAPA recommends that FAA:\n• Explicitly recognize port authorities as eligible applicants to apply for UAFRs covering\nmultiple facilities within port jurisdictional boundaries;\n• Allow port authorities to coordinate UAFRs on behalf of tenants and operators; and\n• Clarify that tenant objections or lack of participation should not prevent a port authority\nfrom applying for a UAFR covering publicly governed port property.\nAs governmental entities responsible for the safety and security of maritime infrastructure, port\nauthorities should retain the ability to coordinate drone security measures across their jurisdiction\nif they choose.\nAllow Flexibility Beyond Strict Property-Line Boundaries: AAPA is concerned that the\nproposed limitation restricting UAFR lateral boundaries strictly to property lines may create\nsignificant operational and security gaps for ports and industrial waterfront facilities. Maritime\nfacilities are fundamentally different from many land-based critical infrastructure sites. Ports by\ndefinition include waterside operational areas, including ship berths, mooring dolphins, vessel\nloading zones, and navigation channels. These maritime assets operate as interconnected\nfacilities with rail corridors and public roadways in a unified security environment. As a result,\nmany ports contain noncontiguous parcels, with public roadways bisecting secure facilities,\nshared intermodal corridors, or waterside operational areas. Connected energy and chemical\ninfrastructure can also be separated by easements or transportation corridors. Limiting UAFRs to\nupland property boundaries may leave many of the assets most in need of protection uncovered.\nFor MTSA-regulated facilities, FAA should consider allowing applicants to define UAFR\nboundaries consistent with the USCG-recognized security footprint reflected in approved FSPs\nand related security documentation. Such an approach would better reflect the operational\nrealities of maritime facilities and ensure protection of waterside assets, vessel berths, and\nadjacent security zones that are integral to port operations.\n3\n\nIn addition, modern UAS platforms equipped with advanced optical zoom, thermal imaging, and\nother surveillance capabilities may collect sensitive information while operating outside a\nfacility's strict property lines. FAA should provide applicants flexibility to justify reasonable\nsecurity buffer areas to address demonstrated surveillance vulnerabilities and operational risks.\nAAPA encourages FAA to:\n• Allow reasonable flexibility to extend UAFR boundaries beyond strict property lines\nwhen justified by operational security considerations;\n• Permit interconnected maritime and industrial facilities to be treated as a unified security\nsite where appropriate;\n• Consider operational realities unique to ports and waterfront infrastructure such as flight\nrestrictions over critical navigation channels; and\n• Accept USCG-recognized security footprints reflected in approved FSPs.\nAddress Vertical Boundary Limitations and Aerial Surveillance Risks: AAPA encourages\nFAA to further evaluate whether the proposed vertical limitations adequately account for the\nunique characteristics of maritime facilities, existing FAA operational authorities, and the\ncapabilities of modern UAS.\nThe NPRM generally limits UAFRs to 400 feet above ground level unless a facility contains\nstructures exceeding 300 feet in height. While AAPA appreciates FAA's effort to align UAFR\nceilings with existing small UAS operating limitations, this approach may not fully address the\nsecurity risks facing maritime facilities.\nMany port facilities contain ship-to-shore cranes, container handling equipment, refinery\nstructures, loading arms, communications infrastructure, and other industrial assets that routinely\nexceed 150 to 250 feet in height. Under 14 CFR § 107.51(b), small UAS may operate up to 400\nfeet above a structure's immediate uppermost limit. As a result, a drone operating near a 250-foot\nship-to-shore crane could potentially fly as high as 650 feet above ground level while remaining\ncompliant with existing FAA regulations.\nAAPA appreciates the exception proposed in 14 § 74.60(c), which would allow the FAA to raise\na UAFR's altitude ceiling when a facility contains a structure exceeding 300 feet in height.\nHowever, many maritime facilities contain critical infrastructure below that threshold.\nConsequently, a port facility with a 250-foot ship-to-shore crane could face a circumstance where\ndrones are authorized to operate substantially above the proposed UAFR ceiling while still\nmaintaining the ability to observe terminal operations and other sensitive activities.\nThis issue is particularly significant because modern UAS platforms are increasingly capable of\nconducting detailed surveillance from substantial distances and altitudes. High-resolution\ncameras, advanced optical zoom capabilities, thermal imaging systems, wireless signal collection\ntechnologies, and other commercially available tools may allow operators to observe cargo\noperations, military vessel movements, security procedures, access control points, hazardous\nmaterial handling activities, and other sensitive operational information without physically\nentering a facility's immediate perimeter.\n4\n\nBeyond traditional visual surveillance, UAS may also be capable of collecting information\nregarding security personnel assignments and patrol patterns, operational movements, facility\nvulnerabilities, and other indicators of security posture. Certain UAS platforms may also\nfacilitate cyber-enabled reconnaissance activities, including the collection of wireless network\ninformation, signal interception, packet capture, or communications disruption attempts. In\naddition, thermal imaging capabilities may reveal heat signatures associated with critical\ninfrastructure, refrigerated cargo, electrical substations, machinery, vessels, vehicles, or\npersonnel activity, potentially allowing UAS operators to identify active versus dormant\nfacilities, equipment, or operational areas. These concerns are particularly acute at Strategic\nSeaports and other facilities supporting military deployments, defense logistics, energy\ntransportation, and critical supply chain operations, where collected information could have\nsignificant homeland security or national defense implications.\nFrom a security perspective, the risk is not solely the drone's physical presence over a facility,\nbut also its ability to collect intelligence regarding critical infrastructure operations. A drone\noperating above or adjacent to a facility may be capable of observing many of the same activities\nthat would otherwise be protected by physical barriers, fencing, waterside security measures, and\nrestricted access controls. In many cases, the intelligence collection value of a drone may persist\neven when the aircraft remains outside the proposed lateral or vertical boundaries of a UAFR.\nAccordingly, AAPA recommends that FAA:\n• Consider additional flexibility for facilities containing exceptionally tall industrial\nstructures, including ship-to-shore cranes, refinery infrastructure, and other maritime\nassets;\n• Allow applicants to demonstrate a need for expanded vertical protections based on\nfacility-specific security risks and infrastructure characteristics;\n• Evaluate whether existing altitude exceptions could create unintended surveillance\nopportunities that undermine the effectiveness of UAFRs; and\n• Consider amending the altitude restriction proposed in 14 § 74.60 to be 400 feet above\nthe tallest structure on the facility.\nImprove Coordination and Processing Capacity: The NPRM acknowledges that FAA expects\nsignificant application volume and potential delays. AAPA shares concerns regarding whether\nFAA possesses sufficient staffing and resources to review potentially thousands of applications in\na timely manner.\nAAPA encourages FAA to:\n• Expand interagency coordination with Sector Risk Management Agencies (SRMAs),\nincluding USCG and the Department of Homeland Security (DHS);\n• Increase reviewer staffing and technical expertise;\n• Consider phased or prioritized implementation for nationally significant critical\ninfrastructure sectors, such as for those already maintaining FSPs;\n• Develop proposed website-based notice mechanisms to streamline processing while\npreserving meaningful public comment opportunities; and\n5\n\n• Prioritize review and approval of applications submitted by Strategic Seaports and other\nnationally significant facilities supporting military deployments, defense logistics, and\nstrategic sealift operations.\nAddress Authorized Operations and Operational Flexibility: Ports routinely utilize drones\nfor infrastructure inspections, environmental monitoring, emergency response, waterside\nsurveillance, construction management, hazard assessments, and other legitimate operational\npurposes. AAPA requests clarification that UAFRs will not unintentionally impede authorized\nand beneficial port-related UAS operations.\nAAPA supports FAA’s exploration of “whitelisting” Remote ID serial numbers and encourages\nthe development of scalable systems that allow approved operators to conduct legitimate\noperations within UAFRs efficiently and securely. However, AAPA cautions that serial number-\nbased whitelisting alone may not provide sufficient operational flexibility for large port\ncomplexes. At major ports, authorized drone flights may number in the hundreds or thousands\nannually, and the inventory of approved aircraft may change frequently as drones are added,\nreplaced, retired, or assigned to different operational functions.\nTo preserve FAA’s ultimate authority over the National Airspace System while ensuring timely,\nrisk-based decision making, AAPA recommends that FAA develop localized or streamlined\nmechanisms for approving authorized UAS operations within UAFRs at complex critical\ninfrastructure environments such as public port authorities. Such mechanisms could include\nFAA-approved port UAS management plans, streamlined authorization procedures for trusted\noperators, recurring authorization frameworks, or other scalable processes that recognize port\nauthorities as distinct from individual fixed-site operators.\nMany port authorities already maintain mature drone airspace management practices, operational\nexperience, security coordination protocols, and technology-enabled situational awareness\ncapabilities. FAA should consider leveraging these capabilities by allowing port authorities to\ncoordinate authorized UAS operations across multiple facilities within a port-wide UAFR,\nsubject to FAA-approved parameters and appropriate reporting requirements. Quarterly reporting\non authorized flight activity, combined with timely notification of unauthorized incursions or\nmitigation-related incidents, would provide FAA with continued oversight while avoiding\nunnecessary administrative delays for routine, beneficial port operations.\nAAPA also encourages FAA to provide flexibility for port authorities and maritime facilities to\nsatisfy any Remote ID monitoring, notification, or situational awareness requirements through\nshared or port-wide capabilities. Many ports operate as multi-tenant environments with\nnumerous terminals and operators located within a common security framework. Requiring\nduplicative systems for each facility could create unnecessary expense while reducing\noperational efficiency. FAA should allow port authorities or other coordinating entities to\nprovide shared capabilities on behalf of multiple facilities where appropriate.\nProtect Sensitive Security Information and Security Documentation: Maritime facility\napplications for UAFRs may require submission of information already protected under federal\n6\n\nsecurity programs, including FSPs, Facility Security Assessments, vulnerability analyses,\nsecurity system configurations, and related operational information.\nAAPA requests that FAA clearly state in the final rule that Sensitive Security Information and\nother protected security materials submitted in support of UAFR applications will receive\nappropriate protection from public disclosure and will not be incorporated into public notices or\ncomment processes in a manner that could compromise facility security.\nContinue Advancing Detection and Mitigation Authorities: While AAPA supports the\nestablishment of UAFRs, the NPRM itself acknowledges an important limitation: the proposal does not\nindependently authorize any additional drone detection or mitigation authorities.\nWhile UAFRs represent an important step forward, they are most effective when paired with sufficient\ndetection and mitigation capabilities. Establishing restricted airspace without providing operators and law\nenforcement adequate means to identify and respond to unauthorized incursions limits the practical\neffectiveness of the program.\nUAFRs are an important legal and airspace management tool, but they alone will not deter malicious\nactors intentionally disregarding federal law. Ports continue to face real-world drone threats, including\nsurveillance concerns and operational vulnerabilities.\nAccordingly, AAPA urges continued federal efforts to:\n• Expand authorized counter-UAS detection and mitigation capabilities for critical\ninfrastructure;\n• Accelerate the promulgation of approved drone mitigation technologies by federal\nauthorities, including as contemplated under the Safer Skies Act, so that ports and other\ncritical infrastructure operators have adequate lead time to research, test, procure, and\ndeploy mitigation systems appropriate for their individualized operating environments;\n• Increase federal training capacity and available seats for authorized counter-UAS\noperators;\n• Strengthen interagency coordination among FAA, DHS, the Department of Justice, the\nTransportation Security Administration (TSA), and USCG in countering UAS threats;\n• Ensure strategic seaports are appropriately prioritized in future counter-UAS initiatives;\nand\n• Evaluate funding mechanisms and support programs for local law enforcement agencies\nand public port authorities responsible for responding to drone threats affecting critical\ninfrastructure and strategic sealift operations.\nAmerica’s ports are foundational to national defense, supply chain resilience, energy security,\nand economic stability. As drone technology evolves, maritime infrastructure operators require\npractical, scalable, and coordinated tools to address emerging threats while preserving the\nefficiency of the National Airspace System.\nAAPA appreciates the FAA’s engagement with stakeholders and its efforts to establish a long-\noverdue framework for protecting critical infrastructure from unauthorized UAS activity. We\nlook forward to continued collaboration with FAA, DHS, TSA, and USCG to ensure maritime\n7\n\ntransportation facilities can effectively utilize this framework while recognizing the unique\noperational realities of the port environment.\nThank you for considering these comments.\nSincerely,\nSang Yi\nPresident & CEO\nAmerican Association of Port Authorities\n8",
+      "has_attachment": true,
+      "pdf_extracted": true,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0433"
     }
   ]
 };
