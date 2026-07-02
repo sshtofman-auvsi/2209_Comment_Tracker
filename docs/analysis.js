@@ -1,30 +1,30 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-01T20:30:38.040528+00:00",
-  "total": 478,
-  "campaign_count": 308,
-  "campaign_pct": 64,
+  "generated_utc": "2026-07-02T19:02:00.569434+00:00",
+  "total": 488,
+  "campaign_count": 309,
+  "campaign_pct": 63,
   "positions_all": {
-    "support_with_changes": 94,
+    "support_with_changes": 98,
     "unclear": 3,
-    "oppose": 30,
-    "support": 351
+    "oppose": 33,
+    "support": 354
   },
   "positions_ex_campaign": {
-    "support_with_changes": 94,
+    "support_with_changes": 98,
     "unclear": 3,
-    "oppose": 30,
-    "support": 43
+    "oppose": 33,
+    "support": 45
   },
   "categories": [
     {
       "key": "railroad_labor",
       "label": "Railroad labor (write-in campaign)",
-      "count": 308
+      "count": 309
     },
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 94
+      "count": 102
     },
     {
       "key": "individual_part107_operator",
@@ -32,13 +32,13 @@ const ANALYSIS_DATA = {
       "count": 14
     },
     {
-      "key": "drone_company",
-      "label": "Drone companies",
-      "count": 9
-    },
-    {
       "key": "individual_hobbyist",
       "label": "Hobbyists",
+      "count": 10
+    },
+    {
+      "key": "drone_company",
+      "label": "Drone companies",
       "count": 9
     },
     {
@@ -95,47 +95,47 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 185
+      "count": 188
     },
     {
       "label": "National security / threat",
-      "count": 165
+      "count": 168
     },
     {
       "label": "Small business / cost",
-      "count": 159
+      "count": 162
     },
     {
       "label": "Facility eligibility scope",
-      "count": 121
+      "count": 124
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 105
-    },
-    {
-      "label": "First Amendment / media",
-      "count": 73
+      "count": 109
     },
     {
       "label": "Federal preemption",
-      "count": 72
+      "count": 75
     },
     {
       "label": "Transparency / publication",
-      "count": 72
+      "count": 74
+    },
+    {
+      "label": "First Amendment / media",
+      "count": 74
     },
     {
       "label": "Boundaries / altitude",
-      "count": 50
+      "count": 52
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 45
+      "count": 46
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 43
+      "count": 44
     },
     {
       "label": "Contractor / owner gap",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 20
+      "count": 21
     }
   ],
   "timeline": [
@@ -193,8 +193,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W27",
-      "label": "Jul 01",
-      "count": 63
+      "label": "Jul 02",
+      "count": 73
     }
   ],
   "notable": [
@@ -1552,12 +1552,18 @@ const ANALYSIS_DATA = {
       "org": "Concept Solutions, LLC",
       "date": "2026-07-01",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0493"
+    },
+    {
+      "id": "FAA-2026-4558-0502",
+      "org": "Terra Vigilis",
+      "date": "2026-07-02",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0502"
     }
   ],
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 64% of comments (308 of 478) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 63% of comments (309 of 488) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
