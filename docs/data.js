@@ -4,7 +4,7 @@ const COMMENTS_DATA = {
   "title": "Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
   "comment_period_end": "2026-07-06",
   "total_comments": 488,
-  "last_updated": "2026-07-03T18:46:34.230441+00:00",
+  "last_updated": "2026-07-04T17:41:15.071499+00:00",
   "comments": [
     {
       "id": "FAA-2026-4558-0011",
@@ -4396,21 +4396,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0304"
     },
     {
-      "id": "FAA-2026-4558-0296",
-      "commenter": "Kevin Serres",
-      "organization": "",
-      "city": "St. Augustine",
-      "state_province": "FL",
-      "country": "United States",
-      "posted_date": "2026-06-10T04:00:00Z",
-      "received_date": "2026-06-10T04:00:00Z",
-      "comment_text": "My comment is attached in the uploaded File.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0296"
-    },
-    {
       "id": "FAA-2026-4558-0302",
       "commenter": "Anonymous Anonymous",
       "organization": "",
@@ -4439,6 +4424,21 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0301"
+    },
+    {
+      "id": "FAA-2026-4558-0296",
+      "commenter": "Kevin Serres",
+      "organization": "",
+      "city": "St. Augustine",
+      "state_province": "FL",
+      "country": "United States",
+      "posted_date": "2026-06-10T04:00:00Z",
+      "received_date": "2026-06-10T04:00:00Z",
+      "comment_text": "My comment is attached in the uploaded File.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0296"
     },
     {
       "id": "FAA-2026-4558-0312",
@@ -4681,21 +4681,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0314"
     },
     {
-      "id": "FAA-2026-4558-0306",
-      "commenter": "Kenneth Benjamin",
-      "organization": "",
-      "city": "Elgin",
-      "state_province": "OR",
-      "country": "United States",
-      "posted_date": "2026-06-11T04:00:00Z",
-      "received_date": "2026-06-11T04:00:00Z",
-      "comment_text": "Regarding drone usage in railroad terminals.<br/><br/>I am a locomotive engineer, having worked as a brakeman/switchman, remote control operator (remote locomotives) and conductor.  My time working in transportation has been from 05/2004 - 06/2012, and 11/2023 - present<br/><br/>From 06/2012 - 10/2023 I was a manager of operating practices and qualified to operate a drone per railroad rules.  I have seen the drone usage from both sides of this argument. <br/><br/>Rail yards are a dangerous place to work.  The equipment is big, heavy and unforgiving.  A lighter car may way 32 tons (64,000 lbs) and a loaded car 130 tons (230,000 lbs).  You don&#39;t get scratches and bruises, you lose limbs, become physically disabled or die when accidents happen.  <br/><br/>Crews are required to focus on safety and the task at hand.  Railroad managers use drones to observe trainmen performing switching moves, looking for rule violations.  As the railroad I work for has become more heavy handed with discipline, train crews are often more concerned about getting disciplined than the task at hand.  When you add a drone into the equation it increases anxiety and loss of focus resulting in an even more unsafe environment.<br/><br/>Management has demonstrated their willingness to sacrifice safety for rule violations.  I have personally witnessed, when I was a manager, another manager who covered a white strobe on the bottom of the drone with electrical tape to conceal his drone from anyone on the ground looking up.<br/><br/>Railroad rules requires drone operation for testing purposes to be at elevations of 200+ feet AGL.  I have witnessed others operating their drones below this threshold to get a better view of the crew with the camera.<br/><br/>At the inception of the drone program, any drone operation required two managers.  One operating the drone and a second look out who was required to have a visual on the drone at all times.  This rule has been relaxed and now a single drone operator performing the test is permitted.  Nobody is required to observe the drone to ensure it is not at risk of a mid-air collision with other aircraft or stationary objects.<br/><br/>Crews have no way to identify a railroad operated drone or one operated by the public.  Railroads haul millions of gallons of chemicals that fall under the TIH/PIH (Toxic/Poison Inhalation Hazard).  One car can hold as much as 33,000 gallons.  This is the stuff when spilled that kills people and evacuates communities.  Imagine a crew derailing a tank car with 30,000+ gallons of anhydrous ammonia or chlorine and the tank rupturing because the conductor is distracted by a drone.  Perhaps it&#39;s a terrorist attack in progress and conductor thinks it&#39;s just a manager testing him with a drone, so he doesn&#39;t report it.<br/><br/>In summary, we, as rail workers, don&#39;t need added distractions to an already unsafe industry.  We appreciate the FAA investigating our concerns and encourage the FAA to put in place rules that will protect our crews, our infrastructure and our communities.  <br/><br/>Thank you.<br/><br/>",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0306"
-    },
-    {
       "id": "FAA-2026-4558-0313",
       "commenter": "J F",
       "organization": "",
@@ -4709,6 +4694,21 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0313"
+    },
+    {
+      "id": "FAA-2026-4558-0306",
+      "commenter": "Kenneth Benjamin",
+      "organization": "",
+      "city": "Elgin",
+      "state_province": "OR",
+      "country": "United States",
+      "posted_date": "2026-06-11T04:00:00Z",
+      "received_date": "2026-06-11T04:00:00Z",
+      "comment_text": "Regarding drone usage in railroad terminals.<br/><br/>I am a locomotive engineer, having worked as a brakeman/switchman, remote control operator (remote locomotives) and conductor.  My time working in transportation has been from 05/2004 - 06/2012, and 11/2023 - present<br/><br/>From 06/2012 - 10/2023 I was a manager of operating practices and qualified to operate a drone per railroad rules.  I have seen the drone usage from both sides of this argument. <br/><br/>Rail yards are a dangerous place to work.  The equipment is big, heavy and unforgiving.  A lighter car may way 32 tons (64,000 lbs) and a loaded car 130 tons (230,000 lbs).  You don&#39;t get scratches and bruises, you lose limbs, become physically disabled or die when accidents happen.  <br/><br/>Crews are required to focus on safety and the task at hand.  Railroad managers use drones to observe trainmen performing switching moves, looking for rule violations.  As the railroad I work for has become more heavy handed with discipline, train crews are often more concerned about getting disciplined than the task at hand.  When you add a drone into the equation it increases anxiety and loss of focus resulting in an even more unsafe environment.<br/><br/>Management has demonstrated their willingness to sacrifice safety for rule violations.  I have personally witnessed, when I was a manager, another manager who covered a white strobe on the bottom of the drone with electrical tape to conceal his drone from anyone on the ground looking up.<br/><br/>Railroad rules requires drone operation for testing purposes to be at elevations of 200+ feet AGL.  I have witnessed others operating their drones below this threshold to get a better view of the crew with the camera.<br/><br/>At the inception of the drone program, any drone operation required two managers.  One operating the drone and a second look out who was required to have a visual on the drone at all times.  This rule has been relaxed and now a single drone operator performing the test is permitted.  Nobody is required to observe the drone to ensure it is not at risk of a mid-air collision with other aircraft or stationary objects.<br/><br/>Crews have no way to identify a railroad operated drone or one operated by the public.  Railroads haul millions of gallons of chemicals that fall under the TIH/PIH (Toxic/Poison Inhalation Hazard).  One car can hold as much as 33,000 gallons.  This is the stuff when spilled that kills people and evacuates communities.  Imagine a crew derailing a tank car with 30,000+ gallons of anhydrous ammonia or chlorine and the tank rupturing because the conductor is distracted by a drone.  Perhaps it&#39;s a terrorist attack in progress and conductor thinks it&#39;s just a manager testing him with a drone, so he doesn&#39;t report it.<br/><br/>In summary, we, as rail workers, don&#39;t need added distractions to an already unsafe industry.  We appreciate the FAA investigating our concerns and encourage the FAA to put in place rules that will protect our crews, our infrastructure and our communities.  <br/><br/>Thank you.<br/><br/>",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0306"
     },
     {
       "id": "FAA-2026-4558-0311",
@@ -5073,36 +5073,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0339"
     },
     {
-      "id": "FAA-2026-4558-0345",
-      "commenter": "Greg Schmidt",
-      "organization": "",
-      "city": "Seguin",
-      "state_province": "TX",
-      "country": "United States",
-      "posted_date": "2026-06-15T04:00:00Z",
-      "received_date": "2026-06-15T04:00:00Z",
-      "comment_text": "Having drones fly around the rail yards is a big distraction. Rail yards have enough camera in them, drones are needed and constant distractions to those in the yard. The purpose of drones in the yard is to fire employees, if used in emergency situations I wouldn&rsquo;t see the problems with the use of them",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0345"
-    },
-    {
-      "id": "FAA-2026-4558-0348",
-      "commenter": "Anonymous Anonymous",
-      "organization": "",
-      "city": "",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-06-15T04:00:00Z",
-      "received_date": "2026-06-15T04:00:00Z",
-      "comment_text": "Just the other night, my coworker was being distracted by a drone, while in the process of switching. He called it out on the radio as being distracting, and it finally went away. This is a problem that takes your mind off the task at hand, and seriously jeopardizes your safety.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0348"
-    },
-    {
       "id": "FAA-2026-4558-0342",
       "commenter": "Anonymous Anonymous",
       "organization": "",
@@ -5131,6 +5101,36 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0343"
+    },
+    {
+      "id": "FAA-2026-4558-0345",
+      "commenter": "Greg Schmidt",
+      "organization": "",
+      "city": "Seguin",
+      "state_province": "TX",
+      "country": "United States",
+      "posted_date": "2026-06-15T04:00:00Z",
+      "received_date": "2026-06-15T04:00:00Z",
+      "comment_text": "Having drones fly around the rail yards is a big distraction. Rail yards have enough camera in them, drones are needed and constant distractions to those in the yard. The purpose of drones in the yard is to fire employees, if used in emergency situations I wouldn&rsquo;t see the problems with the use of them",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0345"
+    },
+    {
+      "id": "FAA-2026-4558-0348",
+      "commenter": "Anonymous Anonymous",
+      "organization": "",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-15T04:00:00Z",
+      "received_date": "2026-06-15T04:00:00Z",
+      "comment_text": "Just the other night, my coworker was being distracted by a drone, while in the process of switching. He called it out on the radio as being distracting, and it finally went away. This is a problem that takes your mind off the task at hand, and seriously jeopardizes your safety.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0348"
     },
     {
       "id": "FAA-2026-4558-0351",
@@ -5180,6 +5180,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0356"
     },
     {
+      "id": "FAA-2026-4558-0354",
+      "commenter": "Vincent Baer",
+      "organization": "",
+      "city": "Columbus",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-06-16T04:00:00Z",
+      "received_date": "2026-06-15T04:00:00Z",
+      "comment_text": "As a railroader, I can definitely raise the alarm bells with these drone operations. Also as former military, having drones fly over rail yards or tracks raises serious national security issues. Not knowing who is flying a drone above, these operations could be scouting the area for hazardous materials, military equipment, and gaining intel on railroad operations and procedures. In our modern day wartime drones are used to create destruction and even death. The railroad is a highly sensitive area, sometimes transporting explosive materials, toxic gases, and chemicals that can be a danger to the environment. Currently management uses drones for surveillance of its employees to do safety testing. I find this very alarming only because we do not know if in fact it is a manager operating the drone, or someone doing drone surveillance to inflict harm, destroy property, or terrorist activities. Please ban all aerial vehicles over the railroads, and rail yards.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0354"
+    },
+    {
       "id": "FAA-2026-4558-0352",
       "commenter": "Travis Pruitt",
       "organization": "",
@@ -5208,21 +5223,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0353"
-    },
-    {
-      "id": "FAA-2026-4558-0354",
-      "commenter": "Vincent Baer",
-      "organization": "",
-      "city": "Columbus",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-06-16T04:00:00Z",
-      "received_date": "2026-06-15T04:00:00Z",
-      "comment_text": "As a railroader, I can definitely raise the alarm bells with these drone operations. Also as former military, having drones fly over rail yards or tracks raises serious national security issues. Not knowing who is flying a drone above, these operations could be scouting the area for hazardous materials, military equipment, and gaining intel on railroad operations and procedures. In our modern day wartime drones are used to create destruction and even death. The railroad is a highly sensitive area, sometimes transporting explosive materials, toxic gases, and chemicals that can be a danger to the environment. Currently management uses drones for surveillance of its employees to do safety testing. I find this very alarming only because we do not know if in fact it is a manager operating the drone, or someone doing drone surveillance to inflict harm, destroy property, or terrorist activities. Please ban all aerial vehicles over the railroads, and rail yards.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0354"
     },
     {
       "id": "FAA-2026-4558-0358",
@@ -5591,21 +5591,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0405"
     },
     {
-      "id": "FAA-2026-4558-0406",
-      "commenter": "Ken Pearson",
-      "organization": "",
-      "city": "Brandon",
-      "state_province": "MS",
-      "country": "United States",
-      "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-22T04:00:00Z",
-      "comment_text": "Railroad use of drones create unnecessary risk to safety while in performance of our duties. I am a 22 year conductor, and since the introduction of these drones for testing purposes I have tripped over objects in my walking path while being distracted by the presence of the drone. It&rsquo;s never clear whether the drone is rail related or terroristic. I am also an Army veteran and the presence of the drone makes me very nervous and triggers ptsd from my military experience of dealing with unknown drones and drone strikes. <br/><br/>Thank you for your time.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0406"
-    },
-    {
       "id": "FAA-2026-4558-0394",
       "commenter": "David E Jones",
       "organization": "",
@@ -5756,6 +5741,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0399"
     },
     {
+      "id": "FAA-2026-4558-0406",
+      "commenter": "Ken Pearson",
+      "organization": "",
+      "city": "Brandon",
+      "state_province": "MS",
+      "country": "United States",
+      "posted_date": "2026-06-22T04:00:00Z",
+      "received_date": "2026-06-22T04:00:00Z",
+      "comment_text": "Railroad use of drones create unnecessary risk to safety while in performance of our duties. I am a 22 year conductor, and since the introduction of these drones for testing purposes I have tripped over objects in my walking path while being distracted by the presence of the drone. It&rsquo;s never clear whether the drone is rail related or terroristic. I am also an Army veteran and the presence of the drone makes me very nervous and triggers ptsd from my military experience of dealing with unknown drones and drone strikes. <br/><br/>Thank you for your time.",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0406"
+    },
+    {
       "id": "FAA-2026-4558-0401",
       "commenter": "G Rosales",
       "organization": "",
@@ -5784,21 +5784,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0402"
-    },
-    {
-      "id": "FAA-2026-4558-0404",
-      "commenter": "Frank Sicilia",
-      "organization": "",
-      "city": "Coeur D Alene",
-      "state_province": "ID",
-      "country": "United States",
-      "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-22T04:00:00Z",
-      "comment_text": "I&rsquo;m a 33 year career railroad engineer. Our rail yards are dangerous enough without having drones flying overhead. There are so many safety concerns with this I&rsquo;m truly surprised you&rsquo;re actually letting this type of activity happen. The risks vs reward do not add up. We all deal with and understand operations testing. When you allow laziness and that&rsquo;s what this is, that&rsquo;s where problems really start. Complacency breads contempt. The hazardous environment we work in already has too many dangers to deal with without having to worry about drones. There&rsquo;s such a security risk to this as well. No one will be able to distinguish if this is a railroad drone or a terrorist drone. We transport millions of gallons of hazardous chemicals, government equipment, and items that are vital to our nations security and infrastructure. In truth this should be a complete no fly zone as it is. Thank you for your time.",
-      "has_attachment": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0404"
     },
     {
       "id": "FAA-2026-4558-0395",
@@ -5891,6 +5876,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0386"
     },
     {
+      "id": "FAA-2026-4558-0388",
+      "commenter": "Eric Jenness",
+      "organization": "",
+      "city": "Houston",
+      "state_province": "TX",
+      "country": "",
+      "posted_date": "2026-06-22T04:00:00Z",
+      "received_date": "2026-06-19T04:00:00Z",
+      "comment_text": "As a train conductor, my duties are safety sensitive and include significant hazards. These hazards include physical crushing hazards to myself resulting in maiming or death, as well as toxic chemicals that could cause a mass casualty event of released.<br/>   I need every bit of concentration I have at all times during critical moves such as &quot;shoving&quot;, or directing back-up maneuvers using radio transmissions. <br/>   At my carrier, moments such as these require what is termed a &quot;cab red zone&quot;, or CRZ. During a CRX, we may be disciplined or fired for making any conversation not related to the task at hand, including job duties not pertinent to the present moment. <br/>   Railroad managers are currently commissioned to fly drones overhead while we are engaging in shoves and other moves necessitating a CRZ. I strongly feel that being distracted by a drone is a direct violation of the Cab Red Zone intent, which is to ensure that our focus is on the task at hand. <br/>    My ability to concentrate is highly stressed during a drone observation by management, and that endangers not just myself but also the public with the risk of a release of hazardous materials.<br/>",
+      "has_attachment": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0388"
+    },
+    {
       "id": "FAA-2026-4558-0391",
       "commenter": "Jordan Boone",
       "organization": "",
@@ -5936,19 +5936,19 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0368"
     },
     {
-      "id": "FAA-2026-4558-0388",
-      "commenter": "Eric Jenness",
+      "id": "FAA-2026-4558-0404",
+      "commenter": "Frank Sicilia",
       "organization": "",
-      "city": "Houston",
-      "state_province": "TX",
-      "country": "",
+      "city": "Coeur D Alene",
+      "state_province": "ID",
+      "country": "United States",
       "posted_date": "2026-06-22T04:00:00Z",
-      "received_date": "2026-06-19T04:00:00Z",
-      "comment_text": "As a train conductor, my duties are safety sensitive and include significant hazards. These hazards include physical crushing hazards to myself resulting in maiming or death, as well as toxic chemicals that could cause a mass casualty event of released.<br/>   I need every bit of concentration I have at all times during critical moves such as &quot;shoving&quot;, or directing back-up maneuvers using radio transmissions. <br/>   At my carrier, moments such as these require what is termed a &quot;cab red zone&quot;, or CRZ. During a CRX, we may be disciplined or fired for making any conversation not related to the task at hand, including job duties not pertinent to the present moment. <br/>   Railroad managers are currently commissioned to fly drones overhead while we are engaging in shoves and other moves necessitating a CRZ. I strongly feel that being distracted by a drone is a direct violation of the Cab Red Zone intent, which is to ensure that our focus is on the task at hand. <br/>    My ability to concentrate is highly stressed during a drone observation by management, and that endangers not just myself but also the public with the risk of a release of hazardous materials.<br/>",
+      "received_date": "2026-06-22T04:00:00Z",
+      "comment_text": "I&rsquo;m a 33 year career railroad engineer. Our rail yards are dangerous enough without having drones flying overhead. There are so many safety concerns with this I&rsquo;m truly surprised you&rsquo;re actually letting this type of activity happen. The risks vs reward do not add up. We all deal with and understand operations testing. When you allow laziness and that&rsquo;s what this is, that&rsquo;s where problems really start. Complacency breads contempt. The hazardous environment we work in already has too many dangers to deal with without having to worry about drones. There&rsquo;s such a security risk to this as well. No one will be able to distinguish if this is a railroad drone or a terrorist drone. We transport millions of gallons of hazardous chemicals, government equipment, and items that are vital to our nations security and infrastructure. In truth this should be a complete no fly zone as it is. Thank you for your time.",
       "has_attachment": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0388"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0404"
     },
     {
       "id": "FAA-2026-4558-0413",
@@ -6150,19 +6150,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0422"
     },
     {
-      "id": "FAA-2026-4558-0417",
-      "commenter": "Comment from Office of the Attorney General of the State of New York",
-      "organization": "",
+      "id": "FAA-2026-4558-0420",
+      "commenter": "Comment from Seneca Innovations",
+      "organization": "Seneca Innovations",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-06-25T04:00:00Z",
-      "received_date": "2026-06-24T04:00:00Z",
-      "comment_text": "The Office of the Attorney General of the State of New York respectfully requests that the Federal Aviation Administration (FAA) provide a 30-day extension for public comments on the notice of proposed rulemaking titled &quot;Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; for the reasons stated in the attached letter. We respectfully request that any notice by the FAA concerning this request be published in the Federal Register no later than July 3, 2026.",
+      "received_date": "2026-06-25T04:00:00Z",
+      "comment_text": "Mandate a fast-track authorization pathway for commercial operators.<br/><br/>The proposed rule creates restrictions with no corresponding authorization system. The practical consequence is that Part 107 commercial operators performing facility-invited work (infrastructure inspections, utility surveys, maintenance documentation) will have no reliable pathway to access UAFR airspace even when the facility has authorized them. The LAANC program demonstrated that the private sector can build and operate fast, reliable airspace authorization infrastructure under FAA authorization. A UAFR authorization platform requires more facility-level customization than LAANC&#39;s geographic zone model, but the architecture is achievable and the market will build it if the FAA requires it. The final rule should mandate that any active UAFR include a defined, FAA-authorized authorization pathway for compliant commercial operators and emergency services personnel. That pathway should provide near-real-time field verification, allow facilities to pre-register authorized operators by Remote ID, and produce a logged record of all authorized operations within the UAFR. Without this requirement, the rule effectively grounds the commercial operators that the facilities themselves depend on for maintenance and inspection.",
       "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0417"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0420"
     },
     {
       "id": "FAA-2026-4558-0421",
@@ -6182,21 +6184,19 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0421"
     },
     {
-      "id": "FAA-2026-4558-0420",
-      "commenter": "Comment from Seneca Innovations",
-      "organization": "Seneca Innovations",
+      "id": "FAA-2026-4558-0417",
+      "commenter": "Comment from Office of the Attorney General of the State of New York",
+      "organization": "",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-06-25T04:00:00Z",
-      "received_date": "2026-06-25T04:00:00Z",
-      "comment_text": "Mandate a fast-track authorization pathway for commercial operators.<br/><br/>The proposed rule creates restrictions with no corresponding authorization system. The practical consequence is that Part 107 commercial operators performing facility-invited work (infrastructure inspections, utility surveys, maintenance documentation) will have no reliable pathway to access UAFR airspace even when the facility has authorized them. The LAANC program demonstrated that the private sector can build and operate fast, reliable airspace authorization infrastructure under FAA authorization. A UAFR authorization platform requires more facility-level customization than LAANC&#39;s geographic zone model, but the architecture is achievable and the market will build it if the FAA requires it. The final rule should mandate that any active UAFR include a defined, FAA-authorized authorization pathway for compliant commercial operators and emergency services personnel. That pathway should provide near-real-time field verification, allow facilities to pre-register authorized operators by Remote ID, and produce a logged record of all authorized operations within the UAFR. Without this requirement, the rule effectively grounds the commercial operators that the facilities themselves depend on for maintenance and inspection.",
+      "received_date": "2026-06-24T04:00:00Z",
+      "comment_text": "The Office of the Attorney General of the State of New York respectfully requests that the Federal Aviation Administration (FAA) provide a 30-day extension for public comments on the notice of proposed rulemaking titled &quot;Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; for the reasons stated in the attached letter. We respectfully request that any notice by the FAA concerning this request be published in the Federal Register no later than July 3, 2026.",
       "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0420"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0417"
     },
     {
       "id": "FAA-2026-4558-0426",
@@ -6505,40 +6505,6 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0456"
     },
     {
-      "id": "FAA-2026-4558-0454",
-      "commenter": "Maria L",
-      "organization": "",
-      "city": "New York",
-      "state_province": "NY",
-      "country": "United States",
-      "posted_date": "2026-06-30T04:00:00Z",
-      "received_date": "2026-06-30T04:00:00Z",
-      "comment_text": "There is no reason that the people shouldn&rsquo;t be able to see where their food comes from. Transparency and health is supposed to be key in the current health movement. How can agriculture be hidden yet consumed?",
-      "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0454"
-    },
-    {
-      "id": "FAA-2026-4558-0446",
-      "commenter": "Jam Allison",
-      "organization": "",
-      "city": "Portland",
-      "state_province": "OR",
-      "country": "United States",
-      "posted_date": "2026-06-30T04:00:00Z",
-      "received_date": "2026-06-30T04:00:00Z",
-      "comment_text": "RE: Docket No. FAA-2026-4558 &mdash; Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility<br/>I&rsquo;m a licensed Part 107 drone pilot writing to urge the FAA to exclude factory farms and other industrial animal agriculture facilities from the &ldquo;Food and Agriculture&rdquo; critical infrastructure sector eligible for Unmanned Aircraft Flight Restrictions (UAFRs) &mdash; or, at minimum, to set a strict, evidence-based bar for any facility seeking one.<br/>Section 2209 exists to protect sites where a drone poses a real safety or security threat: power plants, refineries, prisons, dams. A barn complex or manure lagoon doesn&rsquo;t fit that category, and Congress removed the open-ended &ldquo;other locations&rdquo; catch-all in 2024 specifically to keep this rule narrow. The NPRM lists Food and Agriculture as an eligible sector but leaves its criteria blank &mdash; this comment urges the FAA to either drop the sector or write criteria that demand a documented threat, not just a desire to avoid scrutiny.<br/>Licensed drone pilots are one of the only independent checks left on this industry. Ag-gag laws in many states already criminalize undercover ground investigation, even on public land. Legal drone flight in public airspace has become one of the few remaining lawful ways to document conditions invisible from the road: lagoon overflows, overcrowding, ventilation failures, and waste mismanagement.<br/>This matters directly to consumers. Labels like &ldquo;humane&rdquo; and &ldquo;free-range&rdquo; are loosely regulated and rarely verified independently. Aerial documentation is often the only real check between marketing claims and reality &mdash; restricting it widens the information gap between producers and the people buying their products.<br/>It matters for public health too. Outside documentation has repeatedly driven faster scrutiny of biosecurity failures during avian flu and other livestock disease events than industry self-reporting alone. If &ldquo;biosecurity&rdquo; becomes the default justification for airspace restriction, it should require actual evidence of a drone-related transmission or disruption risk &mdash; not just an assertion.<br/>It matters for the environment. CAFOs are a major source of water pollution, and enforcement leans heavily on self-reporting and under-resourced inspections. Aerial observation has repeatedly caught lagoon breaches and unpermitted waste application invisible from ground level. Restricting drone access removes one of the few independent environmental checks this industry has.<br/>And it matters for the animals raised in these facilities, whose treatment is visible to the public &mdash; when it&rsquo;s visible at all &mdash; largely because of legal aerial documentation.<br/>I ask the FAA to:<br/><span style='padding-left: 30px'></span>1.<span style='padding-left: 30px'></span>Exclude CAFOs and similar facilities from Food and Agriculture sector UAFR eligibility, absent documented drone-specific safety risk.<br/><span style='padding-left: 30px'></span>2.<span style='padding-left: 30px'></span>If the sector is retained, require rigorous criteria: documented vulnerability, exhausted self-help measures, and no reliance on unsupported biosecurity claims.<br/><span style='padding-left: 30px'></span>3.<span style='padding-left: 30px'></span>Protect Part 107 commercial transit rights within any granted UAFR, so notification requirements can&rsquo;t be used to anticipate and block documentation flights.<br/><span style='padding-left: 30px'></span>4.<span style='padding-left: 30px'></span>Require enhanced public notice for agricultural UAFR applications, reaching regulators, journalists, and the public.<br/><span style='padding-left: 30px'></span>5.<span style='padding-left: 30px'></span>State explicitly that UAFR designation does not shield facilities from lawful environmental, public health, or animal welfare documentation.<br/>The FAA&rsquo;s job under Section 2209 is narrow: protect genuinely high-risk sites from real drone threats. Industrial animal agriculture doesn&rsquo;t naturally belong in that category, and this rule shouldn&rsquo;t become a tool for shielding it from the scrutiny a functioning food system depends on.<br/>Respectfully submitted,<br/>Jam Allison<br/>Portland, OR​​​​​​​​​​​​​​​​",
-      "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0446"
-    },
-    {
       "id": "FAA-2026-4558-0441",
       "commenter": "Anonymous Anonymous",
       "organization": "",
@@ -6554,23 +6520,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0441"
-    },
-    {
-      "id": "FAA-2026-4558-0438",
-      "commenter": "Harry Hammel",
-      "organization": "",
-      "city": "",
-      "state_province": "HI",
-      "country": "",
-      "posted_date": "2026-06-30T04:00:00Z",
-      "received_date": "2026-06-29T04:00:00Z",
-      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. We hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal.<br/><br/>While the FAA proposal does not automatically restrict drone access to all agricultural facilities, it could create a pathway for some facilities to seek restrictions on aerial documentation.  There is not doubt that responsible drone photography serves the public interest. Aerial imagery helps the public understand issues related to animal welfare, the environment, food production, and disaster response. It is a critical tool for visual storytelling and education- and the truth on the ground. <br/>Professional drone operators in the U.S. already operate within a framework of federal, state, and local regulations designed to promote safety. We Animals supports responsible drone operation and works with qualified drone operators who comply with applicable FAA requirements. Our concern is not that drone operators must meet safety and licensing standards. Rather, it is that site-specific flight restrictions could prevent journalists and photographers from documenting matters of public interest.",
-      "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0438"
     },
     {
       "id": "FAA-2026-4558-0440",
@@ -6590,21 +6539,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0440"
     },
     {
-      "id": "FAA-2026-4558-0445",
-      "commenter": "Anonymous Anonymous",
+      "id": "FAA-2026-4558-0446",
+      "commenter": "Jam Allison",
       "organization": "",
-      "city": "",
-      "state_province": "",
-      "country": "",
+      "city": "Portland",
+      "state_province": "OR",
+      "country": "United States",
       "posted_date": "2026-06-30T04:00:00Z",
       "received_date": "2026-06-30T04:00:00Z",
-      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. I hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal. As a citizen I want journalists to be able to investigate and disseminate information about our food system, and I urge the FAA to continue allowing drone photography of industrial animal agriculture.",
+      "comment_text": "RE: Docket No. FAA-2026-4558 &mdash; Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility<br/>I&rsquo;m a licensed Part 107 drone pilot writing to urge the FAA to exclude factory farms and other industrial animal agriculture facilities from the &ldquo;Food and Agriculture&rdquo; critical infrastructure sector eligible for Unmanned Aircraft Flight Restrictions (UAFRs) &mdash; or, at minimum, to set a strict, evidence-based bar for any facility seeking one.<br/>Section 2209 exists to protect sites where a drone poses a real safety or security threat: power plants, refineries, prisons, dams. A barn complex or manure lagoon doesn&rsquo;t fit that category, and Congress removed the open-ended &ldquo;other locations&rdquo; catch-all in 2024 specifically to keep this rule narrow. The NPRM lists Food and Agriculture as an eligible sector but leaves its criteria blank &mdash; this comment urges the FAA to either drop the sector or write criteria that demand a documented threat, not just a desire to avoid scrutiny.<br/>Licensed drone pilots are one of the only independent checks left on this industry. Ag-gag laws in many states already criminalize undercover ground investigation, even on public land. Legal drone flight in public airspace has become one of the few remaining lawful ways to document conditions invisible from the road: lagoon overflows, overcrowding, ventilation failures, and waste mismanagement.<br/>This matters directly to consumers. Labels like &ldquo;humane&rdquo; and &ldquo;free-range&rdquo; are loosely regulated and rarely verified independently. Aerial documentation is often the only real check between marketing claims and reality &mdash; restricting it widens the information gap between producers and the people buying their products.<br/>It matters for public health too. Outside documentation has repeatedly driven faster scrutiny of biosecurity failures during avian flu and other livestock disease events than industry self-reporting alone. If &ldquo;biosecurity&rdquo; becomes the default justification for airspace restriction, it should require actual evidence of a drone-related transmission or disruption risk &mdash; not just an assertion.<br/>It matters for the environment. CAFOs are a major source of water pollution, and enforcement leans heavily on self-reporting and under-resourced inspections. Aerial observation has repeatedly caught lagoon breaches and unpermitted waste application invisible from ground level. Restricting drone access removes one of the few independent environmental checks this industry has.<br/>And it matters for the animals raised in these facilities, whose treatment is visible to the public &mdash; when it&rsquo;s visible at all &mdash; largely because of legal aerial documentation.<br/>I ask the FAA to:<br/><span style='padding-left: 30px'></span>1.<span style='padding-left: 30px'></span>Exclude CAFOs and similar facilities from Food and Agriculture sector UAFR eligibility, absent documented drone-specific safety risk.<br/><span style='padding-left: 30px'></span>2.<span style='padding-left: 30px'></span>If the sector is retained, require rigorous criteria: documented vulnerability, exhausted self-help measures, and no reliance on unsupported biosecurity claims.<br/><span style='padding-left: 30px'></span>3.<span style='padding-left: 30px'></span>Protect Part 107 commercial transit rights within any granted UAFR, so notification requirements can&rsquo;t be used to anticipate and block documentation flights.<br/><span style='padding-left: 30px'></span>4.<span style='padding-left: 30px'></span>Require enhanced public notice for agricultural UAFR applications, reaching regulators, journalists, and the public.<br/><span style='padding-left: 30px'></span>5.<span style='padding-left: 30px'></span>State explicitly that UAFR designation does not shield facilities from lawful environmental, public health, or animal welfare documentation.<br/>The FAA&rsquo;s job under Section 2209 is narrow: protect genuinely high-risk sites from real drone threats. Industrial animal agriculture doesn&rsquo;t naturally belong in that category, and this rule shouldn&rsquo;t become a tool for shielding it from the scrutiny a functioning food system depends on.<br/>Respectfully submitted,<br/>Jam Allison<br/>Portland, OR​​​​​​​​​​​​​​​​",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0445"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0446"
     },
     {
       "id": "FAA-2026-4558-0439",
@@ -6624,21 +6573,55 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0439"
     },
     {
-      "id": "FAA-2026-4558-0458",
-      "commenter": "Louis Navarro",
+      "id": "FAA-2026-4558-0445",
+      "commenter": "Anonymous Anonymous",
       "organization": "",
       "city": "",
       "state_province": "",
-      "country": "United States",
+      "country": "",
       "posted_date": "2026-06-30T04:00:00Z",
       "received_date": "2026-06-30T04:00:00Z",
-      "comment_text": "Is this to force people to trespass on the property to be able to look at the wellbeing of animals that are being treated in horrendous ways? I&#39;m asking, because there&#39;s no way to stop people from caring about animals even if you try to hide them and make it difficult for a caring human being. There will always be ways to expose the horrors of factory farms",
+      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. I hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal. As a citizen I want journalists to be able to investigate and disseminate information about our food system, and I urge the FAA to continue allowing drone photography of industrial animal agriculture.",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0458"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0445"
+    },
+    {
+      "id": "FAA-2026-4558-0438",
+      "commenter": "Harry Hammel",
+      "organization": "",
+      "city": "",
+      "state_province": "HI",
+      "country": "",
+      "posted_date": "2026-06-30T04:00:00Z",
+      "received_date": "2026-06-29T04:00:00Z",
+      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. We hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal.<br/><br/>While the FAA proposal does not automatically restrict drone access to all agricultural facilities, it could create a pathway for some facilities to seek restrictions on aerial documentation.  There is not doubt that responsible drone photography serves the public interest. Aerial imagery helps the public understand issues related to animal welfare, the environment, food production, and disaster response. It is a critical tool for visual storytelling and education- and the truth on the ground. <br/>Professional drone operators in the U.S. already operate within a framework of federal, state, and local regulations designed to promote safety. We Animals supports responsible drone operation and works with qualified drone operators who comply with applicable FAA requirements. Our concern is not that drone operators must meet safety and licensing standards. Rather, it is that site-specific flight restrictions could prevent journalists and photographers from documenting matters of public interest.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0438"
+    },
+    {
+      "id": "FAA-2026-4558-0454",
+      "commenter": "Maria L",
+      "organization": "",
+      "city": "New York",
+      "state_province": "NY",
+      "country": "United States",
+      "posted_date": "2026-06-30T04:00:00Z",
+      "received_date": "2026-06-30T04:00:00Z",
+      "comment_text": "There is no reason that the people shouldn&rsquo;t be able to see where their food comes from. Transparency and health is supposed to be key in the current health movement. How can agriculture be hidden yet consumed?",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0454"
     },
     {
       "id": "FAA-2026-4558-0459",
@@ -6656,6 +6639,23 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0459"
+    },
+    {
+      "id": "FAA-2026-4558-0458",
+      "commenter": "Louis Navarro",
+      "organization": "",
+      "city": "",
+      "state_province": "",
+      "country": "United States",
+      "posted_date": "2026-06-30T04:00:00Z",
+      "received_date": "2026-06-30T04:00:00Z",
+      "comment_text": "Is this to force people to trespass on the property to be able to look at the wellbeing of animals that are being treated in horrendous ways? I&#39;m asking, because there&#39;s no way to stop people from caring about animals even if you try to hide them and make it difficult for a caring human being. There will always be ways to expose the horrors of factory farms",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0458"
     },
     {
       "id": "FAA-2026-4558-0448",
@@ -6690,6 +6690,23 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0444"
+    },
+    {
+      "id": "FAA-2026-4558-0436",
+      "commenter": "Elise Hsieh",
+      "organization": "",
+      "city": "Anchorage",
+      "state_province": "AK",
+      "country": "United States",
+      "posted_date": "2026-06-30T04:00:00Z",
+      "received_date": "2026-06-29T04:00:00Z",
+      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. We hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal.<br/><br/>While the FAA proposal does not automatically restrict drone access to all agricultural facilities, it could create a pathway for some facilities to seek restrictions on aerial documentation.  There is not doubt that responsible drone photography serves the public interest. Aerial imagery helps the public understand issues related to animal welfare, the environment, food production, and disaster response. It is a critical tool for visual storytelling and education- and the truth on the ground. <br/>Professional drone operators in the U.S. already operate within a framework of federal, state, and local regulations designed to promote safety. We Animals supports responsible drone operation and works with qualified drone operators who comply with applicable FAA requirements. Our concern is not that drone operators must meet safety and licensing standards. Rather, it is that site-specific flight restrictions could prevent journalists and photographers from documenting matters of public interest.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0436"
     },
     {
       "id": "FAA-2026-4558-0435",
@@ -6741,23 +6758,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0437"
-    },
-    {
-      "id": "FAA-2026-4558-0436",
-      "commenter": "Elise Hsieh",
-      "organization": "",
-      "city": "Anchorage",
-      "state_province": "AK",
-      "country": "United States",
-      "posted_date": "2026-06-30T04:00:00Z",
-      "received_date": "2026-06-29T04:00:00Z",
-      "comment_text": "Drone photography has become one of the most important tools for making the often-hidden world of industrial animal agriculture visible. We hope the FAA will carefully consider the public value of aerial photojournalism as it evaluates this proposal.<br/><br/>While the FAA proposal does not automatically restrict drone access to all agricultural facilities, it could create a pathway for some facilities to seek restrictions on aerial documentation.  There is not doubt that responsible drone photography serves the public interest. Aerial imagery helps the public understand issues related to animal welfare, the environment, food production, and disaster response. It is a critical tool for visual storytelling and education- and the truth on the ground. <br/>Professional drone operators in the U.S. already operate within a framework of federal, state, and local regulations designed to promote safety. We Animals supports responsible drone operation and works with qualified drone operators who comply with applicable FAA requirements. Our concern is not that drone operators must meet safety and licensing standards. Rather, it is that site-specific flight restrictions could prevent journalists and photographers from documenting matters of public interest.",
-      "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0436"
     },
     {
       "id": "FAA-2026-4558-0455",
@@ -7032,21 +7032,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0488"
     },
     {
-      "id": "FAA-2026-4558-0495",
-      "commenter": "Ralph Chiczewski",
-      "organization": "",
-      "city": "Chicago",
-      "state_province": "IL",
-      "country": "United States",
+      "id": "FAA-2026-4558-0492",
+      "commenter": "Comment from HTS Ag",
+      "organization": "HTS Ag",
+      "city": "",
+      "state_province": "",
+      "country": "",
       "posted_date": "2026-07-01T04:00:00Z",
       "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "June 26, 2026\nTo: Federal Aviation Administration Docket No. FAA-2026-4558\nDocket Operations; U.S. Department of Transportation (DOT)\n1200 New Jersey Avenue, SE, Room W58-213\nWest Building 5th Floor\nWashington DC 20590-0001\nFrom: Ralph Chiczewski\nAssistant Commissioner/Security and Safety\nChicago Department of Water Management\nSubject: City of Chicago Department of Water Management\nComments Regarding NPRM, Designation: Restrict the Operation of\nUnmanned Aircraft in Close Proximity to a Fixed Site Facility\nDear Department of Transportation/ Federal Aviation Administration:\nThe City of Chicago, Department of Water Management (“CDWM”) owns, operates, and\nmanages substantial water infrastructure in Chicago. CDWM is responsible for the\npurification of safe drinking water for the majority of people in Northeast Illinois. CDWM’s\nmission is reliant on secure purification operations. We are keenly vested in ensuring that\nthere is a practical approach to the recent dynamic growth and development of unmanned\naircraft systems (UAS) balanced against the very real security concerns stemming from\nunregulated UAS access to sensitive locations. We applaud the Department of\nTransportation/ Federal Aviation Administration for proposing new 14 CFR Part 74 to\nbring better parity to both important interests.\nUASs are fundamentally changing the security profiles at critical infrastructure facilities.\nThe low cost of UAS technology has triggered hundreds of thousands of new operators\nto enter the aviation community, some of whom have aviation knowledge and experience\nand many others who do not. The proliferation of these operations presents significant\nsafety and security implications of UAS flying in close proximity to critical infrastructure,\nsuch as water supply facilities.\nCDWM strongly supports the proposed new regulations to better manage UAS\noperations in close proximity to critical facilities such as DWM purification plants,\nwater cribs, pumping stations, and reservoirs. It is a matter of National and Homeland\nsecurity that CDWM water supply facilities are protected from accidental, intentional UAS\nattacks or UAS surveillance.\nWe fully concur with the Department of Transportation/Federal Aviation Administration’s\n(DOT/FAA) need to “integrate [UASs] into the airspace of the United States while\nbalancing the needs of security stakeholders.” (Department of Transportation,\n1\n\n“Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed\nSite Facility,” Federal Register 91, no. 87 [May 6, 2026]: 24680.)\nIn relation to the proposed rulemaking, I am further respectfully submitting the following\nspecific comments for your consideration regarding the subject matter referenced above\non behalf of CDWM Commissioner Randy Conner.\n• Lateral Boundaries: Proposed rule §74.58 (b)(1) would require the unmanned\naircraft flight restriction (UAFR) lateral boundaries under §74.58 not to “exceed the\nother fixed site facility property boundary.” (ibid, 24687.) For CDWM, a serious\nconcern with UASs is their ability to perform surveillance operations on our\nfacilities. This concern emanates from the sensitive nature of CDWM purification,\npumping, and transmission operations. Equally as concerning is the fact that we\ntake delivery of various substances that are required for our operations. We do not\nfeel that limiting the UAFR lateral boundaries merely to legal boundaries\nmeaningfully addresses our surveillance concerns. Without getting into too many\nspecifics, a distance of at least ¼ mile from our legal boundaries would provide us\nwith better assurance that unauthorized surveillance opportunities would be\nsubstantively compromised. We agree that DOT/FAA must strike a proper balance\nbetween two compelling interests. Therefore, while we would prefer to see the\nUAFR lateral boundary for all of our facilities at ¼, we would adhere to any other\nformula developed by DOT/FAA to extend UAFR lateral boundaries for sensitive\nfixed sites beyond their legal boundaries. As such, we would recommend\nappending the following language at the end of §74.58 (b)(1): “or other lateral\nboundary in exceptional cases as determined at the sole and exclusive discretion\nof FAA.”\n• Altitude Ceiling: Proposed rule §74.60(b)(2) would largely limit the UAFR at a\nheight not to “exceed 400 feet above ground level….” (ibid, 24687). For CDWM,\nour concern is that with the continued rapid evolution of UAS technology, this\nheight restriction may not be sufficient to limit surveillance of our properties. In\nstriking a balance, we, therefore, recommend the addition of the following at the\nend of §74.60(b)(2): “or other altitude ceiling in exceptional cases as determined\nat the sole and exclusive discretion of FAA.”\n• Eligible Facilities – Water and Wastewater Systems Sector: To qualify for a\nUAFR, a fixed site facility must be an eligible facility under proposed §74.54 (ibid,\n24686). As indicated in §74.96, Water systems are one of the sixteen (16) sectors\nspecifically referenced in the proposed rules as an eligible facility under section\n§74.54. (ibid, 24689). Section 74.96 is presently open-ended as “Reserved” with\nrespect to the eligibility criteria needed for this sector. CDWM offers the following\nas possible eligibility criteria under §74.96 following that Section’s preamble:\no “(a) Public water systems that provide water for human consumption\nthrough pipes or other constructed conveyances to at least 15 service\nconnections or serve an average of at least 25 people for at least 60 days\n2\n\na year. This would include 1) Community Water Systems, 2) Non-Transient\nNon-Community Water System, and 3) Transient Non-Community Water\nSystem;”\n▪ This broad definition is pulled directly from the Federal Registrar\n(ibid, 24672). Aside from air, water is the most important natural\nelement needed for life. CDWM is among the largest 410 community\nwater systems that serve more than 100,000 people. However,\nCDWM believes that all water providers should be afforded UAFR\nprotections regardless of their size. As noted by the Cybersecurity &\nInfrastructure Security Agency (COSA), “[p]rotecting the systems\nthat provide water is vitally important to the stability and health of the\nnation….” (www.cisa.gov/topics/critical-infrastructure-security-and-\nresilience/critical-infrastructure-sectors/water-and-wastewater-\nsector.) No community water systems should be penalized because\nof their size.\no “(b) Provides purified water to multiple local government jurisdictions;\no “(c) Provides purified water across multiple counties;\no “(d) Provides purified water to a service delivery area greater than 10 miles;\no “(e) Provides purified water to one or more fixed facility sectors as defined\nis §74.81 through §74.94;\no “(f) Is located within ¼ mile of any facility that has an annual that met or\nexceeded 2,500,00 visitors in the previous calenda year;\no “(g) Where the United States Environmental Protection Agency (EPA)\ndetermines that a public water system has a Risk and Resilience\nAssessment (RRA) and an Emergency Response Plan (ERP) that is\ncompliant with the Safe Drinking Water (SDWA) section 1433 as amended\nby America’s Water Infrastructure Act (AWIA) section 2013, that public\nwater system establishes a prima facie case for eligibility as fixed site\nfacility.”\nIf enacted, CDWM would submit our UAFR application and would comply with all UAFR\nregulatory requirements. This process should be confidential so that proprietary and\nsensitive information is not inadvertently divulged. It is also recommended that there is\nclear and consistent accountability for instances of any UAS violations of the proposed\nrule.\nI am the Assistant Commissioner in charge of Safety and Security at CDWM. I have over\n30 years of experience in Law Enforcement and over 10 years protecting the Chicago\n3\n\nDepartment of Water Management. I currently possess “Secret” Homeland Security\nClearance.\n4",
+      "comment_text": "Docket No. FAA–2026–4558\nNotice No. 26–03\nDesignation—Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site\nFacility\nRE: Comments on Proposed Unmanned Aircraft Flight Restriction (UAFR) Rule\nTo Whom It May Concern:\nI appreciate the opportunity to comment on the FAA's proposed rule establishing Unmanned\nAircraft Flight Restrictions (UAFRs) around certain fixed-site facilities.\nI submit these comments as President of HTS Ag, an agricultural technology company serving\nfarmers, agricultural retailers, cooperatives, and commercial drone operators throughout the Midwest.\nOur company works extensively with precision agriculture technologies, including unmanned aircraft\nsystems used for crop scouting, mapping, spraying, and agricultural data collection.\nI support the FAA's effort to improve aviation safety and protect critical infrastructure while\npreserving the continued growth of commercial UAS operations. The proposed rule generally strikes an\nappropriate balance between security needs and the integration of drones into the National Airspace\nSystem.\nSupport for Agricultural Drone Operations\nI strongly support the FAA's proposal to allow agricultural drone operations conducted under Part\n137 and other approved operating authorities to continue operating within UAFRs, subject to Remote ID\nand notification requirements.\nAgricultural drones provide significant benefits, including improved input efficiency, reduced\nenvironmental impact, increased worker safety, and greater productivity. Restricting these operations\nwould create unnecessary burdens for agriculture with limited security benefit.\nFood and Agriculture Sector Eligibility\nI agree with the FAA's conclusion that broad inclusion of production agriculture facilities would be\ninappropriate.\nMost farms should not be eligible for UAFRs. Precision agriculture increasingly depends on drone\ntechnology, and expanding restrictions across production agriculture would unnecessarily limit\ninnovation and adoption.\nIf the FAA establishes eligibility criteria for the Food and Agriculture Sector in the future, those\ncriteria should be limited to facilities whose disruption would have significant regional or national\nconsequences, such as:\n• Major grain export terminals\n• Nationally significant food processing facilities\n• Strategic food reserve facilities\n• Critical agricultural supply chain infrastructure\n111 4th Street, Neola, IA 51559\n(800)741-3305\nwww.htsag.com\n\nEligibility should be based on demonstrated economic and food-security impact, not acreage,\nownership size, or production volume alone.\nNotification and Remote ID\nThe proposed reliance on Remote ID is a practical approach that allows lawful operators to remain\nidentifiable while supporting security objectives.\nAs UAFRs expand, I encourage the FAA to pursue automated notification systems that leverage\nRemote ID and digital authorization tools. Agricultural drone operators often conduct multiple flights\ndaily across large areas, and scalable compliance solutions will be important for both operators and\nfacility managers.\nConclusion\nOverall, I support the FAA's proposed framework and appreciate the agency's recognition of the\nimportance of commercial agricultural drone operations.\nI encourage the FAA to:\n1. Continue allowing Part 137 agricultural operations within UAFRs.\n2. Avoid broad inclusion of production agriculture when developing Food and Agriculture Sector\ncriteria.\n3. Limit future agricultural UAFRs to facilities with demonstrable regional or national significance.\n4. Develop efficient, technology-based notification solutions that support both security and\noperational practicality.\nThank you for considering these comments.\nRespectfully,\nAdam Gittins\nPresident\nHTS Ag\n111 4th Street\nNeola, IA 51559\n111 4th Street, Neola, IA 51559\n(800)741-3305\nwww.htsag.com",
       "has_attachment": true,
       "pdf_extracted": true,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0495"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0492"
     },
     {
       "id": "FAA-2026-4558-0471",
@@ -7083,21 +7083,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0480"
     },
     {
-      "id": "FAA-2026-4558-0465",
-      "commenter": "Isaac Cohen",
+      "id": "FAA-2026-4558-0495",
+      "commenter": "Ralph Chiczewski",
       "organization": "",
-      "city": "Oceanside",
-      "state_province": "NY",
+      "city": "Chicago",
+      "state_province": "IL",
       "country": "United States",
       "posted_date": "2026-07-01T04:00:00Z",
-      "received_date": "2026-06-30T04:00:00Z",
-      "comment_text": "To whom it may concern,<br/><br/>I read the FAA&#39;s new rule proposal titled &quot;Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; and I have some concerns. I understand the main objective is to protect privacy and national security by allowing certain sites whose activity should remain secret to apply for this drone restriction. However, the concern is sites not important for national security may nevertheless request the drone restriction to free themselves from much needed accountability to the public. The proposal mentions agricultural sites. Journalists often use drones to investigate reports of animal welfare violations at such locations, for example.<br/><br/>My view is that if you go ahead with this proposed rule, you should carve out exceptions or raise the bar so that most ordinary sites, especially those not closely related to national security and where First Amendment concerns about journalism are more important (such as CAFOs, or Concentrated Animal Feeding Operations), be excluded. Thank you!",
-      "has_attachment": false,
-      "pdf_extracted": false,
+      "received_date": "2026-07-01T04:00:00Z",
+      "comment_text": "June 26, 2026\nTo: Federal Aviation Administration Docket No. FAA-2026-4558\nDocket Operations; U.S. Department of Transportation (DOT)\n1200 New Jersey Avenue, SE, Room W58-213\nWest Building 5th Floor\nWashington DC 20590-0001\nFrom: Ralph Chiczewski\nAssistant Commissioner/Security and Safety\nChicago Department of Water Management\nSubject: City of Chicago Department of Water Management\nComments Regarding NPRM, Designation: Restrict the Operation of\nUnmanned Aircraft in Close Proximity to a Fixed Site Facility\nDear Department of Transportation/ Federal Aviation Administration:\nThe City of Chicago, Department of Water Management (“CDWM”) owns, operates, and\nmanages substantial water infrastructure in Chicago. CDWM is responsible for the\npurification of safe drinking water for the majority of people in Northeast Illinois. CDWM’s\nmission is reliant on secure purification operations. We are keenly vested in ensuring that\nthere is a practical approach to the recent dynamic growth and development of unmanned\naircraft systems (UAS) balanced against the very real security concerns stemming from\nunregulated UAS access to sensitive locations. We applaud the Department of\nTransportation/ Federal Aviation Administration for proposing new 14 CFR Part 74 to\nbring better parity to both important interests.\nUASs are fundamentally changing the security profiles at critical infrastructure facilities.\nThe low cost of UAS technology has triggered hundreds of thousands of new operators\nto enter the aviation community, some of whom have aviation knowledge and experience\nand many others who do not. The proliferation of these operations presents significant\nsafety and security implications of UAS flying in close proximity to critical infrastructure,\nsuch as water supply facilities.\nCDWM strongly supports the proposed new regulations to better manage UAS\noperations in close proximity to critical facilities such as DWM purification plants,\nwater cribs, pumping stations, and reservoirs. It is a matter of National and Homeland\nsecurity that CDWM water supply facilities are protected from accidental, intentional UAS\nattacks or UAS surveillance.\nWe fully concur with the Department of Transportation/Federal Aviation Administration’s\n(DOT/FAA) need to “integrate [UASs] into the airspace of the United States while\nbalancing the needs of security stakeholders.” (Department of Transportation,\n1\n\n“Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed\nSite Facility,” Federal Register 91, no. 87 [May 6, 2026]: 24680.)\nIn relation to the proposed rulemaking, I am further respectfully submitting the following\nspecific comments for your consideration regarding the subject matter referenced above\non behalf of CDWM Commissioner Randy Conner.\n• Lateral Boundaries: Proposed rule §74.58 (b)(1) would require the unmanned\naircraft flight restriction (UAFR) lateral boundaries under §74.58 not to “exceed the\nother fixed site facility property boundary.” (ibid, 24687.) For CDWM, a serious\nconcern with UASs is their ability to perform surveillance operations on our\nfacilities. This concern emanates from the sensitive nature of CDWM purification,\npumping, and transmission operations. Equally as concerning is the fact that we\ntake delivery of various substances that are required for our operations. We do not\nfeel that limiting the UAFR lateral boundaries merely to legal boundaries\nmeaningfully addresses our surveillance concerns. Without getting into too many\nspecifics, a distance of at least ¼ mile from our legal boundaries would provide us\nwith better assurance that unauthorized surveillance opportunities would be\nsubstantively compromised. We agree that DOT/FAA must strike a proper balance\nbetween two compelling interests. Therefore, while we would prefer to see the\nUAFR lateral boundary for all of our facilities at ¼, we would adhere to any other\nformula developed by DOT/FAA to extend UAFR lateral boundaries for sensitive\nfixed sites beyond their legal boundaries. As such, we would recommend\nappending the following language at the end of §74.58 (b)(1): “or other lateral\nboundary in exceptional cases as determined at the sole and exclusive discretion\nof FAA.”\n• Altitude Ceiling: Proposed rule §74.60(b)(2) would largely limit the UAFR at a\nheight not to “exceed 400 feet above ground level….” (ibid, 24687). For CDWM,\nour concern is that with the continued rapid evolution of UAS technology, this\nheight restriction may not be sufficient to limit surveillance of our properties. In\nstriking a balance, we, therefore, recommend the addition of the following at the\nend of §74.60(b)(2): “or other altitude ceiling in exceptional cases as determined\nat the sole and exclusive discretion of FAA.”\n• Eligible Facilities – Water and Wastewater Systems Sector: To qualify for a\nUAFR, a fixed site facility must be an eligible facility under proposed §74.54 (ibid,\n24686). As indicated in §74.96, Water systems are one of the sixteen (16) sectors\nspecifically referenced in the proposed rules as an eligible facility under section\n§74.54. (ibid, 24689). Section 74.96 is presently open-ended as “Reserved” with\nrespect to the eligibility criteria needed for this sector. CDWM offers the following\nas possible eligibility criteria under §74.96 following that Section’s preamble:\no “(a) Public water systems that provide water for human consumption\nthrough pipes or other constructed conveyances to at least 15 service\nconnections or serve an average of at least 25 people for at least 60 days\n2\n\na year. This would include 1) Community Water Systems, 2) Non-Transient\nNon-Community Water System, and 3) Transient Non-Community Water\nSystem;”\n▪ This broad definition is pulled directly from the Federal Registrar\n(ibid, 24672). Aside from air, water is the most important natural\nelement needed for life. CDWM is among the largest 410 community\nwater systems that serve more than 100,000 people. However,\nCDWM believes that all water providers should be afforded UAFR\nprotections regardless of their size. As noted by the Cybersecurity &\nInfrastructure Security Agency (COSA), “[p]rotecting the systems\nthat provide water is vitally important to the stability and health of the\nnation….” (www.cisa.gov/topics/critical-infrastructure-security-and-\nresilience/critical-infrastructure-sectors/water-and-wastewater-\nsector.) No community water systems should be penalized because\nof their size.\no “(b) Provides purified water to multiple local government jurisdictions;\no “(c) Provides purified water across multiple counties;\no “(d) Provides purified water to a service delivery area greater than 10 miles;\no “(e) Provides purified water to one or more fixed facility sectors as defined\nis §74.81 through §74.94;\no “(f) Is located within ¼ mile of any facility that has an annual that met or\nexceeded 2,500,00 visitors in the previous calenda year;\no “(g) Where the United States Environmental Protection Agency (EPA)\ndetermines that a public water system has a Risk and Resilience\nAssessment (RRA) and an Emergency Response Plan (ERP) that is\ncompliant with the Safe Drinking Water (SDWA) section 1433 as amended\nby America’s Water Infrastructure Act (AWIA) section 2013, that public\nwater system establishes a prima facie case for eligibility as fixed site\nfacility.”\nIf enacted, CDWM would submit our UAFR application and would comply with all UAFR\nregulatory requirements. This process should be confidential so that proprietary and\nsensitive information is not inadvertently divulged. It is also recommended that there is\nclear and consistent accountability for instances of any UAS violations of the proposed\nrule.\nI am the Assistant Commissioner in charge of Safety and Security at CDWM. I have over\n30 years of experience in Law Enforcement and over 10 years protecting the Chicago\n3\n\nDepartment of Water Management. I currently possess “Secret” Homeland Security\nClearance.\n4",
+      "has_attachment": true,
+      "pdf_extracted": true,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0465"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0495"
     },
     {
       "id": "FAA-2026-4558-0482",
@@ -7134,55 +7134,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0484"
     },
     {
-      "id": "FAA-2026-4558-0492",
-      "commenter": "Comment from HTS Ag",
-      "organization": "HTS Ag",
-      "city": "",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-07-01T04:00:00Z",
-      "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "Docket No. FAA–2026–4558\nNotice No. 26–03\nDesignation—Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site\nFacility\nRE: Comments on Proposed Unmanned Aircraft Flight Restriction (UAFR) Rule\nTo Whom It May Concern:\nI appreciate the opportunity to comment on the FAA's proposed rule establishing Unmanned\nAircraft Flight Restrictions (UAFRs) around certain fixed-site facilities.\nI submit these comments as President of HTS Ag, an agricultural technology company serving\nfarmers, agricultural retailers, cooperatives, and commercial drone operators throughout the Midwest.\nOur company works extensively with precision agriculture technologies, including unmanned aircraft\nsystems used for crop scouting, mapping, spraying, and agricultural data collection.\nI support the FAA's effort to improve aviation safety and protect critical infrastructure while\npreserving the continued growth of commercial UAS operations. The proposed rule generally strikes an\nappropriate balance between security needs and the integration of drones into the National Airspace\nSystem.\nSupport for Agricultural Drone Operations\nI strongly support the FAA's proposal to allow agricultural drone operations conducted under Part\n137 and other approved operating authorities to continue operating within UAFRs, subject to Remote ID\nand notification requirements.\nAgricultural drones provide significant benefits, including improved input efficiency, reduced\nenvironmental impact, increased worker safety, and greater productivity. Restricting these operations\nwould create unnecessary burdens for agriculture with limited security benefit.\nFood and Agriculture Sector Eligibility\nI agree with the FAA's conclusion that broad inclusion of production agriculture facilities would be\ninappropriate.\nMost farms should not be eligible for UAFRs. Precision agriculture increasingly depends on drone\ntechnology, and expanding restrictions across production agriculture would unnecessarily limit\ninnovation and adoption.\nIf the FAA establishes eligibility criteria for the Food and Agriculture Sector in the future, those\ncriteria should be limited to facilities whose disruption would have significant regional or national\nconsequences, such as:\n• Major grain export terminals\n• Nationally significant food processing facilities\n• Strategic food reserve facilities\n• Critical agricultural supply chain infrastructure\n111 4th Street, Neola, IA 51559\n(800)741-3305\nwww.htsag.com\n\nEligibility should be based on demonstrated economic and food-security impact, not acreage,\nownership size, or production volume alone.\nNotification and Remote ID\nThe proposed reliance on Remote ID is a practical approach that allows lawful operators to remain\nidentifiable while supporting security objectives.\nAs UAFRs expand, I encourage the FAA to pursue automated notification systems that leverage\nRemote ID and digital authorization tools. Agricultural drone operators often conduct multiple flights\ndaily across large areas, and scalable compliance solutions will be important for both operators and\nfacility managers.\nConclusion\nOverall, I support the FAA's proposed framework and appreciate the agency's recognition of the\nimportance of commercial agricultural drone operations.\nI encourage the FAA to:\n1. Continue allowing Part 137 agricultural operations within UAFRs.\n2. Avoid broad inclusion of production agriculture when developing Food and Agriculture Sector\ncriteria.\n3. Limit future agricultural UAFRs to facilities with demonstrable regional or national significance.\n4. Develop efficient, technology-based notification solutions that support both security and\noperational practicality.\nThank you for considering these comments.\nRespectfully,\nAdam Gittins\nPresident\nHTS Ag\n111 4th Street\nNeola, IA 51559\n111 4th Street, Neola, IA 51559\n(800)741-3305\nwww.htsag.com",
-      "has_attachment": true,
-      "pdf_extracted": true,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0492"
-    },
-    {
-      "id": "FAA-2026-4558-0494",
-      "commenter": "Comment from MDTA",
+      "id": "FAA-2026-4558-0465",
+      "commenter": "Isaac Cohen",
       "organization": "",
-      "city": "",
-      "state_province": "",
-      "country": "",
+      "city": "Oceanside",
+      "state_province": "NY",
+      "country": "United States",
       "posted_date": "2026-07-01T04:00:00Z",
-      "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "Comments of Maryland Transportation Authority on Notice of Proposed Rulemaking (NPRM) Designation &ndash; Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility Docket No. FAA-2026-4558",
+      "received_date": "2026-06-30T04:00:00Z",
+      "comment_text": "To whom it may concern,<br/><br/>I read the FAA&#39;s new rule proposal titled &quot;Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&quot; and I have some concerns. I understand the main objective is to protect privacy and national security by allowing certain sites whose activity should remain secret to apply for this drone restriction. However, the concern is sites not important for national security may nevertheless request the drone restriction to free themselves from much needed accountability to the public. The proposal mentions agricultural sites. Journalists often use drones to investigate reports of animal welfare violations at such locations, for example.<br/><br/>My view is that if you go ahead with this proposed rule, you should carve out exceptions or raise the bar so that most ordinary sites, especially those not closely related to national security and where First Amendment concerns about journalism are more important (such as CAFOs, or Concentrated Animal Feeding Operations), be excluded. Thank you!",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0494"
-    },
-    {
-      "id": "FAA-2026-4558-0493",
-      "commenter": "Comment from Concept Solutions, LLC",
-      "organization": "Concept Solutions, LLC",
-      "city": "",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-07-01T04:00:00Z",
-      "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "June 30, 2026\nDocket Operations\nU.S. Department of Transportation\n1200 New Jersey Avenue SE, Room W58-213\nWashington, DC 20590\nSubmitted electronically via regulations.gov: https://www.regulations.gov\nRe: Docket No. FAA-2026-4558; Notice No. 26-03; RIN 2120-AL33\nDesignation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed\nSite Facility\nDear Administrator Bedford and Members of the Federal Aviation Administration Rulemaking\nStaff:\nI. Introduction and Statement of Interest\nConcept Solutions, LLC (“Concept Solutions” or the “Company”) is a technology company\nheadquartered in Reston, Virginia that develops the AvenGIS Virtual Drone Management (VDM)\nPlatform, a 100% NDAA-compliant, U.S.-engineered software system for real-time unmanned\naircraft system (UAS) airspace detection, tracking, and command-and-control at critical\ninfrastructure facilities. Concept Solutions respectfully submits these comments in response to the\nFAA’s Notice of Proposed Rulemaking (NPRM) published May 6, 2026, proposing to implement\nSection 2209 of the FAA Extension, Safety, and Security Act of 2016 (FESSA) through a new 14\nCFR Part 74 establishing Unmanned Aircraft Flight Restrictions (UAFRs).\nConcept Solutions has an immediate and direct operational interest in this rulemaking. The\nAvenGIS VDM platform is specifically designed to enable critical infrastructure owners and\noperators to satisfy the proposed UAFR framework’s requirements, including the Remote ID\nsensing mandate proposed in §74.56(d), the operator access notification requirements at proposed\n§74.255, the security plan and demonstration-of-need documentation at proposed §74.64 and\n§74.66, and the annual UAS traffic reporting obligation proposed in §74.20. We validated our\nplatform’s core sensor fusion capability during a test conducted at the MITRE Corporation facility\nin northern Virginia in February 2026, successfully integrating simultaneous live data from a\ncommercial Remote ID antenna receiver and a commercial radar unit supplied by one of our\ntechnology and sensor partners, tracking individual UAS contacts in a single display with source-\ncoded identification and alert classification.\nWe write to offer a practical perspective from the standpoint of a technology developer actively\nbuilding the operational software that will enable fixed site facilities to comply with and benefit\nfrom the UAFR framework as it nears finalization. Our comments are organized as follows:\ngeneral support for the proposed rule; specific technical and operational comments on individual\n\nprovisions; recommendations for provisions the FAA should clarify, strengthen, or reconsider; and\na discussion of how the AvenGIS VDM platform architecture aligns with and operationalizes the\nproposed rule.\nII. General Support for the Proposed Rule\nConcept Solutions strongly supports the FAA’s proposed implementation of Section 2209 and\ncommends the Agency for publishing this NPRM in fulfillment of the directive in Executive Order\n14305, “Restoring American Airspace Sovereignty” (signed June 6, 2025; 90 FR 24719). The ten-\nyear gap between the statutory mandate in FESSA Section 2209 (enacted July 15, 2016) and this\nNPRM has created significant operational uncertainty for critical infrastructure owners and\noperators who lack a formal federal mechanism to designate restricted airspace around their\nfacilities. The proposed UAFR framework will provide that mechanism and, when finalized, will\ncreate clear legal authority that law enforcement, facility operators, and responsible UAS operators\ncan rely upon.\nWe particularly support the following structural choices the FAA has made in this proposal:\n● The decision to require Remote ID sensing capability as a precondition for UAFR\neligibility under proposed §74.56(d). This ensures that facilities granted a UAFR will have\nthe minimum technological foundation to distinguish compliant operators from\nunauthorized intrusions and will be better positioned to address the annual UAS activity\nreporting required under proposed §74.20.\n● The two-tier structure of Standard and Special UAFRs, which appropriately calibrates the\nlegal and enforcement framework to the threat profile of different facility types, reserving\nthe more stringent Special UAFR-with potential criminal penalties under 49 U.S.C. 46307\nfor restrictions issued for national security or homeland security purposes-for facilities with\ncredible, demonstrated risks.\n● The sector-specific eligibility criteria in proposed Subpart C, which reflect meaningful\nengagement with Sector Risk Management Agencies (SRMAs) and provide a principled,\ndefensible basis for determining which of the nation’s approximately 125,000 potentially\nhigh-priority facilities should have access to the UAFR remedy.\n● The five-year UAFR term with renewal requirements (proposed §§74.200 and 74.210),\nwhich appropriately builds in periodic review as UAS technology, Remote ID capabilities,\nand airspace management tools continue to evolve rapidly.\n● The access framework under proposed §74.250, which preserves the public right of transit\nfor operators who have met higher safety and security standards under Parts 91, 107, 108,\n135, and 137, while restricting unauthorized operations. This balance is appropriate and\nconsistent with the FAA’s statutory responsibilities under 49 U.S.C. 40103.\nIII. Specific Technical and Operational Comments\nA. Proposed §74.56 (Protective Security): Remote ID Sensing Requirement\nProposed §74.56(d) requires that the facility’s security monitoring include the capability to receive\nbroadcast Remote ID messages from unmanned aircraft operating within or in close proximity to\nthe requested UAFR, using equipment compatible with the requirements of 14 CFR Part 89.\nConcept Solutions strongly endorses this requirement as both necessary and appropriately scoped.\n\nWe particularly note that §74.56(d) permits a facility to satisfy this requirement “either directly or\nthrough a contracted service.” Concept Solutions strongly supports this provision. It appropriately\nallows critical infrastructure operators-many of whom lack in-house airspace-monitoring\nexpertise-to meet the requirement through managed service providers, and it reflects the\noperational reality of how Remote ID sensing capability will be deployed and sustained at scale\nacross the eligible facility population.\nFrom our operational experience integrating Remote ID receivers with live UAS traffic, we offer\nthe following technical observations for the FAA’s consideration:\n1. The FAA should clarify the minimum performance standards for §74.56(d) Remote ID\nsensing equipment.\nThe current proposal requires compatibility with Part 89 broadcast requirements but does not\nspecify minimum detection range, receiver sensitivity, or multi-unit requirements for large\nfacilities. In our February 2026 testing at MITRE’s National Drone Range, a single commercial\nRemote ID receiver successfully captured all six Remote ID-broadcasting aircraft within\napproximately 500 meters of the omnidirectional antenna. For facilities such as nuclear generating\nstations, large electrical substations, or correctional facilities whose perimeters extend\nsubstantially beyond this range, a single receiver may be insufficient to satisfy the intent of\n§74.56(d).\nWe recommend that the FAA, in the final rule or in the accompanying Advisory Circular, provide\nguidance on:\n● Minimum detection range requirements as a function of UAFR lateral boundary size;\n● Whether multi-receiver deployments are expected for facilities whose property boundaries\nexceed the effective range of a single unit;\n● The acceptable latency between a drone broadcasting Remote ID and the facility receiving\nand logging the broadcast, to ensure the capability functions as a real-time situational\nawareness tool rather than a retrospective record only.\n2. The FAA should address non-cooperative aircraft - the gap that §74.56(d) alone cannot\nclose.\nThe §74.56(d) requirement establishes a meaningful minimum floor, but the FAA should\nacknowledge in the preamble to the final rule that Remote ID sensing, by definition, detects only\ncooperative operators who comply with Part 89. Our MITRE test simultaneously detected several\nradar-tracked contacts alongside only six Remote ID-broadcasting contacts, suggesting that a\nmeaningful share of UAS activity near a given facility at a given time may be non-cooperative-\nwhether because the operation was authorized by the Administrator to deviate from the Part 89\nRemote ID requirement, the aircraft’s Remote ID module malfunctioned or stopped broadcasting\nmessage elements, or the operation involved a bad actor (the UAS operator itself or a third party\nspoofing the Remote ID network) intentionally circumventing detection.\nThe proposed UAFR framework is not intended to require counter-UAS mitigation capability; that\nauthority resides elsewhere in federal law. The FAA should nonetheless affirmatively encourage,\nin the Advisory Circular and in its SRMA coordination guidance, that applicants seeking UAFRs\nfor higher-risk sectors consider supplemental sensor layering (radar, RF spectrum analysis,\nacoustic detection, and electro-optical and infrared/thermal cameras) as part of their UAS security\nand incident response plans under proposed §74.64. The AvenGIS VDM architecture specifically\n\nsupports this by integrating Remote ID, radar, RF, and acoustic detection in a unified command-\nand-control display, allowing facilities to build toward a more complete detection picture as their\nresources and legal authorities permit.\nB. Proposed §74.66: Demonstration of Need - UAS Traffic History\nProposed §74.66(a) requires applicants to submit information describing UAS operations over the\nfacility during the previous 24 months, where available. Concept Solutions supports this\nrequirement but urges the FAA to address the “where available” qualifier more specifically in the\nfinal rule and Advisory Circular.\nFor facilities that do not yet have Remote ID sensing capability installed-which will likely include\nmany applicants at the time of initial UAFR application-the 24-month traffic history requirement\nmay create avoidable uncertainty about what evidence will satisfy the Agency. We understand that\nthe FAA does not require automated sensor logs as the exclusive basis for this showing; applicants\nmay instead provide estimates of UAS activity, including operation type, location, frequency,\nwhether operators are known to the facility, and the method of observation relied upon, supported\nby the underlying data sources used to inform those estimates. We recommend that the final rule\nand accompanying Advisory Circular state this expectation explicitly, so that facilities without\npre-existing Remote ID sensing do not mistakenly conclude that §74.66(a) is unsatisfiable in the\nabsence of a digital traffic log.\nWe recommend that the FAA:\n● Clarify that applicants may satisfy the §74.66(a) requirement through a combination of\nformal sensor logs (where available), incident reports filed with law enforcement or\nsecurity agencies, security camera footage, sworn statements from security personnel, and\npublicly reported incidents, without requiring automated Remote ID logs as the exclusive\nor primary form of evidence;\n● Create a “pilot period” mechanism-perhaps 90 to 180 days-during which facilities that have\ninstalled §74.56(d)-compliant Remote ID sensing for the first time may accumulate\nbaseline traffic data and update their UAFR application, with the FAA accepting the initial\nconditional application during this window and allowing the applicant to supplement it\nwith accumulated baseline data, preserving the applicant’s place in the review queue;\n● Recognize that the mere installation of Remote ID sensing equipment under §74.56(d) will,\nover time, generate the very traffic history data that §74.66 requires, and structure the\nprogram so that compliance with one provision actively builds the evidentiary foundation\nfor the other.\nThe AvenGIS VDM platform addresses this gap directly: upon deployment at a facility, the\nplatform automatically archives all detected UAS contacts, including those detected by Remote ID\nand radar, to a time-series data store with full metadata, including source, altitude, speed, heading,\nand proximity to user-defined facility boundaries. This log automatically produces §74.66 traffic\nhistory documentation as a byproduct of normal operations, rather than requiring facilities to\nreconstruct historical records after the fact. We understand that the §74.20 annual reporting\nobligation is intended to draw on access notifications submitted under §74.255, together with Site\nManager records of unauthorized operations; Remote ID sensing data of the kind the AvenGIS\nplatform captures is well suited to supplement, rather than replace, that reporting framework.\nC. Proposed §74.255: UAFR Access Notification\n\nProposed §74.255 requires operators intending to fly within a UAFR under §74.250 to provide\nadvance notification to the fixed site facility’s site manager. Concept Solutions supports the intent\nof this provision but has several operational observations.\n1. The FAA should specify a minimum advance notification window.\nThe current proposed language requires notification “as soon as reasonably possible in advance of\nthe operation” without specifying a minimum window. For facility security planning purposes,\nthis ambiguity may prove unworkable. A facility receiving notification ten seconds before a drone\nenters its UAFR has effectively no opportunity to distinguish the notified operator from an\nunauthorized intruder in real time.\nWe recommend that the FAA establish a tiered minimum notification window: for example, one\nhour for standard operations, 24–48 hours for critical infrastructure operations, and a shorter\nverbal-plus-written protocol (as already proposed) for law enforcement and government operations\nrequiring operational security. The FAA should also retain flexibility for time-sensitive legitimate\nbusiness uses that cannot reasonably meet even a one-hour window-for example, media coverage\nresponding to an incident at the facility-by allowing notification concurrent with or immediately\nfollowing entry into the UAFR in such circumstances. The FAA should also consider specifying\nhow operators authenticate themselves, and the Advisory Circular could provide additional\nguidance on accommodating legitimate time-sensitive business uses.\n2. Remote ID serial number whitelisting should be explicitly contemplated.\nThe FAA seeks comment on “a more automated notification procedure,” including a whitelist of\nRemote ID serial numbers that would be made available to fixed site facilities. Concept Solutions\nstrongly endorses this approach and urges the FAA to include it in the final rule rather than\ndeferring it entirely to an Advisory Circular.\nIn our platform architecture, the operator whitelist is a core compliance module: when a Remote\nID-broadcasting aircraft enters the UAFR boundary, the VDM system immediately cross-\nreferences the aircraft’s serial number against the pre-cleared whitelist, classifies the contact as\nauthorized or unauthorized, and logs the result with a timestamp for the facility’s §74.20 annual\nreporting. This automated matching dramatically reduces the operational burden on site managers\nand improves the speed and accuracy of the compliant/non-compliant determination that the\nUAFR framework depends upon.\nWe recommend that the FAA create a formal whitelist registry within the UAFR Module web\nportal, allowing facilities to pre-register the Remote ID serial numbers of operators they have\nauthorized, with expiration dates and operation-type fields. This would be consistent with the\nFAA’s existing direction of travel toward digital, automated NAS access management.\nD. Proposed §74.100: FAA Evaluation and 90-Day Determination\nConcept Solutions notes that the proposed rule anticipates the FAA making a final determination\nwithin 90 days of application submission (proposed §74.100). The FAA’s preliminary regulatory\nimpact analysis models a scenario of more than 9,000 fixed site facilities obtaining UAFRs, drawn\nfrom a universe of approximately 125,000 facilities that SRMAs identified as potentially high\npriority for a UAFR. Given application volume of this potential magnitude, we encourage the FAA\nto provide transparency into how it intends to manage application volume and sequencing across\nthe eligible sectors, prioritize applications, and communicate processing timelines to applicants.\n\nWe suggest that the FAA consider establishing a public-facing application status tracker within\nthe UAFR Module and commit to issuing an initial completeness determination-confirming that\nthe application package is sufficient to proceed to substantive review-within 30 days of\nsubmission. We understand the 90-day window encompasses several discrete stages following\nsubmission: FAA review leading to conditional approval or denial; publication of a proposal in the\nFederal Register (absent good cause to forgo notice and comment); a comment period of at least\n30 days; and the FAA’s final determination considering comments received and any application\nupdates-such that applicants will generally know well before the 90-day mark whether their request\nhas been conditionally approved or denied, and may petition for reconsideration within 30 days of\na denial under §74.160. An early determination of completeness would nonetheless allow\napplicants to correct administrative deficiencies before the substantive review and Federal Register\nprocess begins, reducing the likelihood that curable defects delay the conditional approval\ndecision.\nE. Proposed §74.87 (Emergency Services Sector): Correctional Facilities\nConcept Solutions commends the FAA for including state prisons and federal correctional\nfacilities as eligible facility types under the Emergency Services Sector criteria of §74.87 and for\nrecognizing them as potential candidates for Special UAFR designation. The documented scale of\ndrone-delivered contraband at correctional facilities-reflected in the FAA’s own record, which\ncites 300 drone sightings reported by the Georgia Department of Corrections in 2018 and South\nCarolina Department of Corrections reports rising from 193 incidents in 2019 to 262 in 2022, with\nthe FAA noting that reported incidents likely represent only a fraction of actual incursions-\nrepresents precisely the kind of acute, recurring threat the Special UAFR framework is designed\nto address.\nWe note that correctional facilities present a particular operational challenge for the §74.56(d)\nRemote ID sensing requirement: many drone contraband operators deliberately use pre-Part 89\naircraft or modified drones specifically to avoid Remote ID detection. We urge the FAA to state\nexplicitly in the final rule’s preamble that correctional facilities are among the facility types for\nwhich the Advisory Circular should recommend supplemental non-cooperative detection (radar,\nRF) in addition to the §74.56(d) Remote ID minimum.\nIV. AvenGIS VDM Platform - UAFR Regulatory Compliance Alignment\nThe following table summarizes how the AvenGIS VDM platform architecture directly addresses\neach major proposed UAFR requirement, demonstrating that the technology necessary to\noperationalize this rulemaking at scale exists and is currently under active development.\nUAFR Regulatory AvenGIS VDM Capability Status\nProvision Requirement\n§74.56 Remote ID sensing Tier 1 Remote ID fusion layer: commercial Remote ID Live /\ncapability at every antenna receiver + commercial radar - live test at MITRE validated\nUAFR facility Drone Range, February 2026\n§74.20 Annual UAS traffic Automatic time-series track archive - generates §74.66 In\nreporting obligation evidence as a byproduct of standard operation development\n§74.64 / UAS security plan + UAFR application workflow module - structured data Roadmap Q4\n§74.66 demonstration of need collection generating FAA application package 2026\n\nUAFR Regulatory AvenGIS VDM Capability Status\nProvision Requirement\n§74.255 Operator access Operator whitelist with Remote ID serial matching, Roadmap Q3\nnotification + site notification log, automated compliant/unauthorized 2026\nmanager alert classification\n§74.250 Distinguish lawful vs. Four-source sensor fusion: commercial Remote ID In\nunauthorized operations antenna receiver + commercial radar + RF + acoustic - development\nin UAFR fused track object with cooperative/non-cooperative flag\n§74.260 Enforcement evidence Full audit log: timestamp, source, track ID, alert tier, Roadmap Q4\nand audit trail operator classification, whitelist match, notification 2026\nrecord\nV. Summary of Recommendations\nFor the convenience of FAA rulemaking staff, Concept Solutions’ specific recommendations are\nsummarized as follows:\n● §74.56(d) - Remote ID sensing performance standards: Specify minimum detection\nrange and receiver sensitivity guidance, either in the final rule or in an Advisory Circular,\nas a function of UAFR lateral boundary size. Acknowledge in the preamble that §74.56(d)\nestablishes a minimum floor that does not address non-cooperative aircraft, and encourage\nsupplemental sensor layering for higher-risk sectors. Affirm the value of the provision’s\n“directly or through a contracted service” option.\n● §74.66 - Demonstration of need / traffic history: Clarify acceptable evidence types\nbeyond digital Remote ID logs, including incident reports, security camera records, and\nsworn security-personnel statements. Establish a 90- to 180-day pilot period to allow first-\ntime Remote ID sensor deployers to accumulate baseline traffic data and update their\nUAFR application.\n● §74.255 - Operator access notification: Establish a minimum advance notification\nwindow (recommended: one hour for standard operations and 24–48 hours for operations\naround critical infrastructure). Include formal Remote ID serial number whitelisting in the\nfinal rule, not deferred to an Advisory Circular only, and establish a UAFR Module\nwhitelist registry allowing facilities to pre-register authorized operators.\n● §74.100 - Application processing: Establish a public-facing application status tracker\nwithin the UAFR Module and commit to a 30-day initial completeness determination to\nenable early deficiency correction.\n● §74.87 - Correctional facilities: Explicitly recognize in the preamble and Advisory\nCircular that correctional facilities face a higher-than-average rate of deliberate non-\ncooperative drone operations, and affirmatively recommend supplemental non-cooperative\nsensing (radar, RF) in UAFR security plans for this sector.\nVI. Conclusion\nConcept Solutions commends the FAA for publishing this NPRM and taking the significant\nregulatory step of implementing the Section 2209 mandate. The UAFR framework, when finalized,\nwill provide critical infrastructure owners and operators with the legal foundation they need to\nprotect their facilities from the growing UAS threat and create a structured market for the\n\noperational software and sensor integration services that make UAFR compliance actionable on\nthe ground.\nThe AvenGIS Virtual Drone Management Platform is designed from the ground up to\noperationalize this regulatory framework: to satisfy §74.56(d)’s Remote ID sensing requirement,\nto generate the §74.66 traffic history documentation automatically, to manage the §74.255 operator\nnotification and whitelist workflow, and to produce the audit trail that §74.260’s enforcement\nframework depends upon. We are committed to working collaboratively with the FAA, SRMAs,\nand critical infrastructure owners and operators to ensure the UAFR program achieves its intended\nsafety and security objectives.\nConcept Solutions respectfully requests that the FAA consider the technical and operational\nperspectives set forth in these comments as it develops the final rule. We would welcome the\nopportunity to discuss our platform’s capabilities and our recommendations with FAA rulemaking\nstaff at the Agency’s convenience.\nRespectfully submitted,\nConcept Solutions, LLC\n11600 Sunrise Valley Drive, Suite 300\nReston, Virginia 20191\nwww.concept-solutions.com",
-      "has_attachment": true,
-      "pdf_extracted": true,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0493"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0465"
     },
     {
       "id": "FAA-2026-4558-0463",
@@ -7253,38 +7219,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0473"
     },
     {
-      "id": "FAA-2026-4558-0487",
-      "commenter": "Comment from Pro-Animal Future",
-      "organization": "Pro-Animal Future",
+      "id": "FAA-2026-4558-0474",
+      "commenter": "Jennifer D'Angelo",
+      "organization": "",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-07-01T04:00:00Z",
       "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "This is an extreme restriction of the First Amendment. Drones should not be restricted for the purpose of hiding what goes on in industrial animal agriculture. It is not in the people&#39;s interests to introduce such restrictions.",
+      "comment_text": "Respectfully, I OPPOSE the implementation of any rule that would allow some U.S. animal agriculture facilities to request restrictions on drone photography, as this would limit a valuable tool for documenting animal welfare, environmental issues and food production.  If anything, what is happening in our food system needs more transparency, not less.  This is an issue of animal welfare, public health and the health of our environment.<br/><br/>Thank you for considering my feedback.",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0487"
-    },
-    {
-      "id": "FAA-2026-4558-0491",
-      "commenter": "Comment from Association of Air Medical Services",
-      "organization": "Association of Air Medical Services",
-      "city": "",
-      "state_province": "",
-      "country": "",
-      "posted_date": "2026-07-01T04:00:00Z",
-      "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "ASSOCIATION OF AIR MEDICAL SERVICES\nJuly 1, 2026\nRE: Comments to the Notice of Proposed Rulemaking Designation-Restrict the Operation\nof Unmanned Aircraft in Close Proximity to a Fixed Site Facility, 91 FR 24650, May 6, 2026\n(“NPRM”), Docket No.: FAA–2026–4558; Notice No. 26–03.\nDear Administrator Bedford:\nOn May 6, 2026, the FAA issued in the Federal Register (91 FR 24650) Notice No. 26-03:\nNotice of Proposed Rulemaking (NPRM) Designation-Restrict the Operation of\nUnmanned Aircraft in Close Proximity to a Fixed Site Facility, Docket No. FAA–2026–\n4558. Pursuant to Section 2209 of the FAA Extension, Safety and Security Act (FESSA) of\n2016, the NPRM establishes a framework for restricting drone (UAS) operations around\ncritical infrastructure and select healthcare facilities. The proposed rule\ndirectly impacts the low-altitude airspace where helicopter air ambulances (HAA)\noperate every day and provides an opportunity to request an unmanned aircraft flight\nrestriction (UAFR) for certain fixed site facilities.\nThe Association of Air Medical Services (AAMS) is a non-profit 501c (6) international trade\nassociation headquartered in the Washington, DC area. Established in 1980, AAMS has\nlong championed air medical and critical care ground transport and its providers who\nserve their communities worldwide. In the US alone, we represent over 90% of the air\nmedical programs. We hold a shared goal with our members who seek to deliver high\nquality, safe, and effective medical care and medical transportation for every patient in\nneed.\nI would first like to thank the FAA for proactively advancing the effort to manage the risk\nassociated with an increasingly congested airspace. AAMS applauds the FAA’s goal to\nimprove safety as vertical aviation evolves. While AAMS welcomes this NPRM as a step\nforward, this proposed rule does not adequately address a full understanding of the\nrealities of air medical operations or their hospital and commercial partners who depend\non UAS/UAV as a means to advance healthcare.\nIn reviewing the NPRM, AAMS obtained feedback from its members and key\nstakeholders; these are the companies and their employees who provide 24 hour/day\nemergency HAA services, every day, for patients with critical and time-sensitive injuries\nand illnesses. Our members recognize and acknowledge the need to share the airspace\nsafely while allowing for the advancement of UAS/UAV operations. Our members also\nrepresent hospitals and health systems who are utilizing or exploring the use of UAS/UAV\noperations to support their missions. These efforts include the use of UAS/UAV to deliver\nblood and other critical supplies to and within their hospital systems. It is critical that\nthe FAA recognize that UAS/UAVs and HAA share the same low-level airspace, and both\nmay be necessary to save a life. We are aligned in our goal to de-conflict this airspace\nand minimize risk.\nAAMS respectfully requests that the FAA give full and thoughtful consideration to our\ncomments, comments provided by the Air Medical Operators Association (AMOA) and\nVertical Aviation International (VAI), and comments provided by the air medical services\n\nand hospitals that provide life-saving and life-changing care to patients on what is likely\ntheir worst day.\nOBSERVATIONS\nAAMS solicited feedback from its members regarding the NPRM. Our members\nemphasized the following observations:\n• The NPRM is an important move in the right direction and a welcome step forward in\naddressing UAS operations as required by the 2016 FESSA.\n• AAMS acknowledges the obligations of the FAA to balance matters of access to the\nNational Air Space (NAS) and the safety of critical infrastructure in the outlined\nsectors.\n• The intent to protect critical infrastructure, as defined in the regulation, is an\nimportant consideration.\n• The definition of critical infrastructure in the NPRM addresses\nseveral important areas, including Healthcare and the Public Health Sector.\n• The NPRM narrowly and inaccurately defines the included fixed facilities within the\nHealthcare sector as only Adult and Pediatric Level I Trauma Centers.\n• Hospitals and health care facilities are likely to be adopters of UAS technology and\nUAS services moving forward. The rules should promote harmony between safe HAA\noperations and UAS adoption.\nAREAS OF CONCERN\nThe feedback from AAMS Members regarding the NPRM highlights the following areas\nof concern:\n• Take off and landing (TOFL) represent the most complicated aspect of HAA\noperations. The NPRM does recognize the risk posed by UAS operations during\nthese critical phases of flight. However, HAA routinely carry out TOFL operations in\nrural locations, at rural and community hospital helipads and emergency landing\nzones as well as urban hospital helipads.\n• The NPRM does not adequately take into account the HAA operating profile and the\nrealities of the health care delivery system, especially in rural areas.\n• The NPRM does not take into account the impact of UAS operations on the most\ncommon points of patient pick-up. These pick-up points are smaller community\nhospitals across the US and constitute more than 50% of HAA transports.\n• Many HAA operations serve as a critical link between rural communities and\ntertiary/quaternary care capabilities that often exist in more urban areas.\n• The designation of Level I Trauma Centers recognizes the importance of these\nfacilities within the health care delivery system; however, there are additional types\nof tertiary/quaternary care sites that are excluded. These include designated Stroke\nCenters, STEMI (i.e., acute cardiac) Centers, Burn Centers, etc.\n• The NPRM does not recognize air medical helipads or emergency landing zones as a\ncategory of critical infrastructure. These helipads and helistops are critical to HAA\noperations and need to be protected.\n\nAAMS RECOMMENDATIONS\nBased on feedback from AAMS members and key stakeholders representing the HAA\ncommunity, AAMS respectfully requests that the FAA take the following actions:\n• The FAA should convene a group of key stakeholders to evaluate the impact of\nUAS/UAV operations, specific to the effects on HAA operations.\n• This group should provide a forum for UAS/UAV services (and major users thereof),\nhealthcare facilities and hospitals, UAS/UAV healthcare delivery (blood products,\nsupplies, etc) SMEs, and HAA services/operators to fully consider the scope of\noperations and the interactions between UAS/UAV and HAA.\n• This group should consider best practices that can be practicably implemented to\nmitigate the potential for conflict between UAS/UAV and HAA.\n• This group should consider the existing and near-future technologies that are (or will\nbe) available to enhance deconfliction between UAS/UAV and HAA.\n• This group should provide consensus recommendations for the FAA to incorporate as\npart of the NPRM.\n• The NPRM should be revised to amend regulations such that all inpatient hospitals\nand HAA helipads are considered as Critical Infrastructure under the regulations.\n• The FAA needs to recognize the importance and critical nature of designated and\nundesignated emergency landing zones which are used by HAA every day and revise\nthe NPRM to include UAFR at or around any HAA emergency landing zone,\ndesignated or undesignated.\nAAMS fully supports efforts by the FAA to address ongoing concerns regarding UAV/UAS.\nAAMS supports the intent of the NPRM and urges the FAA to continue meaningful action\nthat will promote dialogue and cooperation between UAS/UAV and HAA operators so that\nthese two services can co-exist while mitigating the likelihood of a future crash that will\ndestroy both vital human lives and expensive assets.\nWith great respect,\nJana Williams Mike Perkins, MBA-HCA, EMT-P, CMTE\nPresident & CEO Board Chair\nAssociation of Air Medical Services COO, MedFlight/MedCare Ambulance\njwilliams@aams.org mperkins@medflight.com",
-      "has_attachment": true,
-      "pdf_extracted": true,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0491"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0474"
     },
     {
       "id": "FAA-2026-4558-0475",
@@ -7304,21 +7253,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0475"
     },
     {
-      "id": "FAA-2026-4558-0474",
-      "commenter": "Jennifer D'Angelo",
-      "organization": "",
+      "id": "FAA-2026-4558-0487",
+      "commenter": "Comment from Pro-Animal Future",
+      "organization": "Pro-Animal Future",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-07-01T04:00:00Z",
       "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "Respectfully, I OPPOSE the implementation of any rule that would allow some U.S. animal agriculture facilities to request restrictions on drone photography, as this would limit a valuable tool for documenting animal welfare, environmental issues and food production.  If anything, what is happening in our food system needs more transparency, not less.  This is an issue of animal welfare, public health and the health of our environment.<br/><br/>Thank you for considering my feedback.",
+      "comment_text": "This is an extreme restriction of the First Amendment. Drones should not be restricted for the purpose of hiding what goes on in industrial animal agriculture. It is not in the people&#39;s interests to introduce such restrictions.",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0474"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0487"
     },
     {
       "id": "FAA-2026-4558-0490",
@@ -7338,6 +7287,23 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0490"
     },
     {
+      "id": "FAA-2026-4558-0486",
+      "commenter": "Comment from American Horse Council",
+      "organization": "American Horse Council",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-07-01T04:00:00Z",
+      "received_date": "2026-07-01T04:00:00Z",
+      "comment_text": "American Horse Council\n5th Floor, Suite 4110\nMcLean VA 22102\nPhone:202-296-4031\nJuly 6, 2026\nThe American Horse Council (AHC) is grateful for the opportunity to comment on Docket No. FAA-2026-4558\nDesignation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility\nThe American Horse Council (AHC) is grateful for the opportunity to comment on Docket No. FAA-2026-4558,\nDesignation—Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility.\nThe AHC supports the proposed rule and encourages the Federal Aviation Administration to ensure that\nagricultural operations, including equine facilities, are eligible to seek restrictions on unmanned aircraft\noperations when they pose a safety risk.\nEquine facilities are unique in that they house large animals that are prey species with a strong and instinctive\nflight response. Low-flying or unexpected drone activity can startle horses, causing them to panic, run through\nfencing, collide with obstacles, injure handlers, or create dangerous situations for riders and spectators.\nThese risks are especially significant at breeding farms, training centers, boarding facilities, veterinary\nhospitals, racetracks, competition venues, and equine-assisted service programs where horses, staff, and\nmembers of the public may be present in close proximity.\nUnlike many other agricultural operations, equine facilities frequently host events, lessons, veterinary\nprocedures, and youth activities where sudden disturbances can create immediate safety concerns for both\nanimals and people. Drone activity can also interfere with routine animal care and management practices,\nresulting in unnecessary stress and welfare concerns.\nThe AHC encourages the FAA to explicitly recognize livestock and animal safety as considerations\nwhen evaluating requests for unmanned aircraft flight restrictions and to ensure that equine facilities\nare eligible to apply for such protections when drone operations present demonstrated safety hazards.\nSincerely,\nJulie Broadway\nJulie M. Broadway, CAE®\nPresident - American Horse Council & American Horse Council Foundation\njbroadway@horsecouncil.org\nThe American Horse Council is a Washington D.C.-based advocacy organization representing\nindividual members and more than 130 equine organizations before Congress and the federal\nregulatory agencies. AHC member organizations include breed registries, national and state equine\nassociations, state horse councils, recreational associations, and organizations representing\nracetracks, equestrians, horse shows, veterinarians, farriers, rodeos, and other equine-related\nstakeholders.\nPage | 1 American Horse Council – info@horsecouncil.org – 202-296-4031",
+      "has_attachment": true,
+      "pdf_extracted": true,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0486"
+    },
+    {
       "id": "FAA-2026-4558-0489",
       "commenter": "Jansen Griggs",
       "organization": "",
@@ -7355,21 +7321,55 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0489"
     },
     {
-      "id": "FAA-2026-4558-0486",
-      "commenter": "Comment from American Horse Council",
-      "organization": "American Horse Council",
+      "id": "FAA-2026-4558-0491",
+      "commenter": "Comment from Association of Air Medical Services",
+      "organization": "Association of Air Medical Services",
       "city": "",
       "state_province": "",
       "country": "",
       "posted_date": "2026-07-01T04:00:00Z",
       "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "American Horse Council\n5th Floor, Suite 4110\nMcLean VA 22102\nPhone:202-296-4031\nJuly 6, 2026\nThe American Horse Council (AHC) is grateful for the opportunity to comment on Docket No. FAA-2026-4558\nDesignation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility\nThe American Horse Council (AHC) is grateful for the opportunity to comment on Docket No. FAA-2026-4558,\nDesignation—Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility.\nThe AHC supports the proposed rule and encourages the Federal Aviation Administration to ensure that\nagricultural operations, including equine facilities, are eligible to seek restrictions on unmanned aircraft\noperations when they pose a safety risk.\nEquine facilities are unique in that they house large animals that are prey species with a strong and instinctive\nflight response. Low-flying or unexpected drone activity can startle horses, causing them to panic, run through\nfencing, collide with obstacles, injure handlers, or create dangerous situations for riders and spectators.\nThese risks are especially significant at breeding farms, training centers, boarding facilities, veterinary\nhospitals, racetracks, competition venues, and equine-assisted service programs where horses, staff, and\nmembers of the public may be present in close proximity.\nUnlike many other agricultural operations, equine facilities frequently host events, lessons, veterinary\nprocedures, and youth activities where sudden disturbances can create immediate safety concerns for both\nanimals and people. Drone activity can also interfere with routine animal care and management practices,\nresulting in unnecessary stress and welfare concerns.\nThe AHC encourages the FAA to explicitly recognize livestock and animal safety as considerations\nwhen evaluating requests for unmanned aircraft flight restrictions and to ensure that equine facilities\nare eligible to apply for such protections when drone operations present demonstrated safety hazards.\nSincerely,\nJulie Broadway\nJulie M. Broadway, CAE®\nPresident - American Horse Council & American Horse Council Foundation\njbroadway@horsecouncil.org\nThe American Horse Council is a Washington D.C.-based advocacy organization representing\nindividual members and more than 130 equine organizations before Congress and the federal\nregulatory agencies. AHC member organizations include breed registries, national and state equine\nassociations, state horse councils, recreational associations, and organizations representing\nracetracks, equestrians, horse shows, veterinarians, farriers, rodeos, and other equine-related\nstakeholders.\nPage | 1 American Horse Council – info@horsecouncil.org – 202-296-4031",
+      "comment_text": "ASSOCIATION OF AIR MEDICAL SERVICES\nJuly 1, 2026\nRE: Comments to the Notice of Proposed Rulemaking Designation-Restrict the Operation\nof Unmanned Aircraft in Close Proximity to a Fixed Site Facility, 91 FR 24650, May 6, 2026\n(“NPRM”), Docket No.: FAA–2026–4558; Notice No. 26–03.\nDear Administrator Bedford:\nOn May 6, 2026, the FAA issued in the Federal Register (91 FR 24650) Notice No. 26-03:\nNotice of Proposed Rulemaking (NPRM) Designation-Restrict the Operation of\nUnmanned Aircraft in Close Proximity to a Fixed Site Facility, Docket No. FAA–2026–\n4558. Pursuant to Section 2209 of the FAA Extension, Safety and Security Act (FESSA) of\n2016, the NPRM establishes a framework for restricting drone (UAS) operations around\ncritical infrastructure and select healthcare facilities. The proposed rule\ndirectly impacts the low-altitude airspace where helicopter air ambulances (HAA)\noperate every day and provides an opportunity to request an unmanned aircraft flight\nrestriction (UAFR) for certain fixed site facilities.\nThe Association of Air Medical Services (AAMS) is a non-profit 501c (6) international trade\nassociation headquartered in the Washington, DC area. Established in 1980, AAMS has\nlong championed air medical and critical care ground transport and its providers who\nserve their communities worldwide. In the US alone, we represent over 90% of the air\nmedical programs. We hold a shared goal with our members who seek to deliver high\nquality, safe, and effective medical care and medical transportation for every patient in\nneed.\nI would first like to thank the FAA for proactively advancing the effort to manage the risk\nassociated with an increasingly congested airspace. AAMS applauds the FAA’s goal to\nimprove safety as vertical aviation evolves. While AAMS welcomes this NPRM as a step\nforward, this proposed rule does not adequately address a full understanding of the\nrealities of air medical operations or their hospital and commercial partners who depend\non UAS/UAV as a means to advance healthcare.\nIn reviewing the NPRM, AAMS obtained feedback from its members and key\nstakeholders; these are the companies and their employees who provide 24 hour/day\nemergency HAA services, every day, for patients with critical and time-sensitive injuries\nand illnesses. Our members recognize and acknowledge the need to share the airspace\nsafely while allowing for the advancement of UAS/UAV operations. Our members also\nrepresent hospitals and health systems who are utilizing or exploring the use of UAS/UAV\noperations to support their missions. These efforts include the use of UAS/UAV to deliver\nblood and other critical supplies to and within their hospital systems. It is critical that\nthe FAA recognize that UAS/UAVs and HAA share the same low-level airspace, and both\nmay be necessary to save a life. We are aligned in our goal to de-conflict this airspace\nand minimize risk.\nAAMS respectfully requests that the FAA give full and thoughtful consideration to our\ncomments, comments provided by the Air Medical Operators Association (AMOA) and\nVertical Aviation International (VAI), and comments provided by the air medical services\n\nand hospitals that provide life-saving and life-changing care to patients on what is likely\ntheir worst day.\nOBSERVATIONS\nAAMS solicited feedback from its members regarding the NPRM. Our members\nemphasized the following observations:\n• The NPRM is an important move in the right direction and a welcome step forward in\naddressing UAS operations as required by the 2016 FESSA.\n• AAMS acknowledges the obligations of the FAA to balance matters of access to the\nNational Air Space (NAS) and the safety of critical infrastructure in the outlined\nsectors.\n• The intent to protect critical infrastructure, as defined in the regulation, is an\nimportant consideration.\n• The definition of critical infrastructure in the NPRM addresses\nseveral important areas, including Healthcare and the Public Health Sector.\n• The NPRM narrowly and inaccurately defines the included fixed facilities within the\nHealthcare sector as only Adult and Pediatric Level I Trauma Centers.\n• Hospitals and health care facilities are likely to be adopters of UAS technology and\nUAS services moving forward. The rules should promote harmony between safe HAA\noperations and UAS adoption.\nAREAS OF CONCERN\nThe feedback from AAMS Members regarding the NPRM highlights the following areas\nof concern:\n• Take off and landing (TOFL) represent the most complicated aspect of HAA\noperations. The NPRM does recognize the risk posed by UAS operations during\nthese critical phases of flight. However, HAA routinely carry out TOFL operations in\nrural locations, at rural and community hospital helipads and emergency landing\nzones as well as urban hospital helipads.\n• The NPRM does not adequately take into account the HAA operating profile and the\nrealities of the health care delivery system, especially in rural areas.\n• The NPRM does not take into account the impact of UAS operations on the most\ncommon points of patient pick-up. These pick-up points are smaller community\nhospitals across the US and constitute more than 50% of HAA transports.\n• Many HAA operations serve as a critical link between rural communities and\ntertiary/quaternary care capabilities that often exist in more urban areas.\n• The designation of Level I Trauma Centers recognizes the importance of these\nfacilities within the health care delivery system; however, there are additional types\nof tertiary/quaternary care sites that are excluded. These include designated Stroke\nCenters, STEMI (i.e., acute cardiac) Centers, Burn Centers, etc.\n• The NPRM does not recognize air medical helipads or emergency landing zones as a\ncategory of critical infrastructure. These helipads and helistops are critical to HAA\noperations and need to be protected.\n\nAAMS RECOMMENDATIONS\nBased on feedback from AAMS members and key stakeholders representing the HAA\ncommunity, AAMS respectfully requests that the FAA take the following actions:\n• The FAA should convene a group of key stakeholders to evaluate the impact of\nUAS/UAV operations, specific to the effects on HAA operations.\n• This group should provide a forum for UAS/UAV services (and major users thereof),\nhealthcare facilities and hospitals, UAS/UAV healthcare delivery (blood products,\nsupplies, etc) SMEs, and HAA services/operators to fully consider the scope of\noperations and the interactions between UAS/UAV and HAA.\n• This group should consider best practices that can be practicably implemented to\nmitigate the potential for conflict between UAS/UAV and HAA.\n• This group should consider the existing and near-future technologies that are (or will\nbe) available to enhance deconfliction between UAS/UAV and HAA.\n• This group should provide consensus recommendations for the FAA to incorporate as\npart of the NPRM.\n• The NPRM should be revised to amend regulations such that all inpatient hospitals\nand HAA helipads are considered as Critical Infrastructure under the regulations.\n• The FAA needs to recognize the importance and critical nature of designated and\nundesignated emergency landing zones which are used by HAA every day and revise\nthe NPRM to include UAFR at or around any HAA emergency landing zone,\ndesignated or undesignated.\nAAMS fully supports efforts by the FAA to address ongoing concerns regarding UAV/UAS.\nAAMS supports the intent of the NPRM and urges the FAA to continue meaningful action\nthat will promote dialogue and cooperation between UAS/UAV and HAA operators so that\nthese two services can co-exist while mitigating the likelihood of a future crash that will\ndestroy both vital human lives and expensive assets.\nWith great respect,\nJana Williams Mike Perkins, MBA-HCA, EMT-P, CMTE\nPresident & CEO Board Chair\nAssociation of Air Medical Services COO, MedFlight/MedCare Ambulance\njwilliams@aams.org mperkins@medflight.com",
       "has_attachment": true,
       "pdf_extracted": true,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0486"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0491"
+    },
+    {
+      "id": "FAA-2026-4558-0494",
+      "commenter": "Comment from MDTA",
+      "organization": "",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-07-01T04:00:00Z",
+      "received_date": "2026-07-01T04:00:00Z",
+      "comment_text": "Comments of Maryland Transportation Authority on Notice of Proposed Rulemaking (NPRM) Designation &ndash; Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility Docket No. FAA-2026-4558",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0494"
+    },
+    {
+      "id": "FAA-2026-4558-0493",
+      "commenter": "Comment from Concept Solutions, LLC",
+      "organization": "Concept Solutions, LLC",
+      "city": "",
+      "state_province": "",
+      "country": "",
+      "posted_date": "2026-07-01T04:00:00Z",
+      "received_date": "2026-07-01T04:00:00Z",
+      "comment_text": "June 30, 2026\nDocket Operations\nU.S. Department of Transportation\n1200 New Jersey Avenue SE, Room W58-213\nWashington, DC 20590\nSubmitted electronically via regulations.gov: https://www.regulations.gov\nRe: Docket No. FAA-2026-4558; Notice No. 26-03; RIN 2120-AL33\nDesignation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed\nSite Facility\nDear Administrator Bedford and Members of the Federal Aviation Administration Rulemaking\nStaff:\nI. Introduction and Statement of Interest\nConcept Solutions, LLC (“Concept Solutions” or the “Company”) is a technology company\nheadquartered in Reston, Virginia that develops the AvenGIS Virtual Drone Management (VDM)\nPlatform, a 100% NDAA-compliant, U.S.-engineered software system for real-time unmanned\naircraft system (UAS) airspace detection, tracking, and command-and-control at critical\ninfrastructure facilities. Concept Solutions respectfully submits these comments in response to the\nFAA’s Notice of Proposed Rulemaking (NPRM) published May 6, 2026, proposing to implement\nSection 2209 of the FAA Extension, Safety, and Security Act of 2016 (FESSA) through a new 14\nCFR Part 74 establishing Unmanned Aircraft Flight Restrictions (UAFRs).\nConcept Solutions has an immediate and direct operational interest in this rulemaking. The\nAvenGIS VDM platform is specifically designed to enable critical infrastructure owners and\noperators to satisfy the proposed UAFR framework’s requirements, including the Remote ID\nsensing mandate proposed in §74.56(d), the operator access notification requirements at proposed\n§74.255, the security plan and demonstration-of-need documentation at proposed §74.64 and\n§74.66, and the annual UAS traffic reporting obligation proposed in §74.20. We validated our\nplatform’s core sensor fusion capability during a test conducted at the MITRE Corporation facility\nin northern Virginia in February 2026, successfully integrating simultaneous live data from a\ncommercial Remote ID antenna receiver and a commercial radar unit supplied by one of our\ntechnology and sensor partners, tracking individual UAS contacts in a single display with source-\ncoded identification and alert classification.\nWe write to offer a practical perspective from the standpoint of a technology developer actively\nbuilding the operational software that will enable fixed site facilities to comply with and benefit\nfrom the UAFR framework as it nears finalization. Our comments are organized as follows:\ngeneral support for the proposed rule; specific technical and operational comments on individual\n\nprovisions; recommendations for provisions the FAA should clarify, strengthen, or reconsider; and\na discussion of how the AvenGIS VDM platform architecture aligns with and operationalizes the\nproposed rule.\nII. General Support for the Proposed Rule\nConcept Solutions strongly supports the FAA’s proposed implementation of Section 2209 and\ncommends the Agency for publishing this NPRM in fulfillment of the directive in Executive Order\n14305, “Restoring American Airspace Sovereignty” (signed June 6, 2025; 90 FR 24719). The ten-\nyear gap between the statutory mandate in FESSA Section 2209 (enacted July 15, 2016) and this\nNPRM has created significant operational uncertainty for critical infrastructure owners and\noperators who lack a formal federal mechanism to designate restricted airspace around their\nfacilities. The proposed UAFR framework will provide that mechanism and, when finalized, will\ncreate clear legal authority that law enforcement, facility operators, and responsible UAS operators\ncan rely upon.\nWe particularly support the following structural choices the FAA has made in this proposal:\n● The decision to require Remote ID sensing capability as a precondition for UAFR\neligibility under proposed §74.56(d). This ensures that facilities granted a UAFR will have\nthe minimum technological foundation to distinguish compliant operators from\nunauthorized intrusions and will be better positioned to address the annual UAS activity\nreporting required under proposed §74.20.\n● The two-tier structure of Standard and Special UAFRs, which appropriately calibrates the\nlegal and enforcement framework to the threat profile of different facility types, reserving\nthe more stringent Special UAFR-with potential criminal penalties under 49 U.S.C. 46307\nfor restrictions issued for national security or homeland security purposes-for facilities with\ncredible, demonstrated risks.\n● The sector-specific eligibility criteria in proposed Subpart C, which reflect meaningful\nengagement with Sector Risk Management Agencies (SRMAs) and provide a principled,\ndefensible basis for determining which of the nation’s approximately 125,000 potentially\nhigh-priority facilities should have access to the UAFR remedy.\n● The five-year UAFR term with renewal requirements (proposed §§74.200 and 74.210),\nwhich appropriately builds in periodic review as UAS technology, Remote ID capabilities,\nand airspace management tools continue to evolve rapidly.\n● The access framework under proposed §74.250, which preserves the public right of transit\nfor operators who have met higher safety and security standards under Parts 91, 107, 108,\n135, and 137, while restricting unauthorized operations. This balance is appropriate and\nconsistent with the FAA’s statutory responsibilities under 49 U.S.C. 40103.\nIII. Specific Technical and Operational Comments\nA. Proposed §74.56 (Protective Security): Remote ID Sensing Requirement\nProposed §74.56(d) requires that the facility’s security monitoring include the capability to receive\nbroadcast Remote ID messages from unmanned aircraft operating within or in close proximity to\nthe requested UAFR, using equipment compatible with the requirements of 14 CFR Part 89.\nConcept Solutions strongly endorses this requirement as both necessary and appropriately scoped.\n\nWe particularly note that §74.56(d) permits a facility to satisfy this requirement “either directly or\nthrough a contracted service.” Concept Solutions strongly supports this provision. It appropriately\nallows critical infrastructure operators-many of whom lack in-house airspace-monitoring\nexpertise-to meet the requirement through managed service providers, and it reflects the\noperational reality of how Remote ID sensing capability will be deployed and sustained at scale\nacross the eligible facility population.\nFrom our operational experience integrating Remote ID receivers with live UAS traffic, we offer\nthe following technical observations for the FAA’s consideration:\n1. The FAA should clarify the minimum performance standards for §74.56(d) Remote ID\nsensing equipment.\nThe current proposal requires compatibility with Part 89 broadcast requirements but does not\nspecify minimum detection range, receiver sensitivity, or multi-unit requirements for large\nfacilities. In our February 2026 testing at MITRE’s National Drone Range, a single commercial\nRemote ID receiver successfully captured all six Remote ID-broadcasting aircraft within\napproximately 500 meters of the omnidirectional antenna. For facilities such as nuclear generating\nstations, large electrical substations, or correctional facilities whose perimeters extend\nsubstantially beyond this range, a single receiver may be insufficient to satisfy the intent of\n§74.56(d).\nWe recommend that the FAA, in the final rule or in the accompanying Advisory Circular, provide\nguidance on:\n● Minimum detection range requirements as a function of UAFR lateral boundary size;\n● Whether multi-receiver deployments are expected for facilities whose property boundaries\nexceed the effective range of a single unit;\n● The acceptable latency between a drone broadcasting Remote ID and the facility receiving\nand logging the broadcast, to ensure the capability functions as a real-time situational\nawareness tool rather than a retrospective record only.\n2. The FAA should address non-cooperative aircraft - the gap that §74.56(d) alone cannot\nclose.\nThe §74.56(d) requirement establishes a meaningful minimum floor, but the FAA should\nacknowledge in the preamble to the final rule that Remote ID sensing, by definition, detects only\ncooperative operators who comply with Part 89. Our MITRE test simultaneously detected several\nradar-tracked contacts alongside only six Remote ID-broadcasting contacts, suggesting that a\nmeaningful share of UAS activity near a given facility at a given time may be non-cooperative-\nwhether because the operation was authorized by the Administrator to deviate from the Part 89\nRemote ID requirement, the aircraft’s Remote ID module malfunctioned or stopped broadcasting\nmessage elements, or the operation involved a bad actor (the UAS operator itself or a third party\nspoofing the Remote ID network) intentionally circumventing detection.\nThe proposed UAFR framework is not intended to require counter-UAS mitigation capability; that\nauthority resides elsewhere in federal law. The FAA should nonetheless affirmatively encourage,\nin the Advisory Circular and in its SRMA coordination guidance, that applicants seeking UAFRs\nfor higher-risk sectors consider supplemental sensor layering (radar, RF spectrum analysis,\nacoustic detection, and electro-optical and infrared/thermal cameras) as part of their UAS security\nand incident response plans under proposed §74.64. The AvenGIS VDM architecture specifically\n\nsupports this by integrating Remote ID, radar, RF, and acoustic detection in a unified command-\nand-control display, allowing facilities to build toward a more complete detection picture as their\nresources and legal authorities permit.\nB. Proposed §74.66: Demonstration of Need - UAS Traffic History\nProposed §74.66(a) requires applicants to submit information describing UAS operations over the\nfacility during the previous 24 months, where available. Concept Solutions supports this\nrequirement but urges the FAA to address the “where available” qualifier more specifically in the\nfinal rule and Advisory Circular.\nFor facilities that do not yet have Remote ID sensing capability installed-which will likely include\nmany applicants at the time of initial UAFR application-the 24-month traffic history requirement\nmay create avoidable uncertainty about what evidence will satisfy the Agency. We understand that\nthe FAA does not require automated sensor logs as the exclusive basis for this showing; applicants\nmay instead provide estimates of UAS activity, including operation type, location, frequency,\nwhether operators are known to the facility, and the method of observation relied upon, supported\nby the underlying data sources used to inform those estimates. We recommend that the final rule\nand accompanying Advisory Circular state this expectation explicitly, so that facilities without\npre-existing Remote ID sensing do not mistakenly conclude that §74.66(a) is unsatisfiable in the\nabsence of a digital traffic log.\nWe recommend that the FAA:\n● Clarify that applicants may satisfy the §74.66(a) requirement through a combination of\nformal sensor logs (where available), incident reports filed with law enforcement or\nsecurity agencies, security camera footage, sworn statements from security personnel, and\npublicly reported incidents, without requiring automated Remote ID logs as the exclusive\nor primary form of evidence;\n● Create a “pilot period” mechanism-perhaps 90 to 180 days-during which facilities that have\ninstalled §74.56(d)-compliant Remote ID sensing for the first time may accumulate\nbaseline traffic data and update their UAFR application, with the FAA accepting the initial\nconditional application during this window and allowing the applicant to supplement it\nwith accumulated baseline data, preserving the applicant’s place in the review queue;\n● Recognize that the mere installation of Remote ID sensing equipment under §74.56(d) will,\nover time, generate the very traffic history data that §74.66 requires, and structure the\nprogram so that compliance with one provision actively builds the evidentiary foundation\nfor the other.\nThe AvenGIS VDM platform addresses this gap directly: upon deployment at a facility, the\nplatform automatically archives all detected UAS contacts, including those detected by Remote ID\nand radar, to a time-series data store with full metadata, including source, altitude, speed, heading,\nand proximity to user-defined facility boundaries. This log automatically produces §74.66 traffic\nhistory documentation as a byproduct of normal operations, rather than requiring facilities to\nreconstruct historical records after the fact. We understand that the §74.20 annual reporting\nobligation is intended to draw on access notifications submitted under §74.255, together with Site\nManager records of unauthorized operations; Remote ID sensing data of the kind the AvenGIS\nplatform captures is well suited to supplement, rather than replace, that reporting framework.\nC. Proposed §74.255: UAFR Access Notification\n\nProposed §74.255 requires operators intending to fly within a UAFR under §74.250 to provide\nadvance notification to the fixed site facility’s site manager. Concept Solutions supports the intent\nof this provision but has several operational observations.\n1. The FAA should specify a minimum advance notification window.\nThe current proposed language requires notification “as soon as reasonably possible in advance of\nthe operation” without specifying a minimum window. For facility security planning purposes,\nthis ambiguity may prove unworkable. A facility receiving notification ten seconds before a drone\nenters its UAFR has effectively no opportunity to distinguish the notified operator from an\nunauthorized intruder in real time.\nWe recommend that the FAA establish a tiered minimum notification window: for example, one\nhour for standard operations, 24–48 hours for critical infrastructure operations, and a shorter\nverbal-plus-written protocol (as already proposed) for law enforcement and government operations\nrequiring operational security. The FAA should also retain flexibility for time-sensitive legitimate\nbusiness uses that cannot reasonably meet even a one-hour window-for example, media coverage\nresponding to an incident at the facility-by allowing notification concurrent with or immediately\nfollowing entry into the UAFR in such circumstances. The FAA should also consider specifying\nhow operators authenticate themselves, and the Advisory Circular could provide additional\nguidance on accommodating legitimate time-sensitive business uses.\n2. Remote ID serial number whitelisting should be explicitly contemplated.\nThe FAA seeks comment on “a more automated notification procedure,” including a whitelist of\nRemote ID serial numbers that would be made available to fixed site facilities. Concept Solutions\nstrongly endorses this approach and urges the FAA to include it in the final rule rather than\ndeferring it entirely to an Advisory Circular.\nIn our platform architecture, the operator whitelist is a core compliance module: when a Remote\nID-broadcasting aircraft enters the UAFR boundary, the VDM system immediately cross-\nreferences the aircraft’s serial number against the pre-cleared whitelist, classifies the contact as\nauthorized or unauthorized, and logs the result with a timestamp for the facility’s §74.20 annual\nreporting. This automated matching dramatically reduces the operational burden on site managers\nand improves the speed and accuracy of the compliant/non-compliant determination that the\nUAFR framework depends upon.\nWe recommend that the FAA create a formal whitelist registry within the UAFR Module web\nportal, allowing facilities to pre-register the Remote ID serial numbers of operators they have\nauthorized, with expiration dates and operation-type fields. This would be consistent with the\nFAA’s existing direction of travel toward digital, automated NAS access management.\nD. Proposed §74.100: FAA Evaluation and 90-Day Determination\nConcept Solutions notes that the proposed rule anticipates the FAA making a final determination\nwithin 90 days of application submission (proposed §74.100). The FAA’s preliminary regulatory\nimpact analysis models a scenario of more than 9,000 fixed site facilities obtaining UAFRs, drawn\nfrom a universe of approximately 125,000 facilities that SRMAs identified as potentially high\npriority for a UAFR. Given application volume of this potential magnitude, we encourage the FAA\nto provide transparency into how it intends to manage application volume and sequencing across\nthe eligible sectors, prioritize applications, and communicate processing timelines to applicants.\n\nWe suggest that the FAA consider establishing a public-facing application status tracker within\nthe UAFR Module and commit to issuing an initial completeness determination-confirming that\nthe application package is sufficient to proceed to substantive review-within 30 days of\nsubmission. We understand the 90-day window encompasses several discrete stages following\nsubmission: FAA review leading to conditional approval or denial; publication of a proposal in the\nFederal Register (absent good cause to forgo notice and comment); a comment period of at least\n30 days; and the FAA’s final determination considering comments received and any application\nupdates-such that applicants will generally know well before the 90-day mark whether their request\nhas been conditionally approved or denied, and may petition for reconsideration within 30 days of\na denial under §74.160. An early determination of completeness would nonetheless allow\napplicants to correct administrative deficiencies before the substantive review and Federal Register\nprocess begins, reducing the likelihood that curable defects delay the conditional approval\ndecision.\nE. Proposed §74.87 (Emergency Services Sector): Correctional Facilities\nConcept Solutions commends the FAA for including state prisons and federal correctional\nfacilities as eligible facility types under the Emergency Services Sector criteria of §74.87 and for\nrecognizing them as potential candidates for Special UAFR designation. The documented scale of\ndrone-delivered contraband at correctional facilities-reflected in the FAA’s own record, which\ncites 300 drone sightings reported by the Georgia Department of Corrections in 2018 and South\nCarolina Department of Corrections reports rising from 193 incidents in 2019 to 262 in 2022, with\nthe FAA noting that reported incidents likely represent only a fraction of actual incursions-\nrepresents precisely the kind of acute, recurring threat the Special UAFR framework is designed\nto address.\nWe note that correctional facilities present a particular operational challenge for the §74.56(d)\nRemote ID sensing requirement: many drone contraband operators deliberately use pre-Part 89\naircraft or modified drones specifically to avoid Remote ID detection. We urge the FAA to state\nexplicitly in the final rule’s preamble that correctional facilities are among the facility types for\nwhich the Advisory Circular should recommend supplemental non-cooperative detection (radar,\nRF) in addition to the §74.56(d) Remote ID minimum.\nIV. AvenGIS VDM Platform - UAFR Regulatory Compliance Alignment\nThe following table summarizes how the AvenGIS VDM platform architecture directly addresses\neach major proposed UAFR requirement, demonstrating that the technology necessary to\noperationalize this rulemaking at scale exists and is currently under active development.\nUAFR Regulatory AvenGIS VDM Capability Status\nProvision Requirement\n§74.56 Remote ID sensing Tier 1 Remote ID fusion layer: commercial Remote ID Live /\ncapability at every antenna receiver + commercial radar - live test at MITRE validated\nUAFR facility Drone Range, February 2026\n§74.20 Annual UAS traffic Automatic time-series track archive - generates §74.66 In\nreporting obligation evidence as a byproduct of standard operation development\n§74.64 / UAS security plan + UAFR application workflow module - structured data Roadmap Q4\n§74.66 demonstration of need collection generating FAA application package 2026\n\nUAFR Regulatory AvenGIS VDM Capability Status\nProvision Requirement\n§74.255 Operator access Operator whitelist with Remote ID serial matching, Roadmap Q3\nnotification + site notification log, automated compliant/unauthorized 2026\nmanager alert classification\n§74.250 Distinguish lawful vs. Four-source sensor fusion: commercial Remote ID In\nunauthorized operations antenna receiver + commercial radar + RF + acoustic - development\nin UAFR fused track object with cooperative/non-cooperative flag\n§74.260 Enforcement evidence Full audit log: timestamp, source, track ID, alert tier, Roadmap Q4\nand audit trail operator classification, whitelist match, notification 2026\nrecord\nV. Summary of Recommendations\nFor the convenience of FAA rulemaking staff, Concept Solutions’ specific recommendations are\nsummarized as follows:\n● §74.56(d) - Remote ID sensing performance standards: Specify minimum detection\nrange and receiver sensitivity guidance, either in the final rule or in an Advisory Circular,\nas a function of UAFR lateral boundary size. Acknowledge in the preamble that §74.56(d)\nestablishes a minimum floor that does not address non-cooperative aircraft, and encourage\nsupplemental sensor layering for higher-risk sectors. Affirm the value of the provision’s\n“directly or through a contracted service” option.\n● §74.66 - Demonstration of need / traffic history: Clarify acceptable evidence types\nbeyond digital Remote ID logs, including incident reports, security camera records, and\nsworn security-personnel statements. Establish a 90- to 180-day pilot period to allow first-\ntime Remote ID sensor deployers to accumulate baseline traffic data and update their\nUAFR application.\n● §74.255 - Operator access notification: Establish a minimum advance notification\nwindow (recommended: one hour for standard operations and 24–48 hours for operations\naround critical infrastructure). Include formal Remote ID serial number whitelisting in the\nfinal rule, not deferred to an Advisory Circular only, and establish a UAFR Module\nwhitelist registry allowing facilities to pre-register authorized operators.\n● §74.100 - Application processing: Establish a public-facing application status tracker\nwithin the UAFR Module and commit to a 30-day initial completeness determination to\nenable early deficiency correction.\n● §74.87 - Correctional facilities: Explicitly recognize in the preamble and Advisory\nCircular that correctional facilities face a higher-than-average rate of deliberate non-\ncooperative drone operations, and affirmatively recommend supplemental non-cooperative\nsensing (radar, RF) in UAFR security plans for this sector.\nVI. Conclusion\nConcept Solutions commends the FAA for publishing this NPRM and taking the significant\nregulatory step of implementing the Section 2209 mandate. The UAFR framework, when finalized,\nwill provide critical infrastructure owners and operators with the legal foundation they need to\nprotect their facilities from the growing UAS threat and create a structured market for the\n\noperational software and sensor integration services that make UAFR compliance actionable on\nthe ground.\nThe AvenGIS Virtual Drone Management Platform is designed from the ground up to\noperationalize this regulatory framework: to satisfy §74.56(d)’s Remote ID sensing requirement,\nto generate the §74.66 traffic history documentation automatically, to manage the §74.255 operator\nnotification and whitelist workflow, and to produce the audit trail that §74.260’s enforcement\nframework depends upon. We are committed to working collaboratively with the FAA, SRMAs,\nand critical infrastructure owners and operators to ensure the UAFR program achieves its intended\nsafety and security objectives.\nConcept Solutions respectfully requests that the FAA consider the technical and operational\nperspectives set forth in these comments as it develops the final rule. We would welcome the\nopportunity to discuss our platform’s capabilities and our recommendations with FAA rulemaking\nstaff at the Agency’s convenience.\nRespectfully submitted,\nConcept Solutions, LLC\n11600 Sunrise Valley Drive, Suite 300\nReston, Virginia 20191\nwww.concept-solutions.com",
+      "has_attachment": true,
+      "pdf_extracted": true,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0493"
     },
     {
       "id": "FAA-2026-4558-0498",
@@ -7440,6 +7440,23 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0504"
     },
     {
+      "id": "FAA-2026-4558-0497",
+      "commenter": "Brent Johannes",
+      "organization": "",
+      "city": "Louisville",
+      "state_province": "CO",
+      "country": "United States",
+      "posted_date": "2026-07-02T04:00:00Z",
+      "received_date": "2026-07-01T04:00:00Z",
+      "comment_text": "I&rsquo;m a Certified Flight Instructor (3216313), and as an aviation professional, I am opposed this unnecessary regulation meant to restrict our freedoms as pilots and drone operators.",
+      "has_attachment": false,
+      "pdf_extracted": false,
+      "pdf_scanned": false,
+      "category": "",
+      "submitter_type": "",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0497"
+    },
+    {
       "id": "FAA-2026-4558-0501",
       "commenter": "Zsuzsa Palotas",
       "organization": "",
@@ -7474,21 +7491,21 @@ const COMMENTS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0496"
     },
     {
-      "id": "FAA-2026-4558-0497",
-      "commenter": "Brent Johannes",
+      "id": "FAA-2026-4558-0500",
+      "commenter": "Madelyn Bingham",
       "organization": "",
-      "city": "Louisville",
-      "state_province": "CO",
+      "city": "Auburn",
+      "state_province": "AL",
       "country": "United States",
       "posted_date": "2026-07-02T04:00:00Z",
       "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "I&rsquo;m a Certified Flight Instructor (3216313), and as an aviation professional, I am opposed this unnecessary regulation meant to restrict our freedoms as pilots and drone operators.",
+      "comment_text": "I disagree with this proposed rule. It unnecessarily expands federal control over public airspace while imposing new burdens on responsible drone operators who have no connection to security threats. The government should rely on targeted enforcement against bad actors instead of creating broad, permanent flight restrictions that diminish lawful access for everyone.",
       "has_attachment": false,
       "pdf_extracted": false,
       "pdf_scanned": false,
       "category": "",
       "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0497"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0500"
     },
     {
       "id": "FAA-2026-4558-0499",
@@ -7506,23 +7523,6 @@ const COMMENTS_DATA = {
       "category": "",
       "submitter_type": "",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0499"
-    },
-    {
-      "id": "FAA-2026-4558-0500",
-      "commenter": "Madelyn Bingham",
-      "organization": "",
-      "city": "Auburn",
-      "state_province": "AL",
-      "country": "United States",
-      "posted_date": "2026-07-02T04:00:00Z",
-      "received_date": "2026-07-01T04:00:00Z",
-      "comment_text": "I disagree with this proposed rule. It unnecessarily expands federal control over public airspace while imposing new burdens on responsible drone operators who have no connection to security threats. The government should rely on targeted enforcement against bad actors instead of creating broad, permanent flight restrictions that diminish lawful access for everyone.",
-      "has_attachment": false,
-      "pdf_extracted": false,
-      "pdf_scanned": false,
-      "category": "",
-      "submitter_type": "",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0500"
     }
   ]
 };
