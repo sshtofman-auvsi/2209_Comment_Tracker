@@ -13,7 +13,7 @@ Live dashboard tracking public comments on the FAA Section 2209 NPRM — *Restri
 **Analysis & Flags tab** — analytical synthesis for AUVSI's own comment filing:
 - Position breakdown (all comments vs. genuine 2209 stakeholders, excluding the railroad-labor write-in campaign)
 - Who filed and what themes dominate the record
-- 97 hand-classified substantive stakeholder comments with position and key arguments
+- 116 hand-classified substantive stakeholder comments with position and key arguments
 - 4 key takeaways and 8 draft-relevant flags with severity ratings
 
 ## Key finding
