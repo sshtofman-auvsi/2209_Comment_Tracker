@@ -8,7 +8,7 @@ Live dashboard tracking public comments on the FAA Section 2209 NPRM — *Restri
 
 ## What's in it
 
-**Comments tab** — all 407 public comments from [regulations.gov](https://www.regulations.gov/document/FAA-2026-4558-0001/comment), searchable and filterable by type. PDF-attached comments have been extracted and are fully searchable.
+**Comments tab** — all 488 public comments from [regulations.gov](https://www.regulations.gov/document/FAA-2026-4558-0001/comment), searchable and filterable by type. PDF-attached comments have been extracted and are fully searchable.
 
 **Analysis & Flags tab** — analytical synthesis for AUVSI's own comment filing:
 - Position breakdown (all comments vs. genuine 2209 stakeholders, excluding the railroad-labor write-in campaign)
@@ -18,9 +18,9 @@ Live dashboard tracking public comments on the FAA Section 2209 NPRM — *Restri
 
 ## Key finding
 
-~74% of the docket (301 of 407 comments) is an organized railroad-labor write-in campaign by SMART-TD members protesting employer drone surveillance — an off-topic labor grievance, not engagement with the Section 2209 facility-designation framework. The dashboard leads with this context so the raw comment count is not misread as stakeholder consensus.
+~63% of the docket (309 of 488 comments) is an organized railroad-labor write-in campaign by SMART-TD members protesting employer drone surveillance — an off-topic labor grievance, not engagement with the Section 2209 facility-designation framework. The dashboard leads with this context so the raw comment count is not misread as stakeholder consensus.
 
-Among genuine 2209 stakeholders (106 comments): support-with-changes plurality (55), followed by support (23) and oppose (22).
+Among genuine 2209 stakeholders (179 comments): support-with-changes plurality (93), followed by support (50) and oppose (33).
 
 ## Data pipeline
 
