@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-07T00:36:35.279075+00:00",
+  "generated_utc": "2026-07-07T00:41:30.804600+00:00",
   "total": 541,
   "campaign_count": 315,
   "campaign_pct": 58,
   "positions_all": {
-    "support_with_changes": 118,
+    "support_with_changes": 119,
     "unclear": 4,
     "oppose": 41,
-    "support": 378
+    "support": 377
   },
   "positions_ex_campaign": {
-    "support_with_changes": 118,
+    "support_with_changes": 119,
     "unclear": 4,
     "oppose": 41,
-    "support": 63
+    "support": 62
   },
   "categories": [
     {
@@ -24,7 +24,7 @@ const ANALYSIS_DATA = {
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 116
+      "count": 115
     },
     {
       "key": "individual_part107_operator",
@@ -49,7 +49,7 @@ const ANALYSIS_DATA = {
     {
       "key": "critical_infrastructure_owner",
       "label": "Critical infrastructure owners",
-      "count": 8
+      "count": 9
     },
     {
       "key": "utility_water_energy",
@@ -99,15 +99,15 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Small business / cost",
-      "count": 188
+      "count": 189
     },
     {
       "label": "National security / threat",
-      "count": 185
+      "count": 186
     },
     {
       "label": "Facility eligibility scope",
-      "count": 145
+      "count": 146
     },
     {
       "label": "Access pathway / LAANC",
@@ -115,7 +115,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Federal preemption",
-      "count": 93
+      "count": 94
     },
     {
       "label": "Transparency / publication",
@@ -143,7 +143,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 38
+      "count": 39
     },
     {
       "label": "Overreach / withdraw",
@@ -292,6 +292,19 @@ const ANALYSIS_DATA = {
         "UAFRs are a first step; scalable lawful counter-UAS capability still needed"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0423"
+    },
+    {
+      "id": "FAA-2026-4558-0507",
+      "name": "Comment from Port of Los Angeles, Port of Long Beach, Port of Oakland",
+      "org": "Port of Los Angeles, Port of Long Beach, Port of Oakland",
+      "category": "critical_infrastructure_owner",
+      "position": "support_with_changes",
+      "arguments": [
+        "Joint filing from Ports of LA, Long Beach, and Oakland: property-line limitation leaves waterside approaches over channels/basins/slips unprotected since ports don't own adjacent navigable waters",
+        "Allow a single consolidated UAFR per port complex instead of tenant-by-tenant applications under the landlord model",
+        "Recognize existing MTSA Facility Security Assessments and Coast Guard Area Maritime Security Assessments as sufficient for Special UAFR eligibility, rather than requiring duplicative FAA-specific assessments"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0507"
     },
     {
       "id": "FAA-2026-4558-0550",
