@@ -234,7 +234,7 @@ def main():
         "docket_id": DOCKET_ID,
         "document_id": DOCUMENT_ID,
         "title": "Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
-        "comment_period_end": "2026-07-06",
+        "comment_period_end": "2026-08-05",
         "total_comments": len(comments),
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "comments": comments,

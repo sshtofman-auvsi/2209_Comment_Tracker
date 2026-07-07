@@ -27,5 +27,5 @@ Among genuine 2209 stakeholders (226 comments): support-with-changes plurality (
 Comments are fetched daily from the regulations.gov v4 API and committed automatically via GitHub Actions. The dashboard is a static file — no server required.
 
 - **Docket:** FAA-2026-4558
-- **Comment period:** closed July 6, 2026
+- **Comment period:** extended to August 5, 2026 (originally July 6; extended at the request of the NY Attorney General) — **the docket is still open**, so counts below are a snapshot, not final
 - **Last updated:** see `docs/comments.json`

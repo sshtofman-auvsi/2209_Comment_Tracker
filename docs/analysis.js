@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-07T00:47:29.003667+00:00",
+  "generated_utc": "2026-07-07T00:51:51.991172+00:00",
   "total": 541,
   "campaign_count": 315,
   "campaign_pct": 58,
@@ -1914,6 +1914,14 @@ const ANALYSIS_DATA = {
       ]
     },
     {
+      "severity": "high",
+      "title": "Comment period extended to August 5 — docket still open",
+      "body": "The FAA granted the NY Attorney General's requested 30-day extension. The comment period now runs through August 5, 2026 (originally July 6). AUVSI's filing timeline should target the new deadline, and this dashboard's counts should be treated as a snapshot rather than a final tally until the docket actually closes.",
+      "ids": [
+        "FAA-2026-4558-0417"
+      ]
+    },
+    {
       "severity": "medium",
       "title": "Preemption is contested from both sides",
       "body": "Operators want STRONG federal preemption (uniform framework, machine-readable data). State DOTs (Virginia, Montana) want to PRESERVE authority over right-of-way and state drone laws. AUVSI's preemption position must thread this; note state-law spillover (e.g., Ohio HB77).",
@@ -1940,14 +1948,6 @@ const ANALYSIS_DATA = {
       "ids": [
         "FAA-2026-4558-0323",
         "FAA-2026-4558-0022"
-      ]
-    },
-    {
-      "severity": "low",
-      "title": "Comment-period extension granted",
-      "body": "The NY Attorney General requested a 30-day extension, and the FAA granted it. Confirm the new deadline and update AUVSI's filing timeline accordingly — comments may continue to accrue past the originally listed July 6 close date.",
-      "ids": [
-        "FAA-2026-4558-0417"
       ]
     },
     {
