@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-06T20:59:27.350383+00:00",
+  "generated_utc": "2026-07-07T00:36:35.279075+00:00",
   "total": 541,
   "campaign_count": 315,
   "campaign_pct": 58,
   "positions_all": {
-    "support_with_changes": 120,
-    "unclear": 3,
+    "support_with_changes": 118,
+    "unclear": 4,
     "oppose": 41,
-    "support": 377
+    "support": 378
   },
   "positions_ex_campaign": {
-    "support_with_changes": 120,
-    "unclear": 3,
+    "support_with_changes": 118,
+    "unclear": 4,
     "oppose": 41,
-    "support": 62
+    "support": 63
   },
   "categories": [
     {
@@ -24,22 +24,22 @@ const ANALYSIS_DATA = {
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 125
-    },
-    {
-      "key": "individual_hobbyist",
-      "label": "Hobbyists",
-      "count": 15
+      "count": 116
     },
     {
       "key": "individual_part107_operator",
       "label": "Part 107 operators",
-      "count": 14
+      "count": 18
     },
     {
       "key": "drone_company",
       "label": "Drone companies",
-      "count": 14
+      "count": 16
+    },
+    {
+      "key": "individual_hobbyist",
+      "label": "Hobbyists",
+      "count": 13
     },
     {
       "key": "media_photography",
@@ -47,8 +47,23 @@ const ANALYSIS_DATA = {
       "count": 9
     },
     {
+      "key": "critical_infrastructure_owner",
+      "label": "Critical infrastructure owners",
+      "count": 8
+    },
+    {
       "key": "utility_water_energy",
       "label": "Utilities (water / energy)",
+      "count": 8
+    },
+    {
+      "key": "government_agency",
+      "label": "Government agencies",
+      "count": 8
+    },
+    {
+      "key": "trade_association",
+      "label": "Trade associations",
       "count": 8
     },
     {
@@ -57,24 +72,9 @@ const ANALYSIS_DATA = {
       "count": 7
     },
     {
-      "key": "critical_infrastructure_owner",
-      "label": "Critical infrastructure owners",
-      "count": 7
-    },
-    {
-      "key": "government_agency",
-      "label": "Government agencies",
-      "count": 7
-    },
-    {
       "key": "cuas_vendor",
       "label": "C-UAS / detection vendors",
       "count": 6
-    },
-    {
-      "key": "trade_association",
-      "label": "Trade associations",
-      "count": 5
     },
     {
       "key": "academic",
@@ -292,6 +292,19 @@ const ANALYSIS_DATA = {
         "UAFRs are a first step; scalable lawful counter-UAS capability still needed"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0423"
+    },
+    {
+      "id": "FAA-2026-4558-0550",
+      "name": "Comment from CNPPID",
+      "org": "CNPPID",
+      "category": "critical_infrastructure_owner",
+      "position": "support_with_changes",
+      "arguments": [
+        "Public power/irrigation district (dams + energy sector) supports the UAFR framework",
+        "Preserve facility operators' own UAS use for FERC-mandated dam-safety inspections without case-by-case authorization",
+        "Allow consolidated applications for commonly-owned multi-site systems; harmonize Part 74 with existing FERC oversight"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0550"
     },
     {
       "id": "FAA-2026-4558-0031",
@@ -578,6 +591,32 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0492"
     },
     {
+      "id": "FAA-2026-4558-0505",
+      "name": "Comment from SKY EYES",
+      "org": "SKY EYES",
+      "category": "drone_company",
+      "position": "support_with_changes",
+      "arguments": [
+        "Preserve clear, scalable access for certificated Part 107 operators, distinct from anonymous/malicious operators",
+        "Clarify that authorized non-transitory work (hovering, orbiting, mapping) is permitted, not just transit",
+        "Establish a standardized digital notification/whitelist pathway for repeat and pre-approved operators"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0505"
+    },
+    {
+      "id": "FAA-2026-4558-0510",
+      "name": "Comment from Reliable Robotics",
+      "org": "Reliable Robotics",
+      "category": "drone_company",
+      "position": "support_with_changes",
+      "arguments": [
+        "Large-UAS/AAM cargo operator (Cessna 208B autonomy STC) says § 74.250 access provisions only contemplate small UAS",
+        "Aircraft with ATC-assigned transponder code and two-way ATC communication should be exempt from Remote ID/notification requirements as duplicative",
+        "Proposes specific text amendments to §§ 74.250(a)(1) and 74.255"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0510"
+    },
+    {
       "id": "FAA-2026-4558-0011",
       "name": "MATTHEW JOHNSON",
       "org": "",
@@ -760,6 +799,58 @@ const ANALYSIS_DATA = {
         "Simple LAANC-like authorization"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0370"
+    },
+    {
+      "id": "FAA-2026-4558-0513",
+      "name": "Comment from Memphis Drone Washing",
+      "org": "Memphis Drone Washing",
+      "category": "individual_part107_operator",
+      "position": "oppose",
+      "arguments": [
+        "Cannot support rule as written: § 74.54 adopts the broad 16-sector NSM-22 framework instead of the narrower facility list Congress enumerated in 2209",
+        "Proposes two-tier eligibility: automatic for Congress-enumerated sectors, heightened 'demonstration of cause' for all other NSM-22 sectors",
+        "'Shortest practicable time' transit standard doesn't accommodate non-transitory mapping/inspection work; no defined max response time for facility notification"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0513"
+    },
+    {
+      "id": "FAA-2026-4558-0517",
+      "name": "Comment from Aerial Northwest, LLC",
+      "org": "Aerial Northwest, LLC",
+      "category": "individual_part107_operator",
+      "position": "support_with_changes",
+      "arguments": [
+        "Small drone-photography business warns of cumulative restricted-area burden",
+        "Narrowly tailor restrictions to demonstrated need with periodic review",
+        "Requests FAA conduct a Small Business Impact Analysis"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0517"
+    },
+    {
+      "id": "FAA-2026-4558-0524",
+      "name": "Comment from THE FLYING LIZARD",
+      "org": "THE FLYING LIZARD",
+      "category": "individual_part107_operator",
+      "position": "support_with_changes",
+      "arguments": [
+        "Questions whether notification requirements actually deter malicious operators vs. burden compliant ones",
+        "Asks FAA to clarify consistent facility-level administration of notification requests",
+        "Focus regulatory effort on detection/response to unauthorized ops, not paperwork for compliant operators"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0524"
+    },
+    {
+      "id": "FAA-2026-4558-0534",
+      "name": "Comment from Hokumalamalama Productions LLC",
+      "org": "Hokumalamalama Productions LLC",
+      "category": "individual_part107_operator",
+      "position": "oppose",
+      "arguments": [
+        "Opposes the advance-notice transit requirement for certified Part 107 pilots specifically",
+        "Argues administrative burden falls on vetted operators while doing nothing to deter bad actors",
+        "Proposes a Remote ID protocol extension broadcasting verified Part 107 status instead of manual notification"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0534"
     },
     {
       "id": "FAA-2026-4558-0040",
@@ -1046,6 +1137,17 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0455"
     },
     {
+      "id": "FAA-2026-4558-0554",
+      "name": "Comment from National Association of State Energy Officials (NASEO)",
+      "org": "National Association of State Energy Officials (NASEO)",
+      "category": "government_agency",
+      "position": "unclear",
+      "arguments": [
+        "State energy officials association filing; extracted text captured only the submission title, not the substantive body — needs manual follow-up against the source PDF"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0554"
+    },
+    {
       "id": "FAA-2026-4558-0021",
       "name": "Mike Kirkpatrick",
       "org": "",
@@ -1201,6 +1303,45 @@ const ANALYSIS_DATA = {
         "Lower 120-day open-to-public threshold to 60 days"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0456"
+    },
+    {
+      "id": "FAA-2026-4558-0549",
+      "name": "Comment from North Carolina Poultry Federation",
+      "org": "North Carolina Poultry Federation",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Poultry trade group supports rule for biosecurity (HPAI) and food-security reasons",
+        "Activist drone campaigns over poultry houses stress birds and risk disease-transmission via cross-farm flights",
+        "Urges expedited finalization"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0549"
+    },
+    {
+      "id": "FAA-2026-4558-0551",
+      "name": "Comment from Delmarva Chicken Association",
+      "org": "Delmarva Chicken Association",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Poultry trade group supports rule for biosecurity (HPAI/NWS) and food-security reasons",
+        "Activist groups increasingly use drones for surveillance/campaign footage against farms",
+        "Urges expedited finalization; food/ag facilities should be eligible for UAFR"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0551"
+    },
+    {
+      "id": "FAA-2026-4558-0556",
+      "name": "Comment from Alliance for Telecommunications Industry Solutions",
+      "org": "Alliance for Telecommunications Industry Solutions",
+      "category": "trade_association",
+      "position": "support_with_changes",
+      "arguments": [
+        "Telecom standards body (ATIS) flags mobile-network-based identity/tracking as a complement to Remote ID",
+        "Highlights its USEC and ISAC-DI workstreams as future technical resources for UAFR access/enforcement",
+        "Not proposing specific regulatory text at this stage; requests FAA engagement with its UAV Initiative"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0556"
     },
     {
       "id": "FAA-2026-4558-0047",
@@ -1657,6 +1798,19 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0416"
     },
     {
+      "id": "FAA-2026-4558-0530",
+      "name": "Comment from Grimmius Cattle Company, Inc.",
+      "org": "Grimmius Cattle Company, Inc.",
+      "category": "individual_other",
+      "position": "support",
+      "arguments": [
+        "Cattle operation reports near-weekly unauthorized/BVLOS/nighttime drone activity and an activist drone-triggered stampede injuring livestock",
+        "No current legal mechanism to stop activist surveillance filmed without consent",
+        "Urges designating agricultural livestock facilities as eligible fixed-site facilities with enhanced BVLOS/nighttime penalties"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0530"
+    },
+    {
       "id": "FAA-2026-4558-0197",
       "name": "Comment from Arena Management Holdings, Inc. dba Heritage Bank Center",
       "org": "Arena Management Holdings, Inc. dba Heritage Bank Center",
@@ -1695,80 +1849,7 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0486"
     }
   ],
-  "unreviewed": [
-    {
-      "id": "FAA-2026-4558-0517",
-      "org": "Aerial Northwest, LLC",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0517"
-    },
-    {
-      "id": "FAA-2026-4558-0524",
-      "org": "THE FLYING LIZARD",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0524"
-    },
-    {
-      "id": "FAA-2026-4558-0551",
-      "org": "Delmarva Chicken Association",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0551"
-    },
-    {
-      "id": "FAA-2026-4558-0554",
-      "org": "National Association of State Energy Officials (NASEO)",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0554"
-    },
-    {
-      "id": "FAA-2026-4558-0505",
-      "org": "SKY EYES",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0505"
-    },
-    {
-      "id": "FAA-2026-4558-0549",
-      "org": "North Carolina Poultry Federation",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0549"
-    },
-    {
-      "id": "FAA-2026-4558-0550",
-      "org": "CNPPID",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0550"
-    },
-    {
-      "id": "FAA-2026-4558-0534",
-      "org": "Hokumalamalama Productions LLC",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0534"
-    },
-    {
-      "id": "FAA-2026-4558-0556",
-      "org": "Alliance for Telecommunications Industry Solutions",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0556"
-    },
-    {
-      "id": "FAA-2026-4558-0513",
-      "org": "Memphis Drone Washing",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0513"
-    },
-    {
-      "id": "FAA-2026-4558-0530",
-      "org": "Grimmius Cattle Company, Inc.",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0530"
-    },
-    {
-      "id": "FAA-2026-4558-0510",
-      "org": "Reliable Robotics",
-      "date": "2026-07-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0510"
-    }
-  ],
+  "unreviewed": [],
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
