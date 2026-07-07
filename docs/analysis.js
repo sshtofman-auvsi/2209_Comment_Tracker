@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-07T00:42:38.475210+00:00",
+  "generated_utc": "2026-07-07T00:47:29.003667+00:00",
   "total": 541,
   "campaign_count": 315,
   "campaign_pct": 58,
@@ -1944,8 +1944,8 @@ const ANALYSIS_DATA = {
     },
     {
       "severity": "low",
-      "title": "Comment-period extension requested",
-      "body": "The NY Attorney General requested a 30-day extension. If granted, the July 6 deadline moves — track this; it affects AUVSI's filing timeline.",
+      "title": "Comment-period extension granted",
+      "body": "The NY Attorney General requested a 30-day extension, and the FAA granted it. Confirm the new deadline and update AUVSI's filing timeline accordingly — comments may continue to accrue past the originally listed July 6 close date.",
       "ids": [
         "FAA-2026-4558-0417"
       ]
