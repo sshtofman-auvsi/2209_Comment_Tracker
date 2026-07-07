@@ -20,7 +20,7 @@ Live dashboard tracking public comments on the FAA Section 2209 NPRM — *Restri
 
 ~58% of the docket (315 of 541 comments) is an organized railroad-labor write-in campaign by SMART-TD members protesting employer drone surveillance — an off-topic labor grievance, not engagement with the Section 2209 facility-designation framework. The dashboard leads with this context so the raw comment count is not misread as stakeholder consensus.
 
-Among genuine 2209 stakeholders (226 comments): support-with-changes plurality (119), followed by support (62) and oppose (41).
+Among genuine 2209 stakeholders (226 comments): support-with-changes plurality (120), followed by support (62) and oppose (41).
 
 ## Data pipeline
 

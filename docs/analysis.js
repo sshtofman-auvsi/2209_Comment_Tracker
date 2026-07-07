@@ -1,17 +1,17 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-07T00:41:30.804600+00:00",
+  "generated_utc": "2026-07-07T00:42:38.475210+00:00",
   "total": 541,
   "campaign_count": 315,
   "campaign_pct": 58,
   "positions_all": {
-    "support_with_changes": 119,
-    "unclear": 4,
+    "support_with_changes": 120,
+    "unclear": 3,
     "oppose": 41,
     "support": 377
   },
   "positions_ex_campaign": {
-    "support_with_changes": 119,
-    "unclear": 4,
+    "support_with_changes": 120,
+    "unclear": 3,
     "oppose": 41,
     "support": 62
   },
@@ -95,7 +95,7 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 205
+      "count": 206
     },
     {
       "label": "Small business / cost",
@@ -103,19 +103,19 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 186
+      "count": 187
     },
     {
       "label": "Facility eligibility scope",
-      "count": 146
+      "count": 147
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 140
+      "count": 141
     },
     {
       "label": "Federal preemption",
-      "count": 94
+      "count": 95
     },
     {
       "label": "Transparency / publication",
@@ -135,11 +135,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 56
+      "count": 57
     },
     {
       "label": "Contractor / owner gap",
-      "count": 54
+      "count": 55
     },
     {
       "label": "Patchwork / no-fly zones",
@@ -1154,9 +1154,11 @@ const ANALYSIS_DATA = {
       "name": "Comment from National Association of State Energy Officials (NASEO)",
       "org": "National Association of State Energy Officials (NASEO)",
       "category": "government_agency",
-      "position": "unclear",
+      "position": "support_with_changes",
       "arguments": [
-        "State energy officials association filing; extracted text captured only the submission title, not the substantive body — needs manual follow-up against the source PDF"
+        "State Energy Offices (56 states/territories) support the § 74.88 energy-sector UAFR process, noting it mirrors threats already tracked in State Energy Security Plans",
+        "Clarify how State Energy Office risk assessments (developed with DOE) will inform federal sponsorship/evaluation of energy-sector Special UAFRs",
+        "Clarify how the federal framework interacts with existing state UAS-over-critical-infrastructure statutes and State Energy Security Plan measures"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0554"
     },
