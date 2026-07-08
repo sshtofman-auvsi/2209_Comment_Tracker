@@ -1,16 +1,16 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-07T20:32:07.409545+00:00",
-  "total": 560,
+  "generated_utc": "2026-07-08T18:55:42.493009+00:00",
+  "total": 562,
   "campaign_count": 317,
-  "campaign_pct": 57,
+  "campaign_pct": 56,
   "positions_all": {
-    "support_with_changes": 132,
+    "support_with_changes": 134,
     "unclear": 3,
     "oppose": 42,
     "support": 383
   },
   "positions_ex_campaign": {
-    "support_with_changes": 132,
+    "support_with_changes": 134,
     "unclear": 3,
     "oppose": 42,
     "support": 66
@@ -24,7 +24,7 @@ const ANALYSIS_DATA = {
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 130
+      "count": 132
     },
     {
       "key": "individual_part107_operator",
@@ -99,19 +99,19 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Small business / cost",
-      "count": 199
+      "count": 200
     },
     {
       "label": "National security / threat",
-      "count": 198
+      "count": 199
     },
     {
       "label": "Facility eligibility scope",
-      "count": 160
+      "count": 161
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 150
+      "count": 151
     },
     {
       "label": "Federal preemption",
@@ -123,7 +123,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "First Amendment / media",
-      "count": 94
+      "count": 95
     },
     {
       "label": "Boundaries / altitude",
@@ -198,8 +198,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W28",
-      "label": "Jul 07",
-      "count": 72
+      "label": "Jul 08",
+      "count": 74
     }
   ],
   "notable": [
@@ -1866,6 +1866,12 @@ const ANALYSIS_DATA = {
   ],
   "unreviewed": [
     {
+      "id": "FAA-2026-4558-0566",
+      "org": "Associated General Contractors of America",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
+    },
+    {
       "id": "FAA-2026-4558-0573",
       "org": "National Cattlemen's Beef Association",
       "date": "2026-07-07",
@@ -1876,12 +1882,6 @@ const ANALYSIS_DATA = {
       "org": "Commercial Space Federation",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
-    },
-    {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
       "id": "FAA-2026-4558-0569",
@@ -1917,7 +1917,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 57% of comments (317 of 560) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 56% of comments (317 of 562) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
