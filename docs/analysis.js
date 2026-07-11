@@ -1,18 +1,18 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-10T19:08:56.661620+00:00",
+  "generated_utc": "2026-07-11T16:38:24.292566+00:00",
   "total": 571,
   "campaign_count": 317,
   "campaign_pct": 56,
   "positions_all": {
-    "support_with_changes": 143,
+    "support_with_changes": 141,
     "unclear": 3,
-    "oppose": 41,
+    "oppose": 43,
     "support": 384
   },
   "positions_ex_campaign": {
-    "support_with_changes": 143,
+    "support_with_changes": 141,
     "unclear": 3,
-    "oppose": 41,
+    "oppose": 43,
     "support": 67
   },
   "categories": [
@@ -95,7 +95,7 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 220
+      "count": 222
     },
     {
       "label": "Small business / cost",
@@ -103,7 +103,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 203
+      "count": 205
     },
     {
       "label": "Facility eligibility scope",
@@ -119,7 +119,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Transparency / publication",
-      "count": 100
+      "count": 102
     },
     {
       "label": "First Amendment / media",
@@ -127,27 +127,27 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Boundaries / altitude",
-      "count": 79
+      "count": 81
     },
     {
       "label": "Remote ID / detection gap",
       "count": 68
     },
     {
-      "label": "Counter-UAS / mitigation",
+      "label": "Contractor / owner gap",
       "count": 65
     },
     {
-      "label": "Contractor / owner gap",
+      "label": "Counter-UAS / mitigation",
       "count": 63
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 41
+      "count": 43
     },
     {
       "label": "Overreach / withdraw",
-      "count": 26
+      "count": 28
     }
   ],
   "timeline": [
@@ -1866,12 +1866,6 @@ const ANALYSIS_DATA = {
   ],
   "unreviewed": [
     {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
-    },
-    {
       "id": "FAA-2026-4558-0573",
       "org": "National Cattlemen's Beef Association",
       "date": "2026-07-07",
@@ -1882,6 +1876,12 @@ const ANALYSIS_DATA = {
       "org": "Commercial Space Federation",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
+    },
+    {
+      "id": "FAA-2026-4558-0566",
+      "org": "Associated General Contractors of America",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
       "id": "FAA-2026-4558-0568",
@@ -1896,6 +1896,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
     },
     {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
+    },
+    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1906,12 +1912,6 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
