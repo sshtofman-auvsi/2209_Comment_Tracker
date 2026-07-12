@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-11T16:38:24.292566+00:00",
+  "generated_utc": "2026-07-12T17:39:38.741232+00:00",
   "total": 571,
   "campaign_count": 317,
   "campaign_pct": 56,
@@ -1896,12 +1896,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
     },
     {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
-    },
-    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1912,6 +1906,12 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
+    },
+    {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
