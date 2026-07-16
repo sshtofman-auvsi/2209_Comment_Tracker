@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-15T17:59:37.511372+00:00",
-  "total": 587,
+  "generated_utc": "2026-07-16T17:57:08.242062+00:00",
+  "total": 588,
   "campaign_count": 320,
-  "campaign_pct": 55,
+  "campaign_pct": 54,
   "positions_all": {
-    "support_with_changes": 148,
+    "support_with_changes": 149,
     "unclear": 3,
-    "oppose": 43,
-    "support": 393
+    "oppose": 44,
+    "support": 392
   },
   "positions_ex_campaign": {
-    "support_with_changes": 148,
+    "support_with_changes": 149,
     "unclear": 3,
-    "oppose": 43,
-    "support": 73
+    "oppose": 44,
+    "support": 72
   },
   "categories": [
     {
@@ -24,16 +24,16 @@ const ANALYSIS_DATA = {
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 151
-    },
-    {
-      "key": "individual_part107_operator",
-      "label": "Part 107 operators",
-      "count": 18
+      "count": 152
     },
     {
       "key": "individual_hobbyist",
       "label": "Hobbyists",
+      "count": 19
+    },
+    {
+      "key": "individual_part107_operator",
+      "label": "Part 107 operators",
       "count": 18
     },
     {
@@ -49,7 +49,7 @@ const ANALYSIS_DATA = {
     {
       "key": "critical_infrastructure_owner",
       "label": "Critical infrastructure owners",
-      "count": 9
+      "count": 8
     },
     {
       "key": "utility_water_energy",
@@ -95,7 +95,7 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Privacy / surveillance",
-      "count": 225
+      "count": 224
     },
     {
       "label": "Small business / cost",
@@ -103,11 +103,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 209
+      "count": 210
     },
     {
       "label": "Facility eligibility scope",
-      "count": 175
+      "count": 176
     },
     {
       "label": "Access pathway / LAANC",
@@ -115,27 +115,27 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Federal preemption",
-      "count": 117
+      "count": 116
     },
     {
       "label": "Transparency / publication",
-      "count": 108
+      "count": 107
     },
     {
       "label": "First Amendment / media",
-      "count": 101
+      "count": 102
     },
     {
       "label": "Boundaries / altitude",
-      "count": 84
+      "count": 83
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 72
+      "count": 73
     },
     {
       "label": "Contractor / owner gap",
-      "count": 70
+      "count": 71
     },
     {
       "label": "Counter-UAS / mitigation",
@@ -159,7 +159,7 @@ const ANALYSIS_DATA = {
     {
       "week": "2026-W20",
       "label": "May 15",
-      "count": 108
+      "count": 107
     },
     {
       "week": "2026-W21",
@@ -203,8 +203,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W29",
-      "label": "Jul 15",
-      "count": 16
+      "label": "Jul 16",
+      "count": 18
     }
   ],
   "notable": [
@@ -220,19 +220,6 @@ const ANALYSIS_DATA = {
         "Judge by operational criticality not classification"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0027"
-    },
-    {
-      "id": "FAA-2026-4558-0043",
-      "name": "Comment from QTS Data Centers",
-      "org": "QTS Data Centers",
-      "category": "critical_infrastructure_owner",
-      "position": "support",
-      "arguments": [
-        "QTS data centers as critical infrastructure",
-        "Align with DHS/CISA NIPP risk framework",
-        "Supports two-tier petition model, 400ft ceiling"
-      ],
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0043"
     },
     {
       "id": "FAA-2026-4558-0052",
@@ -1901,12 +1888,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
     },
     {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
-    },
-    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1917,6 +1898,12 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
+    },
+    {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -1937,16 +1924,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
     },
     {
-      "id": "FAA-2026-4558-0592",
-      "org": "Fairfax Water",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
-    },
-    {
       "id": "FAA-2026-4558-0591",
       "org": "U.S. Poultry & Egg Association",
       "date": "2026-07-13",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
+    },
+    {
+      "id": "FAA-2026-4558-0592",
+      "org": "Fairfax Water",
+      "date": "2026-07-13",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
     },
     {
       "id": "FAA-2026-4558-0594",
@@ -1976,7 +1963,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 55% of comments (320 of 587) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 54% of comments (320 of 588) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
