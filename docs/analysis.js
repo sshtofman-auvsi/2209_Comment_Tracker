@@ -1,18 +1,18 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-16T17:57:08.242062+00:00",
-  "total": 588,
+  "generated_utc": "2026-07-17T15:11:09.873635+00:00",
+  "total": 589,
   "campaign_count": 320,
   "campaign_pct": 54,
   "positions_all": {
     "support_with_changes": 149,
     "unclear": 3,
-    "oppose": 44,
+    "oppose": 45,
     "support": 392
   },
   "positions_ex_campaign": {
     "support_with_changes": 149,
     "unclear": 3,
-    "oppose": 44,
+    "oppose": 45,
     "support": 72
   },
   "categories": [
@@ -29,7 +29,7 @@ const ANALYSIS_DATA = {
     {
       "key": "individual_hobbyist",
       "label": "Hobbyists",
-      "count": 19
+      "count": 20
     },
     {
       "key": "individual_part107_operator",
@@ -111,7 +111,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 165
+      "count": 166
     },
     {
       "label": "Federal preemption",
@@ -143,11 +143,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 45
+      "count": 46
     },
     {
       "label": "Overreach / withdraw",
-      "count": 29
+      "count": 30
     }
   ],
   "timeline": [
@@ -203,8 +203,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W29",
-      "label": "Jul 16",
-      "count": 18
+      "label": "Jul 17",
+      "count": 19
     }
   ],
   "notable": [
@@ -1924,16 +1924,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
     },
     {
-      "id": "FAA-2026-4558-0591",
-      "org": "U.S. Poultry & Egg Association",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
-    },
-    {
       "id": "FAA-2026-4558-0592",
       "org": "Fairfax Water",
       "date": "2026-07-13",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
+    },
+    {
+      "id": "FAA-2026-4558-0591",
+      "org": "U.S. Poultry & Egg Association",
+      "date": "2026-07-13",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
     },
     {
       "id": "FAA-2026-4558-0594",
@@ -1963,7 +1963,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 54% of comments (320 of 588) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 54% of comments (320 of 589) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
