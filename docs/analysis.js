@@ -1,35 +1,35 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-21T15:41:11.961138+00:00",
-  "total": 595,
-  "campaign_count": 321,
-  "campaign_pct": 54,
+  "generated_utc": "2026-07-22T15:45:32.483735+00:00",
+  "total": 1034,
+  "campaign_count": 322,
+  "campaign_pct": 31,
   "positions_all": {
-    "support_with_changes": 150,
+    "support_with_changes": 199,
     "unclear": 3,
-    "oppose": 49,
-    "support": 393
+    "oppose": 289,
+    "support": 543
   },
   "positions_ex_campaign": {
-    "support_with_changes": 150,
+    "support_with_changes": 199,
     "unclear": 3,
-    "oppose": 49,
-    "support": 72
+    "oppose": 289,
+    "support": 221
   },
   "categories": [
     {
-      "key": "railroad_labor",
-      "label": "Railroad labor (write-in campaign)",
-      "count": 321
-    },
-    {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 155
+      "count": 591
+    },
+    {
+      "key": "railroad_labor",
+      "label": "Railroad labor (write-in campaign)",
+      "count": 322
     },
     {
       "key": "individual_hobbyist",
       "label": "Hobbyists",
-      "count": 22
+      "count": 24
     },
     {
       "key": "individual_part107_operator",
@@ -94,60 +94,60 @@ const ANALYSIS_DATA = {
   ],
   "themes": [
     {
-      "label": "Privacy / surveillance",
-      "count": 227
-    },
-    {
       "label": "Small business / cost",
-      "count": 221
+      "count": 429
     },
     {
       "label": "National security / threat",
-      "count": 213
+      "count": 426
     },
     {
       "label": "Facility eligibility scope",
-      "count": 179
-    },
-    {
-      "label": "Access pathway / LAANC",
-      "count": 170
-    },
-    {
-      "label": "Federal preemption",
-      "count": 118
-    },
-    {
-      "label": "Transparency / publication",
-      "count": 111
+      "count": 376
     },
     {
       "label": "First Amendment / media",
-      "count": 104
+      "count": 332
+    },
+    {
+      "label": "Privacy / surveillance",
+      "count": 253
+    },
+    {
+      "label": "Access pathway / LAANC",
+      "count": 195
+    },
+    {
+      "label": "Federal preemption",
+      "count": 139
+    },
+    {
+      "label": "Transparency / publication",
+      "count": 133
     },
     {
       "label": "Boundaries / altitude",
-      "count": 85
+      "count": 86
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 76
+      "count": 79
     },
     {
       "label": "Contractor / owner gap",
-      "count": 72
+      "count": 76
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 69
+      "count": 73
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 49
+      "count": 51
     },
     {
       "label": "Overreach / withdraw",
-      "count": 34
+      "count": 41
     }
   ],
   "timeline": [
@@ -208,8 +208,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W30",
-      "label": "Jul 20",
-      "count": 6
+      "label": "Jul 22",
+      "count": 445
     }
   ],
   "notable": [
@@ -1863,12 +1863,6 @@ const ANALYSIS_DATA = {
   ],
   "unreviewed": [
     {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
-    },
-    {
       "id": "FAA-2026-4558-0573",
       "org": "National Cattlemen's Beef Association",
       "date": "2026-07-07",
@@ -1879,6 +1873,12 @@ const ANALYSIS_DATA = {
       "org": "Commercial Space Federation",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
+    },
+    {
+      "id": "FAA-2026-4558-0566",
+      "org": "Associated General Contractors of America",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
       "id": "FAA-2026-4558-0568",
@@ -1893,6 +1893,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
     },
     {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
+    },
+    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1903,12 +1909,6 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -1929,16 +1929,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
     },
     {
-      "id": "FAA-2026-4558-0591",
-      "org": "U.S. Poultry & Egg Association",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
-    },
-    {
       "id": "FAA-2026-4558-0592",
       "org": "Fairfax Water",
       "date": "2026-07-13",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
+    },
+    {
+      "id": "FAA-2026-4558-0591",
+      "org": "U.S. Poultry & Egg Association",
+      "date": "2026-07-13",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
     },
     {
       "id": "FAA-2026-4558-0594",
@@ -1981,12 +1981,30 @@ const ANALYSIS_DATA = {
       "org": "Percepto",
       "date": "2026-07-20",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0613"
+    },
+    {
+      "id": "FAA-2026-4558-0772",
+      "org": "Plant Peace Daily",
+      "date": "2026-07-21",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
+    },
+    {
+      "id": "FAA-2026-4558-0931",
+      "org": "Lazersharp Productions",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
+    },
+    {
+      "id": "FAA-2026-4558-1027",
+      "org": "ASTM International",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
     }
   ],
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 54% of comments (321 of 595) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 31% of comments (322 of 1034) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
