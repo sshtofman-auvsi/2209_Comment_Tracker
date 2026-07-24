@@ -1,25 +1,25 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-24T15:25:00.772435+00:00",
-  "total": 1175,
+  "generated_utc": "2026-07-24T17:04:42.605657+00:00",
+  "total": 1176,
   "campaign_count": 322,
   "campaign_pct": 27,
   "positions_all": {
-    "support_with_changes": 218,
+    "support_with_changes": 224,
     "unclear": 3,
-    "oppose": 359,
-    "support": 595
+    "oppose": 353,
+    "support": 596
   },
   "positions_ex_campaign": {
-    "support_with_changes": 218,
+    "support_with_changes": 224,
     "unclear": 3,
-    "oppose": 359,
-    "support": 273
+    "oppose": 353,
+    "support": 274
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 732
+      "count": 730
     },
     {
       "key": "railroad_labor",
@@ -47,29 +47,29 @@ const ANALYSIS_DATA = {
       "count": 9
     },
     {
-      "key": "critical_infrastructure_owner",
-      "label": "Critical infrastructure owners",
-      "count": 8
-    },
-    {
       "key": "utility_water_energy",
       "label": "Utilities (water / energy)",
-      "count": 8
+      "count": 9
     },
     {
       "key": "government_agency",
       "label": "Government agencies",
+      "count": 9
+    },
+    {
+      "key": "public_safety",
+      "label": "Public safety",
+      "count": 8
+    },
+    {
+      "key": "critical_infrastructure_owner",
+      "label": "Critical infrastructure owners",
       "count": 8
     },
     {
       "key": "trade_association",
       "label": "Trade associations",
       "count": 8
-    },
-    {
-      "key": "public_safety",
-      "label": "Public safety",
-      "count": 7
     },
     {
       "key": "cuas_vendor",
@@ -95,51 +95,51 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Small business / cost",
-      "count": 487
+      "count": 488
     },
     {
       "label": "National security / threat",
-      "count": 486
+      "count": 485
     },
     {
       "label": "Facility eligibility scope",
-      "count": 434
+      "count": 435
     },
     {
       "label": "First Amendment / media",
-      "count": 401
+      "count": 397
     },
     {
       "label": "Privacy / surveillance",
-      "count": 260
+      "count": 262
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 200
-    },
-    {
-      "label": "Transparency / publication",
-      "count": 145
+      "count": 202
     },
     {
       "label": "Federal preemption",
-      "count": 144
+      "count": 148
+    },
+    {
+      "label": "Transparency / publication",
+      "count": 146
     },
     {
       "label": "Boundaries / altitude",
-      "count": 86
+      "count": 88
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 80
+      "count": 82
     },
     {
       "label": "Contractor / owner gap",
-      "count": 76
+      "count": 79
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 73
+      "count": 76
     },
     {
       "label": "Patchwork / no-fly zones",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 42
+      "count": 41
     }
   ],
   "timeline": [
@@ -209,7 +209,7 @@ const ANALYSIS_DATA = {
     {
       "week": "2026-W30",
       "label": "Jul 24",
-      "count": 586
+      "count": 587
     }
   ],
   "notable": [
@@ -415,6 +415,19 @@ const ANALYSIS_DATA = {
         "Exception only for facility-hired commercial drones"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0475"
+    },
+    {
+      "id": "FAA-2026-4558-0592",
+      "name": "Comment from Fairfax Water",
+      "org": "Fairfax Water",
+      "category": "utility_water_energy",
+      "position": "support_with_changes",
+      "arguments": [
+        "Largest VA drinking water utility backs keeping water/wastewater/dam sectors UAFR-eligible",
+        "Recommends a 100,000-population-served threshold for expedited/automatic approval, aligned to EPA size classes",
+        "Wants bundled/system-wide applications for geographically distributed multi-facility systems"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
     },
     {
       "id": "FAA-2026-4558-0013",
@@ -1160,6 +1173,20 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0554"
     },
     {
+      "id": "FAA-2026-4558-0576",
+      "name": "Comment from Cleveland Metropolitan Park District",
+      "org": "",
+      "category": "government_agency",
+      "position": "support_with_changes",
+      "arguments": [
+        "Cleveland Metroparks says the commercial-facility 2.5M-annual-visitor threshold excludes comparable high-traffic parks/zoos; recommends lowering to 1M",
+        "Argues the ticketing/entry-control eligibility requirement is irrelevant to UAS risk and excludes open-access sites like beaches",
+        "Wants dam eligibility keyed to hazard classification (high-hazard-potential dams) rather than power/output/water-delivery thresholds",
+        "Wants GSFS eligibility extended to state/local government facilities, not just national-security-designated ones"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0576"
+    },
+    {
       "id": "FAA-2026-4558-0021",
       "name": "Mike Kirkpatrick",
       "org": "",
@@ -1248,6 +1275,19 @@ const ANALYSIS_DATA = {
         "Convene FAA stakeholder group on UAS/air-medical deconfliction before finalizing"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0491"
+    },
+    {
+      "id": "FAA-2026-4558-0559",
+      "name": "Comment from Los Angeles Police Department",
+      "org": "",
+      "category": "public_safety",
+      "position": "support_with_changes",
+      "arguments": [
+        "LAPD says plain-text Remote ID is spoofable; wants a verifiable cryptographic standard (e.g. DRIP) phased in after a 5-year transition",
+        "Urges lateral boundary be allowed to extend beyond the property line case-by-case, since aerial threats don't respect parcel lines",
+        "Recommends identity-verified (e.g. Login.gov) accounts for the UAFR notification portal"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0559"
     },
     {
       "id": "FAA-2026-4558-0343",
@@ -1881,16 +1921,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
-      "id": "FAA-2026-4558-0568",
-      "org": "ACLU, CDT, EFF, and EPIC",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
-    },
-    {
       "id": "FAA-2026-4558-0569",
       "org": "Meat Institute",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+    },
+    {
+      "id": "FAA-2026-4558-0568",
+      "org": "ACLU, CDT, EFF, and EPIC",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
       "id": "FAA-2026-4558-0570",
@@ -1927,12 +1967,6 @@ const ANALYSIS_DATA = {
       "org": "Censys Technologies Corporation",
       "date": "2026-07-13",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
-    },
-    {
-      "id": "FAA-2026-4558-0592",
-      "org": "Fairfax Water",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
     },
     {
       "id": "FAA-2026-4558-0591",
@@ -2022,7 +2056,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 27% of comments (322 of 1175) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 27% of comments (322 of 1176) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",

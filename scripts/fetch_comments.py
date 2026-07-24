@@ -25,6 +25,15 @@ except ImportError:
     PDF_SUPPORT = False
     print("WARNING: pdfplumber not installed — PDF text extraction disabled. Run: pip install pdfplumber", file=sys.stderr)
 
+try:
+    import fitz  # PyMuPDF
+    import pytesseract
+    from PIL import Image
+    OCR_SUPPORT = True
+except ImportError:
+    OCR_SUPPORT = False
+    print("WARNING: PyMuPDF/pytesseract not installed — OCR fallback for scanned PDFs disabled.", file=sys.stderr)
+
 API_BASE = "https://api.regulations.gov/v4"
 DOCKET_ID = "FAA-2026-4558"
 DOCUMENT_ID = "FAA-2026-4558-0001"
@@ -106,10 +115,27 @@ PDF_HEADERS = {
 }
 
 
+def ocr_pdf(pdf_bytes, comment_id=""):
+    """Rasterize each page and run OCR. Used when no text layer is present."""
+    try:
+        pages_text = []
+        with fitz.open(stream=pdf_bytes, filetype="pdf") as doc:
+            for page in doc:
+                pix = page.get_pixmap(dpi=300)
+                img = Image.open(io.BytesIO(pix.tobytes("png")))
+                t = pytesseract.image_to_string(img)
+                if t and t.strip():
+                    pages_text.append(t.strip())
+        return "\n\n".join(pages_text).strip()
+    except Exception as e:
+        print(f"    WARNING: OCR failed for {comment_id}: {e}", file=sys.stderr)
+        return ""
+
+
 def extract_pdf_text(pdf_url, comment_id=""):
-    """Download a PDF and extract its text. Returns (text, scanned_flag)."""
+    """Download a PDF and extract its text. Returns (text, scanned_flag, ocr_attempted_flag)."""
     if not PDF_SUPPORT:
-        return "", False
+        return "", False, False
     try:
         headers = {**PDF_HEADERS, "Referer": f"https://www.regulations.gov/comment/{comment_id}"}
         r = requests.get(pdf_url, timeout=60, headers=headers)
@@ -122,10 +148,17 @@ def extract_pdf_text(pdf_url, comment_id=""):
                     pages_text.append(t.strip())
         text = "\n\n".join(pages_text).strip()
         scanned = len(pages_text) == 0  # no extractable text layers
-        return text, scanned
+
+        ocr_attempted = False
+        if scanned and OCR_SUPPORT:
+            ocr_attempted = True
+            print(f"    No text layer — running OCR...", file=sys.stderr)
+            text = ocr_pdf(r.content, comment_id)
+
+        return text, scanned, ocr_attempted
     except Exception as e:
         print(f"    WARNING: PDF extraction failed ({pdf_url}): {e}", file=sys.stderr)
-        return "", False
+        return "", False, False
 
 
 def fetch_comment_detail(comment_id):
@@ -146,14 +179,15 @@ def fetch_comment_detail(comment_id):
 
     pdf_text = ""
     pdf_scanned = False
+    pdf_ocr_attempted = False
     pdf_urls = []
 
     if has_attachment and PDF_SUPPORT:
         pdf_urls = fetch_pdf_urls(comment_id, raw)
         for url in pdf_urls[:1]:  # extract first PDF only
-            pdf_text, pdf_scanned = extract_pdf_text(url, comment_id)
+            pdf_text, pdf_scanned, pdf_ocr_attempted = extract_pdf_text(url, comment_id)
             if pdf_text:
-                print(f"    Extracted {len(pdf_text)} chars from PDF", file=sys.stderr)
+                print(f"    Extracted {len(pdf_text)} chars from PDF{' via OCR' if pdf_ocr_attempted else ''}", file=sys.stderr)
                 break
 
     comment_text = inline_text if not has_attachment else pdf_text
@@ -171,6 +205,7 @@ def fetch_comment_detail(comment_id):
         "has_attachment": has_attachment,
         "pdf_extracted": has_attachment and bool(pdf_text),
         "pdf_scanned": pdf_scanned,
+        "ocr_attempted": pdf_ocr_attempted,
         "category": attrs.get("category") or "",
         "submitter_type": attrs.get("submitterType") or "",
         "url": f"https://www.regulations.gov/comment/{comment_id}",
@@ -198,8 +233,10 @@ def main():
         try:
             old = json.loads(OUT_FILE.read_text(encoding="utf-8"))
             for c in old.get("comments", []):
-                # Re-fetch attachment comments that haven't had PDF extraction attempted
-                if c.get("has_attachment") and not c.get("pdf_extracted") and not c.get("pdf_scanned"):
+                # Re-fetch attachment comments with no extracted text, as long as we
+                # haven't already tried OCR on them (avoids retrying genuinely blank/
+                # illegible scans forever).
+                if c.get("has_attachment") and not c.get("pdf_extracted") and not c.get("ocr_attempted"):
                     continue  # will re-fetch
                 existing[c["id"]] = c
             print(f"Existing cached comments: {len(existing)}", file=sys.stderr)
