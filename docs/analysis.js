@@ -1,25 +1,25 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-27T13:03:20.074118+00:00",
+  "generated_utc": "2026-07-27T13:16:20.781015+00:00",
   "total": 1221,
   "campaign_count": 324,
   "campaign_pct": 27,
   "positions_all": {
-    "support_with_changes": 229,
+    "support_with_changes": 224,
     "unclear": 3,
-    "oppose": 381,
-    "support": 608
+    "oppose": 383,
+    "support": 611
   },
   "positions_ex_campaign": {
-    "support_with_changes": 229,
+    "support_with_changes": 224,
     "unclear": 3,
-    "oppose": 381,
-    "support": 284
+    "oppose": 383,
+    "support": 287
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 773
+      "count": 753
     },
     {
       "key": "railroad_labor",
@@ -27,28 +27,43 @@ const ANALYSIS_DATA = {
       "count": 324
     },
     {
-      "key": "individual_hobbyist",
-      "label": "Hobbyists",
-      "count": 24
-    },
-    {
       "key": "individual_part107_operator",
       "label": "Part 107 operators",
-      "count": 18
+      "count": 21
+    },
+    {
+      "key": "individual_hobbyist",
+      "label": "Hobbyists",
+      "count": 20
     },
     {
       "key": "drone_company",
       "label": "Drone companies",
-      "count": 16
+      "count": 18
     },
     {
-      "key": "media_photography",
-      "label": "Media / photography",
-      "count": 9
+      "key": "trade_association",
+      "label": "Trade associations",
+      "count": 17
     },
     {
       "key": "utility_water_energy",
       "label": "Utilities (water / energy)",
+      "count": 12
+    },
+    {
+      "key": "media_photography",
+      "label": "Media / photography",
+      "count": 11
+    },
+    {
+      "key": "critical_infrastructure_owner",
+      "label": "Critical infrastructure owners",
+      "count": 10
+    },
+    {
+      "key": "public_safety",
+      "label": "Public safety",
       "count": 9
     },
     {
@@ -57,34 +72,19 @@ const ANALYSIS_DATA = {
       "count": 9
     },
     {
-      "key": "public_safety",
-      "label": "Public safety",
-      "count": 8
-    },
-    {
-      "key": "critical_infrastructure_owner",
-      "label": "Critical infrastructure owners",
-      "count": 8
-    },
-    {
-      "key": "trade_association",
-      "label": "Trade associations",
-      "count": 8
-    },
-    {
       "key": "cuas_vendor",
       "label": "C-UAS / detection vendors",
       "count": 6
     },
     {
+      "key": "other",
+      "label": "Other",
+      "count": 5
+    },
+    {
       "key": "academic",
       "label": "Academic / test sites",
       "count": 4
-    },
-    {
-      "key": "other",
-      "label": "Other",
-      "count": 3
     },
     {
       "key": "labor_union",
@@ -322,6 +322,33 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0550"
     },
     {
+      "id": "FAA-2026-4558-0593",
+      "name": "Comment from The Fertilizer Institute",
+      "org": "The Fertilizer Institute",
+      "category": "critical_infrastructure_owner",
+      "position": "support_with_changes",
+      "arguments": [
+        "Represents fertilizer manufacturing/storage/distribution facilities handling toxic-inhalation-hazard chemicals like anhydrous ammonia",
+        "Wants lateral boundaries set by facility-specific risk analysis rather than fixed to the property line, since a TIH release can extend past the fence line",
+        "Opposes publishing a public UAFR notice/inventory that could function as a target list of protected facilities",
+        "Requests a streamlined fast-track Standard UAFR pathway and clearer Remote ID receiver performance standards"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0593"
+    },
+    {
+      "id": "FAA-2026-4558-1240",
+      "name": "Comment from Markley Group LLC",
+      "org": "Markley Group LLC",
+      "category": "critical_infrastructure_owner",
+      "position": "support",
+      "arguments": [
+        "Boston-area data center operator serving government, healthcare, financial, and telecom tenants",
+        "Cites a growing number of drone-enabled surveillance/reconnaissance security concerns across the critical-infrastructure industry",
+        "Urges FAA to finalize the rule and ensure data centers/telecom facilities are included among eligible facilities"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1240"
+    },
+    {
       "id": "FAA-2026-4558-0031",
       "name": "Comment from Onondaga County Water Authority (OCWA)",
       "org": "",
@@ -422,6 +449,33 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0475"
     },
     {
+      "id": "FAA-2026-4558-0560",
+      "name": "Comment from Louisville Water Company",
+      "org": "Louisville Water Company",
+      "category": "utility_water_energy",
+      "position": "support_with_changes",
+      "arguments": [
+        "Recommends a community-level SLTT application process so small/medium water utilities can share Remote ID sensing costs",
+        "Allow a single consolidated application to cover multiple non-contiguous facilities under common utility ownership",
+        "Proposes a utility self-designation framework built on existing AWIA risk assessments rather than FAA pre-approval",
+        "Protect UAFR application data from FOIA/public disclosure, consistent with AWIA treatment of risk assessments"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
+    },
+    {
+      "id": "FAA-2026-4558-0585",
+      "name": "Comment from Great River Hydro, LLC",
+      "org": "Great River Hydro, LLC",
+      "category": "utility_water_energy",
+      "position": "support_with_changes",
+      "arguments": [
+        "Reports repeated unauthorized drone filming of dam gate/structural details publicly posted online, framing it as a CEII-relevant security gap with no current legal remedy",
+        "Recommends eligibility explicitly cover hydroelectric facilities of all sizes, including smaller legacy dams",
+        "Recommends treating UAFR application/petition materials consistent with Critical Energy Infrastructure Information confidentiality protections"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0585"
+    },
+    {
       "id": "FAA-2026-4558-0592",
       "name": "Comment from Fairfax Water",
       "org": "Fairfax Water",
@@ -433,6 +487,19 @@ const ANALYSIS_DATA = {
         "Wants bundled/system-wide applications for geographically distributed multi-facility systems"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0592"
+    },
+    {
+      "id": "FAA-2026-4558-1200",
+      "name": "Comment from PJM",
+      "org": "PJM",
+      "category": "utility_water_energy",
+      "position": "support_with_changes",
+      "arguments": [
+        "ISO/RTO grid operator recommends Special (not just Standard) UAFRs for control centers given bulk-electric-grid reliability and national-security stakes",
+        "Requests 24/7/365 permanent designations rather than time-limited restrictions",
+        "Requests boundaries cover the full regional control-center footprint plus buffer, with strict Remote ID broadcast conditions on any authorized exceptions"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1200"
     },
     {
       "id": "FAA-2026-4558-0013",
@@ -643,6 +710,33 @@ const ANALYSIS_DATA = {
         "Proposes specific text amendments to §§ 74.250(a)(1) and 74.255"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0510"
+    },
+    {
+      "id": "FAA-2026-4558-0595",
+      "name": "Comment from Censys Technologies Corporation",
+      "org": "Censys Technologies Corporation",
+      "category": "drone_company",
+      "position": "support_with_changes",
+      "arguments": [
+        "Distinguish operators merely transiting a UAFR from those with legitimate operational need to remain within it for inspections/surveys",
+        "Adopt a standing 'whitelist' approval process for trusted recurring operators instead of per-flight notification",
+        "Reiterate that a UAFR is not itself authority for private parties to interdict, disable, or interfere with unmanned aircraft"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
+    },
+    {
+      "id": "FAA-2026-4558-0613",
+      "name": "Comment from Percepto",
+      "org": "Percepto",
+      "category": "drone_company",
+      "position": "support_with_changes",
+      "arguments": [
+        "BVLOS critical-infrastructure-inspection operator supports risk-based, facility-specific eligibility and property-boundary-limited UAFRs",
+        "Recommends an automated, standing notification process for recurring BVLOS operations rather than per-flight notice",
+        "Requests an FAA-managed whitelist so facilities can programmatically distinguish authorized from unknown aircraft",
+        "Requests clearer eligibility criteria and process detail for Special UAFR designations"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0613"
     },
     {
       "id": "FAA-2026-4558-0011",
@@ -881,6 +975,44 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0534"
     },
     {
+      "id": "FAA-2026-4558-0594",
+      "name": "Comment from ClearView Environmental Engineering LLC",
+      "org": "ClearView Environmental Engineering LLC",
+      "category": "individual_part107_operator",
+      "position": "oppose",
+      "arguments": [
+        "Part 107 sUAS operator and retired Air Force pilot argues the rule won't deter 'bad actors' who already ignore FAA/gun-law-style regulations",
+        "Argues FAA already lacks FSDO staffing/enforcement capacity to administer a new layer of UAS rules",
+        "Publishing UAFR boundaries on public maps (e.g., FAA UAS Data on a Map) signals to bad actors where something critical is located"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0594"
+    },
+    {
+      "id": "FAA-2026-4558-0610",
+      "name": "Comment from UUAS",
+      "org": "UUAS",
+      "category": "individual_part107_operator",
+      "position": "support_with_changes",
+      "arguments": [
+        "Small UAS business founder published a reconstruction of 21,765 FAA UAS Sighting Reports (2014-2026) finding no significant 11-year national trend",
+        "Argues operator/registration density near a facility is not valid hazard evidence, citing a negative correlation in his analysis",
+        "Recommends adjudicating 'aviation safety necessity' on site-specific evidence and weighing the burden on low-risk small operators"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0610"
+    },
+    {
+      "id": "FAA-2026-4558-0931",
+      "name": "Comment from Lazersharp Productions",
+      "org": "Lazersharp Productions",
+      "category": "individual_part107_operator",
+      "position": "support_with_changes",
+      "arguments": [
+        "Recommends case-by-case coordination between client, drone service provider, UAFR registrant, and FAA when a job site falls inside a UAFR",
+        "Proposes periodic (6-month) audits of whether a UAFR is still necessary"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
+    },
+    {
       "id": "FAA-2026-4558-0040",
       "name": "Comment from Lucky Duck Capital",
       "org": "Lucky Duck Capital",
@@ -1070,6 +1202,31 @@ const ANALYSIS_DATA = {
         "Drones shouldn't be restricted to hide industrial animal agriculture practices"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0487"
+    },
+    {
+      "id": "FAA-2026-4558-1143",
+      "name": "Comment from SPCA",
+      "org": "SPCA",
+      "category": "media_photography",
+      "position": "oppose",
+      "arguments": [
+        "Opposes the food and agriculture industry obtaining UAFRs, arguing it would shield potential animal-welfare abuses from documentation",
+        "Frames drone photojournalism as an important tool for exposing harm to animals"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1143"
+    },
+    {
+      "id": "FAA-2026-4558-1232",
+      "name": "Comment from Animal Partisan",
+      "org": "Animal Partisan",
+      "category": "media_photography",
+      "position": "oppose",
+      "arguments": [
+        "Animal-cruelty investigation nonprofit relies on drone photo/video evidence to support criminal-investigation and enforcement complaints",
+        "Notes FAA itself couldn't identify an agriculture facility not already covered by another sector or reaching national-level impact",
+        "Argues the advance-notice-to-facility requirement lets facilities conceal conditions before investigators arrive, burdening anonymous speech and newsgathering"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1232"
     },
     {
       "id": "FAA-2026-4558-0194",
@@ -1295,6 +1452,18 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0559"
     },
     {
+      "id": "FAA-2026-4558-0582",
+      "name": "Comment from GSK",
+      "org": "GSK",
+      "category": "public_safety",
+      "position": "support_with_changes",
+      "arguments": [
+        "Requests FAA expand Healthcare and Public Health Sector eligibility to cover pharmaceutical R&D and manufacturing facilities",
+        "Suggests FAA consider UAFR variants that prohibit loitering while still permitting flyovers"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0582"
+    },
+    {
       "id": "FAA-2026-4558-0343",
       "name": "Comment from Virginia Maritime Association",
       "org": "Virginia Maritime Association",
@@ -1399,6 +1568,121 @@ const ANALYSIS_DATA = {
         "Not proposing specific regulatory text at this stage; requests FAA engagement with its UAV Initiative"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0556"
+    },
+    {
+      "id": "FAA-2026-4558-0565",
+      "name": "Comment from National Pork Producers Council",
+      "org": "National Pork Producers Council",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Strongly supports the rule as a necessary, overdue protection for the food supply and farm biosecurity",
+        "Focuses FAA's attention on documented biosecurity, worker-safety, and physical-security threats from low-altitude drone activity at swine operations"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0565"
+    },
+    {
+      "id": "FAA-2026-4558-0566",
+      "name": "Comment from Associated General Contractors of America",
+      "org": "Associated General Contractors of America",
+      "category": "trade_association",
+      "position": "support_with_changes",
+      "arguments": [
+        "Amend § 74.250(a)(2) so it doesn't forbid legitimate non-transitory construction drone use (mapping, surveys, inspections) within a UAFR",
+        "Establish project-based or recurring authorizations instead of per-flight approval for contractors",
+        "Require using agencies to publish accessible points of contact and disclose existing UAFRs to contractors during bidding"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
+    },
+    {
+      "id": "FAA-2026-4558-0567",
+      "name": "Comment from Commercial Space Federation",
+      "org": "Commercial Space Federation",
+      "category": "trade_association",
+      "position": "support_with_changes",
+      "arguments": [
+        "Extend UAFR eligibility to FAA-licensed spaceports and private space infrastructure regardless of location",
+        "Spaceports currently limited to temporary TFRs during active operations only, unlike airports/military sites",
+        "Remote, sparsely monitored sites hold high-value hardware and hazardous cryogenic/hypergolic propellants"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
+    },
+    {
+      "id": "FAA-2026-4558-0569",
+      "name": "Comment from Meat Institute",
+      "org": "Meat Institute",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Represents packers/processors of the majority of U.S. meat and poultry",
+        "Activists increasingly incorporate drones into campaigns targeting livestock/food operations; inspectors can't distinguish threat from legitimate flight in real time",
+        "Urges FAA to move expeditiously toward finalizing and implementing the rule"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+    },
+    {
+      "id": "FAA-2026-4558-0570",
+      "name": "Comment from Texas Cattle Feeders Association",
+      "org": "Texas Cattle Feeders Association",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Represents Texas/Oklahoma/New Mexico feedyards producing over 25% of the nation's fed beef supply",
+        "Drones continue flying over feedyards despite an existing Texas state law restricting it",
+        "Startled cattle risk injury to themselves and to feedyard employees"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
+    },
+    {
+      "id": "FAA-2026-4558-0573",
+      "name": "Comment from National Cattlemen's Beef Association",
+      "org": "National Cattlemen's Beef Association",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Represents 178,000 cattle producers across 44 state affiliates",
+        "Frames farm operations as curtilage deserving 4th Amendment protection from warrantless aerial surveillance",
+        "Drone-enabled activism increasingly used to target farms for trespassing, biosecurity, and operational-security threats"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0573"
+    },
+    {
+      "id": "FAA-2026-4558-0591",
+      "name": "Comment from U.S. Poultry & Egg Association",
+      "org": "U.S. Poultry & Egg Association",
+      "category": "trade_association",
+      "position": "support_with_changes",
+      "arguments": [
+        "Warns drones can act as biosecurity fomites and can flush wild waterfowl (HPAI/Newcastle vectors) into contact with flocks",
+        "Requests explicit critical-infrastructure status for egg-laying, broiler, and turkey facilities",
+        "Proposes a 400-ft buffer and operator exceptions limited to farm owner, contracted operators, or emergency responders"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
+    },
+    {
+      "id": "FAA-2026-4558-0599",
+      "name": "Comment from United Dairymen of Arizona",
+      "org": "United Dairymen of Arizona",
+      "category": "trade_association",
+      "position": "support",
+      "arguments": [
+        "Arizona dairy cooperative supports the rule for animal welfare, biosecurity, employee safety, and business-continuity reasons",
+        "Distinguishes legitimate ag drone use (crop/precision agriculture) from unauthorized, unconsented surveillance of dairy operations"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0599"
+    },
+    {
+      "id": "FAA-2026-4558-1027",
+      "name": "Comment from ASTM International",
+      "org": "ASTM International",
+      "category": "trade_association",
+      "position": "support_with_changes",
+      "arguments": [
+        "Standards body notes the NPRM requires Remote ID detection receivers but cites no consensus standard for specifying/procuring/verifying compliant detection equipment",
+        "Recommends FAA reference ASTM F3411-22a (Remote ID technical spec) and F3586-22 (Remote ID means-of-compliance) as a recognized technical baseline",
+        "Offers ASTM Committee F38 on UAS as a technical resource to FAA during rulemaking"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
     },
     {
       "id": "FAA-2026-4558-0047",
@@ -1868,6 +2152,44 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0530"
     },
     {
+      "id": "FAA-2026-4558-0609",
+      "name": "Comment from Articles In Common LLC",
+      "org": "Articles In Common LLC",
+      "category": "individual_other",
+      "position": "oppose",
+      "arguments": [
+        "Opposes the rule as risking a broad, expanding patchwork of no-fly zones across 16 CI sectors without proof existing tools (Remote ID, Part 107, TFRs, penalties) are insufficient",
+        "Warns restrictions could reduce independent oversight/journalism documenting pollution, animal welfare, and industrial conditions at affected facilities",
+        "Urges a high evidentiary standard, narrow tailoring, periodic review, and automatic expiration for any UAFR"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0609"
+    },
+    {
+      "id": "FAA-2026-4558-1128",
+      "name": "Comment from Public Interest Coalition",
+      "org": "Public Interest Coalition",
+      "category": "individual_other",
+      "position": "oppose",
+      "arguments": [
+        "Opposes any UAFR bans near sites already subject to federal, state, or local compliance obligations",
+        "Argues lack of enforcement/oversight lets violations increase, and drones should instead help bring illegal activity to prosecutors' attention"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1128"
+    },
+    {
+      "id": "FAA-2026-4558-1219",
+      "name": "Comment from Bathrick Aviation Consulting LLC",
+      "org": "Bathrick Aviation Consulting LLC",
+      "category": "individual_other",
+      "position": "support_with_changes",
+      "arguments": [
+        "Former DOI Office of Aviation Services director draws on the 2017 FAA-DOI J-SOP (the first UAS-specific 14 CFR 99.7 restricted-airspace framework) as a proven model",
+        "Recommends preserving explicit access pathways for public safety, wildfire response, CI inspection, and BVLOS Part 108 operations within UAFRs",
+        "Recommends facility-level points of contact, standardized digital coordination (ADSP/UTM), and biannual reporting/trend-analysis requirements"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1219"
+    },
+    {
       "id": "FAA-2026-4558-0197",
       "name": "Comment from Arena Management Holdings, Inc. dba Heritage Bank Center",
       "org": "Arena Management Holdings, Inc. dba Heritage Bank Center",
@@ -1904,98 +2226,40 @@ const ANALYSIS_DATA = {
         "Recognize livestock/animal safety as a UAFR eligibility consideration"
       ],
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0486"
+    },
+    {
+      "id": "FAA-2026-4558-0772",
+      "name": "Comment from Plant Peace Daily",
+      "org": "Plant Peace Daily",
+      "category": "other",
+      "position": "oppose",
+      "arguments": [
+        "Animal-welfare advocacy group argues there's no documented evidence of drone safety/security threats at food and ag facilities, only documented evidence of drone footage exposing violations",
+        "Urges FAA not to create food-and-agriculture sector gating criteria eligible for UAFRs",
+        "Frames aerial photojournalism as one of the last tools for the public to see inside industrial ag facilities"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
+    },
+    {
+      "id": "FAA-2026-4558-1211",
+      "name": "Comment from Inside Animal Ag",
+      "org": "Inside Animal Ag",
+      "category": "other",
+      "position": "oppose",
+      "arguments": [
+        "Argues factory farms emit 30-55x the ammonia (a PM2.5 precursor) the EPA treats as a regulatory limit for other industries, unmonitored by EPA",
+        "Argues non-governmental airborne monitoring is needed to alert the public to respiratory risks since it wouldn't affect farm operations",
+        "Frames the rule as helping conceal environmental-harm information from the public"
+      ],
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     }
   ],
   "unreviewed": [
-    {
-      "id": "FAA-2026-4558-0573",
-      "org": "National Cattlemen's Beef Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0573"
-    },
-    {
-      "id": "FAA-2026-4558-0567",
-      "org": "Commercial Space Federation",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
-    },
-    {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
-    },
-    {
-      "id": "FAA-2026-4558-0569",
-      "org": "Meat Institute",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
-    },
     {
       "id": "FAA-2026-4558-0568",
       "org": "ACLU, CDT, EFF, and EPIC",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
-    },
-    {
-      "id": "FAA-2026-4558-0565",
-      "org": "National Pork Producers Council",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0565"
-    },
-    {
-      "id": "FAA-2026-4558-0560",
-      "org": "Louisville Water Company",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0582",
-      "org": "GSK",
-      "date": "2026-07-09",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0582"
-    },
-    {
-      "id": "FAA-2026-4558-0585",
-      "org": "Great River Hydro, LLC",
-      "date": "2026-07-09",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0585"
-    },
-    {
-      "id": "FAA-2026-4558-0595",
-      "org": "Censys Technologies Corporation",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0595"
-    },
-    {
-      "id": "FAA-2026-4558-0591",
-      "org": "U.S. Poultry & Egg Association",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0591"
-    },
-    {
-      "id": "FAA-2026-4558-0594",
-      "org": "ClearView Environmental Engineering LLC",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0594"
-    },
-    {
-      "id": "FAA-2026-4558-0593",
-      "org": "The Fertilizer Institute",
-      "date": "2026-07-13",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0593"
-    },
-    {
-      "id": "FAA-2026-4558-0599",
-      "org": "United Dairymen of Arizona",
-      "date": "2026-07-14",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0599"
     },
     {
       "id": "FAA-2026-4558-0603",
@@ -2004,88 +2268,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0603"
     },
     {
-      "id": "FAA-2026-4558-0609",
-      "org": "Articles In Common LLC",
-      "date": "2026-07-20",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0609"
-    },
-    {
-      "id": "FAA-2026-4558-0610",
-      "org": "UUAS",
-      "date": "2026-07-20",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0610"
-    },
-    {
-      "id": "FAA-2026-4558-0613",
-      "org": "Percepto",
-      "date": "2026-07-20",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0613"
-    },
-    {
-      "id": "FAA-2026-4558-0772",
-      "org": "Plant Peace Daily",
-      "date": "2026-07-21",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
-    },
-    {
-      "id": "FAA-2026-4558-0931",
-      "org": "Lazersharp Productions",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
-    },
-    {
-      "id": "FAA-2026-4558-1027",
-      "org": "ASTM International",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
-    },
-    {
-      "id": "FAA-2026-4558-1143",
-      "org": "SPCA",
-      "date": "2026-07-23",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1143"
-    },
-    {
-      "id": "FAA-2026-4558-1128",
-      "org": "Public Interest Coalition",
-      "date": "2026-07-23",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1128"
-    },
-    {
       "id": "FAA-2026-4558-1148",
       "org": "Nuclear Energy Institute",
       "date": "2026-07-23",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1148"
-    },
-    {
-      "id": "FAA-2026-4558-1200",
-      "org": "PJM",
-      "date": "2026-07-24",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1200"
-    },
-    {
-      "id": "FAA-2026-4558-1219",
-      "org": "Bathrick Aviation Consulting LLC",
-      "date": "2026-07-27",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1219"
-    },
-    {
-      "id": "FAA-2026-4558-1232",
-      "org": "Animal Partisan",
-      "date": "2026-07-27",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1232"
-    },
-    {
-      "id": "FAA-2026-4558-1240",
-      "org": "Markley Group LLC",
-      "date": "2026-07-27",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1240"
-    },
-    {
-      "id": "FAA-2026-4558-1211",
-      "org": "Inside Animal Ag",
-      "date": "2026-07-27",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     }
   ],
   "takeaways": [
