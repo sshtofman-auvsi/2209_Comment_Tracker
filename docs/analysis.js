@@ -1,25 +1,25 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-27T13:03:20.074118+00:00",
-  "total": 1221,
+  "generated_utc": "2026-07-27T16:15:26.048600+00:00",
+  "total": 1222,
   "campaign_count": 324,
   "campaign_pct": 27,
   "positions_all": {
     "support_with_changes": 229,
     "unclear": 3,
-    "oppose": 381,
+    "oppose": 382,
     "support": 608
   },
   "positions_ex_campaign": {
     "support_with_changes": 229,
     "unclear": 3,
-    "oppose": 381,
+    "oppose": 382,
     "support": 284
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 773
+      "count": 774
     },
     {
       "key": "railroad_labor",
@@ -214,7 +214,7 @@ const ANALYSIS_DATA = {
     {
       "week": "2026-W31",
       "label": "Jul 27",
-      "count": 38
+      "count": 39
     }
   ],
   "notable": [
@@ -1908,6 +1908,12 @@ const ANALYSIS_DATA = {
   ],
   "unreviewed": [
     {
+      "id": "FAA-2026-4558-0566",
+      "org": "Associated General Contractors of America",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
+    },
+    {
       "id": "FAA-2026-4558-0573",
       "org": "National Cattlemen's Beef Association",
       "date": "2026-07-07",
@@ -1918,12 +1924,6 @@ const ANALYSIS_DATA = {
       "org": "Commercial Space Federation",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
-    },
-    {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
       "id": "FAA-2026-4558-0569",
@@ -1938,12 +1938,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
-    },
-    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1954,6 +1948,12 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
+    },
+    {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -2091,7 +2091,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 27% of comments (324 of 1221) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 27% of comments (324 of 1222) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
