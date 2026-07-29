@@ -1,25 +1,25 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-28T16:04:43.136759+00:00",
-  "total": 1231,
+  "generated_utc": "2026-07-29T15:49:07.536624+00:00",
+  "total": 1244,
   "campaign_count": 324,
   "campaign_pct": 26,
   "positions_all": {
-    "support_with_changes": 231,
+    "support_with_changes": 243,
     "unclear": 3,
-    "oppose": 389,
-    "support": 608
+    "oppose": 383,
+    "support": 615
   },
   "positions_ex_campaign": {
-    "support_with_changes": 231,
+    "support_with_changes": 243,
     "unclear": 3,
-    "oppose": 389,
-    "support": 284
+    "oppose": 383,
+    "support": 291
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 783
+      "count": 796
     },
     {
       "key": "railroad_labor",
@@ -95,51 +95,51 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Small business / cost",
-      "count": 519
+      "count": 523
     },
     {
       "label": "National security / threat",
-      "count": 519
+      "count": 516
     },
     {
       "label": "Facility eligibility scope",
-      "count": 462
+      "count": 464
     },
     {
       "label": "First Amendment / media",
-      "count": 437
+      "count": 432
     },
     {
       "label": "Privacy / surveillance",
-      "count": 270
+      "count": 271
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 215
+      "count": 220
     },
     {
       "label": "Federal preemption",
-      "count": 155
+      "count": 156
     },
     {
       "label": "Transparency / publication",
-      "count": 152
+      "count": 155
     },
     {
       "label": "Boundaries / altitude",
-      "count": 91
+      "count": 92
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 86
-    },
-    {
-      "label": "Contractor / owner gap",
-      "count": 80
+      "count": 91
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 79
+      "count": 82
+    },
+    {
+      "label": "Contractor / owner gap",
+      "count": 81
     },
     {
       "label": "Patchwork / no-fly zones",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 44
+      "count": 43
     }
   ],
   "timeline": [
@@ -213,8 +213,8 @@ const ANALYSIS_DATA = {
     },
     {
       "week": "2026-W31",
-      "label": "Jul 28",
-      "count": 48
+      "label": "Jul 29",
+      "count": 61
     }
   ],
   "notable": [
@@ -1926,16 +1926,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
+      "id": "FAA-2026-4558-0569",
+      "org": "Meat Institute",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+    },
+    {
       "id": "FAA-2026-4558-0568",
       "org": "ACLU, CDT, EFF, and EPIC",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
-      "id": "FAA-2026-4558-0569",
-      "org": "Meat Institute",
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
       "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0565",
@@ -1948,12 +1954,6 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -2088,6 +2088,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     },
     {
+      "id": "FAA-2026-4558-1252",
+      "org": "Aerodefense",
+      "date": "2026-07-28",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
+    },
+    {
       "id": "FAA-2026-4558-1251",
       "org": "HUNTRAK Defense Systems, Inc.",
       "date": "2026-07-28",
@@ -2097,7 +2103,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 26% of comments (324 of 1231) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 26% of comments (324 of 1244) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
