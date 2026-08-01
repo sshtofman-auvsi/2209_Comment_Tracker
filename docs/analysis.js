@@ -1,25 +1,25 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-07-31T16:01:28.975137+00:00",
-  "total": 1333,
+  "generated_utc": "2026-08-01T14:58:23.211692+00:00",
+  "total": 1343,
   "campaign_count": 325,
   "campaign_pct": 24,
   "positions_all": {
-    "support_with_changes": 261,
+    "support_with_changes": 266,
     "unclear": 3,
-    "oppose": 436,
-    "support": 633
+    "oppose": 444,
+    "support": 630
   },
   "positions_ex_campaign": {
-    "support_with_changes": 261,
+    "support_with_changes": 266,
     "unclear": 3,
-    "oppose": 436,
-    "support": 308
+    "oppose": 444,
+    "support": 305
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 883
+      "count": 893
     },
     {
       "key": "railroad_labor",
@@ -95,55 +95,55 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "National security / threat",
-      "count": 568
+      "count": 575
     },
     {
       "label": "Small business / cost",
-      "count": 534
+      "count": 540
     },
     {
       "label": "Facility eligibility scope",
-      "count": 523
+      "count": 528
     },
     {
       "label": "First Amendment / media",
-      "count": 441
+      "count": 449
     },
     {
       "label": "Privacy / surveillance",
-      "count": 283
+      "count": 287
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 230
+      "count": 236
     },
     {
       "label": "Federal preemption",
-      "count": 165
+      "count": 168
     },
     {
       "label": "Transparency / publication",
-      "count": 164
+      "count": 168
     },
     {
       "label": "Boundaries / altitude",
-      "count": 98
+      "count": 100
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 98
+      "count": 99
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 88
+      "count": 90
     },
     {
       "label": "Contractor / owner gap",
-      "count": 87
+      "count": 89
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 52
+      "count": 51
     },
     {
       "label": "Overreach / withdraw",
@@ -214,7 +214,7 @@ const ANALYSIS_DATA = {
     {
       "week": "2026-W31",
       "label": "Jul 31",
-      "count": 150
+      "count": 160
     }
   ],
   "notable": [
@@ -2106,28 +2106,52 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1300"
     },
     {
-      "id": "FAA-2026-4558-1309",
-      "org": "Zing Drone Solutions",
-      "date": "2026-07-30",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1309"
-    },
-    {
       "id": "FAA-2026-4558-1267",
       "org": "Atlas Response, Inc.",
       "date": "2026-07-30",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1267"
     },
     {
+      "id": "FAA-2026-4558-1309",
+      "org": "Zing Drone Solutions",
+      "date": "2026-07-30",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1309"
+    },
+    {
+      "id": "FAA-2026-4558-1357",
+      "org": "Sonoma County Farm Bureau",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1357"
+    },
+    {
+      "id": "FAA-2026-4558-1361",
+      "org": "Foundation for Defense of Democracies",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1361"
+    },
+    {
+      "id": "FAA-2026-4558-1355",
+      "org": "BrightAI Corporation",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1355"
+    },
+    {
       "id": "FAA-2026-4558-1328",
       "org": "Star Milling Co.",
       "date": "2026-07-31",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
+    },
+    {
+      "id": "FAA-2026-4558-1356",
+      "org": "Rose Acre Farms, Inc.",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
     }
   ],
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 24% of comments (325 of 1333) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 24% of comments (325 of 1343) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
