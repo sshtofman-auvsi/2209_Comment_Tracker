@@ -1,30 +1,30 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-07T14:54:41.291800+00:00",
+  "generated_utc": "2026-08-08T14:29:26.709310+00:00",
   "total": 1669,
-  "campaign_count": 369,
+  "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 382,
+    "support_with_changes": 384,
     "unclear": 3,
-    "oppose": 524,
-    "support": 760
+    "oppose": 520,
+    "support": 762
   },
   "positions_ex_campaign": {
-    "support_with_changes": 382,
+    "support_with_changes": 384,
     "unclear": 3,
-    "oppose": 524,
-    "support": 391
+    "oppose": 520,
+    "support": 394
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 1155
+      "count": 1156
     },
     {
       "key": "railroad_labor",
       "label": "Railroad labor (write-in campaign)",
-      "count": 369
+      "count": 368
     },
     {
       "key": "individual_hobbyist",
@@ -95,59 +95,59 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 755
+      "count": 754
     },
     {
       "label": "Small business / cost",
-      "count": 731
+      "count": 729
     },
     {
       "label": "National security / threat",
-      "count": 713
+      "count": 709
     },
     {
       "label": "First Amendment / media",
-      "count": 548
+      "count": 542
     },
     {
       "label": "Privacy / surveillance",
-      "count": 401
+      "count": 400
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 377
+      "count": 374
     },
     {
       "label": "Federal preemption",
-      "count": 302
+      "count": 301
     },
     {
       "label": "Transparency / publication",
-      "count": 275
+      "count": 274
     },
     {
       "label": "Boundaries / altitude",
-      "count": 193
+      "count": 192
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 183
+      "count": 182
     },
     {
       "label": "Contractor / owner gap",
-      "count": 178
+      "count": 179
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 170
+      "count": 169
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 82
+      "count": 81
     },
     {
       "label": "Overreach / withdraw",
-      "count": 74
+      "count": 73
     }
   ],
   "timeline": [
@@ -2033,16 +2033,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
     },
     {
-      "id": "FAA-2026-4558-0931",
-      "org": "Lazersharp Productions",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
-    },
-    {
       "id": "FAA-2026-4558-1027",
       "org": "ASTM International",
       "date": "2026-07-22",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
+    },
+    {
+      "id": "FAA-2026-4558-0931",
+      "org": "Lazersharp Productions",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
     },
     {
       "id": "FAA-2026-4558-1143",
@@ -2111,16 +2111,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1300"
     },
     {
-      "id": "FAA-2026-4558-1267",
-      "org": "Atlas Response, Inc.",
-      "date": "2026-07-30",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1267"
-    },
-    {
       "id": "FAA-2026-4558-1309",
       "org": "Zing Drone Solutions",
       "date": "2026-07-30",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1309"
+    },
+    {
+      "id": "FAA-2026-4558-1267",
+      "org": "Atlas Response, Inc.",
+      "date": "2026-07-30",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1267"
     },
     {
       "id": "FAA-2026-4558-1357",
@@ -2213,6 +2213,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1396"
     },
     {
+      "id": "FAA-2026-4558-1516",
+      "org": "Animal Wellness Action",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1516"
+    },
+    {
       "id": "FAA-2026-4558-1488",
       "org": "Asylon Incorporated",
       "date": "2026-08-04",
@@ -2225,22 +2231,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
     },
     {
-      "id": "FAA-2026-4558-1516",
-      "org": "Animal Wellness Action",
+      "id": "FAA-2026-4558-1512",
+      "org": "LifeFlight of Maine",
       "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1516"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
+    },
+    {
+      "id": "FAA-2026-4558-1515",
+      "org": "Vertical Aviation International (VAI)",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
     },
     {
       "id": "FAA-2026-4558-1475",
       "org": "Blueflite, Inc.",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
-    },
-    {
-      "id": "FAA-2026-4558-1527",
-      "org": "Zipline International Inc.",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1527"
     },
     {
       "id": "FAA-2026-4558-1505",
@@ -2255,16 +2261,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1501"
     },
     {
-      "id": "FAA-2026-4558-1515",
-      "org": "Vertical Aviation International (VAI)",
+      "id": "FAA-2026-4558-1527",
+      "org": "Zipline International Inc.",
       "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
-    },
-    {
-      "id": "FAA-2026-4558-1512",
-      "org": "LifeFlight of Maine",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1527"
     },
     {
       "id": "FAA-2026-4558-1503",
@@ -2277,6 +2277,12 @@ const ANALYSIS_DATA = {
       "org": "Air Medical Operators Association (AMOA)",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1559"
+    },
+    {
+      "id": "FAA-2026-4558-1582",
+      "org": "Dixie Aerial Photography Inc",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1582"
     },
     {
       "id": "FAA-2026-4558-1565",
@@ -2313,12 +2319,6 @@ const ANALYSIS_DATA = {
       "org": "Airlines for America",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1604"
-    },
-    {
-      "id": "FAA-2026-4558-1582",
-      "org": "Dixie Aerial Photography Inc",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1582"
     },
     {
       "id": "FAA-2026-4558-1536",
@@ -2684,7 +2684,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 22% of comments (369 of 1669) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 22% of comments (368 of 1669) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
