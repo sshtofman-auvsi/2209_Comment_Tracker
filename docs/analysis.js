@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-08T14:29:26.709310+00:00",
+  "generated_utc": "2026-08-09T14:31:40.208272+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 384,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 520,
-    "support": 762
+    "oppose": 526,
+    "support": 758
   },
   "positions_ex_campaign": {
-    "support_with_changes": 384,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 520,
-    "support": 394
+    "oppose": 526,
+    "support": 390
   },
   "categories": [
     {
@@ -95,27 +95,27 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 754
+      "count": 756
     },
     {
       "label": "Small business / cost",
-      "count": 729
+      "count": 731
     },
     {
       "label": "National security / threat",
-      "count": 709
+      "count": 713
     },
     {
       "label": "First Amendment / media",
-      "count": 542
+      "count": 548
     },
     {
       "label": "Privacy / surveillance",
-      "count": 400
+      "count": 399
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 374
+      "count": 376
     },
     {
       "label": "Federal preemption",
@@ -135,7 +135,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Contractor / owner gap",
-      "count": 179
+      "count": 178
     },
     {
       "label": "Counter-UAS / mitigation",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 73
+      "count": 74
     }
   ],
   "timeline": [
@@ -2033,16 +2033,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
     },
     {
-      "id": "FAA-2026-4558-1027",
-      "org": "ASTM International",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
-    },
-    {
       "id": "FAA-2026-4558-0931",
       "org": "Lazersharp Productions",
       "date": "2026-07-22",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
+    },
+    {
+      "id": "FAA-2026-4558-1027",
+      "org": "ASTM International",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
     },
     {
       "id": "FAA-2026-4558-1143",
@@ -2111,16 +2111,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1300"
     },
     {
-      "id": "FAA-2026-4558-1309",
-      "org": "Zing Drone Solutions",
-      "date": "2026-07-30",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1309"
-    },
-    {
       "id": "FAA-2026-4558-1267",
       "org": "Atlas Response, Inc.",
       "date": "2026-07-30",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1267"
+    },
+    {
+      "id": "FAA-2026-4558-1309",
+      "org": "Zing Drone Solutions",
+      "date": "2026-07-30",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1309"
     },
     {
       "id": "FAA-2026-4558-1357",
