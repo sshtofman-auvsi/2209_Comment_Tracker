@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-10T14:55:07.235281+00:00",
+  "generated_utc": "2026-08-11T14:55:03.544209+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 525,
-    "support": 759
+    "oppose": 526,
+    "support": 758
   },
   "positions_ex_campaign": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 525,
-    "support": 391
+    "oppose": 526,
+    "support": 390
   },
   "categories": [
     {
@@ -95,23 +95,23 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 755
+      "count": 756
     },
     {
       "label": "Small business / cost",
-      "count": 730
+      "count": 731
     },
     {
       "label": "National security / threat",
-      "count": 712
+      "count": 713
     },
     {
       "label": "First Amendment / media",
-      "count": 547
+      "count": 548
     },
     {
       "label": "Privacy / surveillance",
-      "count": 400
+      "count": 399
     },
     {
       "label": "Access pathway / LAANC",
@@ -2033,16 +2033,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
     },
     {
-      "id": "FAA-2026-4558-1027",
-      "org": "ASTM International",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
-    },
-    {
       "id": "FAA-2026-4558-0931",
       "org": "Lazersharp Productions",
       "date": "2026-07-22",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
+    },
+    {
+      "id": "FAA-2026-4558-1027",
+      "org": "ASTM International",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
     },
     {
       "id": "FAA-2026-4558-1143",
@@ -2321,24 +2321,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1604"
     },
     {
-      "id": "FAA-2026-4558-1574",
-      "org": "International Liquid Terminals Association (ILTA)",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
-    },
-    {
-      "id": "FAA-2026-4558-1576",
-      "org": "DefendUAS, Inc.",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
-    },
-    {
-      "id": "FAA-2026-4558-1563",
-      "org": "Astrotech Space Operations",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
-    },
-    {
       "id": "FAA-2026-4558-1536",
       "org": "National Ocean Industries Association/Offshore Operators Committee",
       "date": "2026-08-05",
@@ -2367,6 +2349,24 @@ const ANALYSIS_DATA = {
       "org": "Passenger Vessel Association",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1543"
+    },
+    {
+      "id": "FAA-2026-4558-1563",
+      "org": "Astrotech Space Operations",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
+    },
+    {
+      "id": "FAA-2026-4558-1574",
+      "org": "International Liquid Terminals Association (ILTA)",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
+    },
+    {
+      "id": "FAA-2026-4558-1576",
+      "org": "DefendUAS, Inc.",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
     },
     {
       "id": "FAA-2026-4558-1609",
@@ -2597,12 +2597,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1633"
     },
     {
-      "id": "FAA-2026-4558-1651",
-      "org": "Williams Companies, Inc.",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
-    },
-    {
       "id": "FAA-2026-4558-1682",
       "org": "Animal Agriculture Alliance",
       "date": "2026-08-06",
@@ -2625,6 +2619,12 @@ const ANALYSIS_DATA = {
       "org": "Droneup LLC",
       "date": "2026-08-06",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1676"
+    },
+    {
+      "id": "FAA-2026-4558-1651",
+      "org": "Williams Companies, Inc.",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
     },
     {
       "id": "FAA-2026-4558-1678",
