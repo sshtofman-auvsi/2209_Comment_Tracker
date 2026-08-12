@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-11T14:55:03.544209+00:00",
+  "generated_utc": "2026-08-12T14:53:37.572596+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
@@ -2231,6 +2231,24 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
     },
     {
+      "id": "FAA-2026-4558-1512",
+      "org": "LifeFlight of Maine",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
+    },
+    {
+      "id": "FAA-2026-4558-1515",
+      "org": "Vertical Aviation International (VAI)",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
+    },
+    {
+      "id": "FAA-2026-4558-1475",
+      "org": "Blueflite, Inc.",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
+    },
+    {
       "id": "FAA-2026-4558-1505",
       "org": "Society of Chemical Manufacturers & Affiliates (SOCMA)",
       "date": "2026-08-04",
@@ -2243,28 +2261,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1501"
     },
     {
-      "id": "FAA-2026-4558-1475",
-      "org": "Blueflite, Inc.",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
-    },
-    {
       "id": "FAA-2026-4558-1527",
       "org": "Zipline International Inc.",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1527"
-    },
-    {
-      "id": "FAA-2026-4558-1515",
-      "org": "Vertical Aviation International (VAI)",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
-    },
-    {
-      "id": "FAA-2026-4558-1512",
-      "org": "LifeFlight of Maine",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
     },
     {
       "id": "FAA-2026-4558-1503",
