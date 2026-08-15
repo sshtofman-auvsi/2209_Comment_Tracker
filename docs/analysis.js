@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-14T14:47:39.054870+00:00",
+  "generated_utc": "2026-08-15T14:18:50.063187+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 380,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 532,
-    "support": 754
+    "oppose": 527,
+    "support": 757
   },
   "positions_ex_campaign": {
-    "support_with_changes": 380,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 532,
-    "support": 386
+    "oppose": 527,
+    "support": 389
   },
   "categories": [
     {
@@ -95,19 +95,19 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 758
+      "count": 757
     },
     {
       "label": "Small business / cost",
-      "count": 733
+      "count": 732
     },
     {
       "label": "National security / threat",
-      "count": 717
+      "count": 714
     },
     {
       "label": "First Amendment / media",
-      "count": 554
+      "count": 549
     },
     {
       "label": "Privacy / surveillance",
@@ -115,7 +115,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 378
+      "count": 376
     },
     {
       "label": "Federal preemption",
@@ -135,7 +135,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Contractor / owner gap",
-      "count": 177
+      "count": 178
     },
     {
       "label": "Counter-UAS / mitigation",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 75
+      "count": 74
     }
   ],
   "timeline": [
@@ -1913,12 +1913,6 @@ const ANALYSIS_DATA = {
   ],
   "unreviewed": [
     {
-      "id": "FAA-2026-4558-0566",
-      "org": "Associated General Contractors of America",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
-    },
-    {
       "id": "FAA-2026-4558-0573",
       "org": "National Cattlemen's Beef Association",
       "date": "2026-07-07",
@@ -1929,6 +1923,12 @@ const ANALYSIS_DATA = {
       "org": "Commercial Space Federation",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0567"
+    },
+    {
+      "id": "FAA-2026-4558-0566",
+      "org": "Associated General Contractors of America",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
       "id": "FAA-2026-4558-0568",
@@ -2141,16 +2141,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1355"
     },
     {
-      "id": "FAA-2026-4558-1328",
-      "org": "Star Milling Co.",
-      "date": "2026-07-31",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
-    },
-    {
       "id": "FAA-2026-4558-1356",
       "org": "Rose Acre Farms, Inc.",
       "date": "2026-07-31",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
+    },
+    {
+      "id": "FAA-2026-4558-1328",
+      "org": "Star Milling Co.",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
     },
     {
       "id": "FAA-2026-4558-1450",
@@ -2231,6 +2231,24 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
     },
     {
+      "id": "FAA-2026-4558-1512",
+      "org": "LifeFlight of Maine",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
+    },
+    {
+      "id": "FAA-2026-4558-1515",
+      "org": "Vertical Aviation International (VAI)",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
+    },
+    {
+      "id": "FAA-2026-4558-1475",
+      "org": "Blueflite, Inc.",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
+    },
+    {
       "id": "FAA-2026-4558-1505",
       "org": "Society of Chemical Manufacturers & Affiliates (SOCMA)",
       "date": "2026-08-04",
@@ -2243,28 +2261,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1501"
     },
     {
-      "id": "FAA-2026-4558-1475",
-      "org": "Blueflite, Inc.",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
-    },
-    {
       "id": "FAA-2026-4558-1527",
       "org": "Zipline International Inc.",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1527"
-    },
-    {
-      "id": "FAA-2026-4558-1515",
-      "org": "Vertical Aviation International (VAI)",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
-    },
-    {
-      "id": "FAA-2026-4558-1512",
-      "org": "LifeFlight of Maine",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
     },
     {
       "id": "FAA-2026-4558-1503",
@@ -2399,6 +2399,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1611"
     },
     {
+      "id": "FAA-2026-4558-1556",
+      "org": "Oracle America, Inc.",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1556"
+    },
+    {
       "id": "FAA-2026-4558-1544",
       "org": "International Bridge, Tunnel and Turnpike Association (IBTTA)",
       "date": "2026-08-05",
@@ -2429,10 +2435,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1531"
     },
     {
-      "id": "FAA-2026-4558-1556",
-      "org": "Oracle America, Inc.",
+      "id": "FAA-2026-4558-1573",
+      "org": "International Liquid Terminals Association (ILTA)",
       "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1556"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1573"
     },
     {
       "id": "FAA-2026-4558-1566",
@@ -2447,22 +2453,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1564"
     },
     {
-      "id": "FAA-2026-4558-1573",
-      "org": "International Liquid Terminals Association (ILTA)",
+      "id": "FAA-2026-4558-1581",
+      "org": "Venture Global LNG, Inc.",
       "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1573"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1581"
     },
     {
       "id": "FAA-2026-4558-1575",
       "org": "Echodyne",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1575"
-    },
-    {
-      "id": "FAA-2026-4558-1581",
-      "org": "Venture Global LNG, Inc.",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1581"
     },
     {
       "id": "FAA-2026-4558-1587",
@@ -2657,18 +2657,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1620"
     },
     {
-      "id": "FAA-2026-4558-1655",
-      "org": "American Electric Power",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1655"
-    },
-    {
-      "id": "FAA-2026-4558-1639",
-      "org": "The Commercial Drone Alliance",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1639"
-    },
-    {
       "id": "FAA-2026-4558-1661",
       "org": "TechNet",
       "date": "2026-08-06",
@@ -2679,6 +2667,18 @@ const ANALYSIS_DATA = {
       "org": "Data Center Coalition",
       "date": "2026-08-06",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1658"
+    },
+    {
+      "id": "FAA-2026-4558-1655",
+      "org": "American Electric Power",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1655"
+    },
+    {
+      "id": "FAA-2026-4558-1639",
+      "org": "The Commercial Drone Alliance",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1639"
     }
   ],
   "takeaways": [
