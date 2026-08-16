@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-15T14:18:50.063187+00:00",
+  "generated_utc": "2026-08-16T14:19:25.830598+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 527,
-    "support": 757
+    "oppose": 526,
+    "support": 758
   },
   "positions_ex_campaign": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 527,
-    "support": 389
+    "oppose": 526,
+    "support": 390
   },
   "categories": [
     {
@@ -95,23 +95,23 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 757
+      "count": 756
     },
     {
       "label": "Small business / cost",
-      "count": 732
+      "count": 731
     },
     {
       "label": "National security / threat",
-      "count": 714
+      "count": 713
     },
     {
       "label": "First Amendment / media",
-      "count": 549
+      "count": 548
     },
     {
       "label": "Privacy / surveillance",
-      "count": 398
+      "count": 399
     },
     {
       "label": "Access pathway / LAANC",
@@ -2033,16 +2033,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
     },
     {
-      "id": "FAA-2026-4558-0931",
-      "org": "Lazersharp Productions",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
-    },
-    {
       "id": "FAA-2026-4558-1027",
       "org": "ASTM International",
       "date": "2026-07-22",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
+    },
+    {
+      "id": "FAA-2026-4558-0931",
+      "org": "Lazersharp Productions",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
     },
     {
       "id": "FAA-2026-4558-1143",
