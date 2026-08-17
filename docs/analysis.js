@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-16T14:19:25.830598+00:00",
+  "generated_utc": "2026-08-17T14:23:58.640803+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
@@ -1931,16 +1931,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
+      "id": "FAA-2026-4558-0569",
+      "org": "Meat Institute",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+    },
+    {
       "id": "FAA-2026-4558-0568",
       "org": "ACLU, CDT, EFF, and EPIC",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
-      "id": "FAA-2026-4558-0569",
-      "org": "Meat Institute",
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
       "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0565",
@@ -1953,12 +1959,6 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -2033,16 +2033,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0772"
     },
     {
-      "id": "FAA-2026-4558-1027",
-      "org": "ASTM International",
-      "date": "2026-07-22",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
-    },
-    {
       "id": "FAA-2026-4558-0931",
       "org": "Lazersharp Productions",
       "date": "2026-07-22",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0931"
+    },
+    {
+      "id": "FAA-2026-4558-1027",
+      "org": "ASTM International",
+      "date": "2026-07-22",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1027"
     },
     {
       "id": "FAA-2026-4558-1143",
@@ -2141,16 +2141,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1355"
     },
     {
-      "id": "FAA-2026-4558-1356",
-      "org": "Rose Acre Farms, Inc.",
-      "date": "2026-07-31",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
-    },
-    {
       "id": "FAA-2026-4558-1328",
       "org": "Star Milling Co.",
       "date": "2026-07-31",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
+    },
+    {
+      "id": "FAA-2026-4558-1356",
+      "org": "Rose Acre Farms, Inc.",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
     },
     {
       "id": "FAA-2026-4558-1450",
@@ -2321,24 +2321,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1604"
     },
     {
-      "id": "FAA-2026-4558-1574",
-      "org": "International Liquid Terminals Association (ILTA)",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
-    },
-    {
-      "id": "FAA-2026-4558-1576",
-      "org": "DefendUAS, Inc.",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
-    },
-    {
-      "id": "FAA-2026-4558-1563",
-      "org": "Astrotech Space Operations",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
-    },
-    {
       "id": "FAA-2026-4558-1536",
       "org": "National Ocean Industries Association/Offshore Operators Committee",
       "date": "2026-08-05",
@@ -2367,6 +2349,24 @@ const ANALYSIS_DATA = {
       "org": "Passenger Vessel Association",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1543"
+    },
+    {
+      "id": "FAA-2026-4558-1563",
+      "org": "Astrotech Space Operations",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
+    },
+    {
+      "id": "FAA-2026-4558-1574",
+      "org": "International Liquid Terminals Association (ILTA)",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
+    },
+    {
+      "id": "FAA-2026-4558-1576",
+      "org": "DefendUAS, Inc.",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
     },
     {
       "id": "FAA-2026-4558-1609",
@@ -2399,12 +2399,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1611"
     },
     {
-      "id": "FAA-2026-4558-1556",
-      "org": "Oracle America, Inc.",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1556"
-    },
-    {
       "id": "FAA-2026-4558-1544",
       "org": "International Bridge, Tunnel and Turnpike Association (IBTTA)",
       "date": "2026-08-05",
@@ -2435,10 +2429,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1531"
     },
     {
-      "id": "FAA-2026-4558-1573",
-      "org": "International Liquid Terminals Association (ILTA)",
+      "id": "FAA-2026-4558-1556",
+      "org": "Oracle America, Inc.",
       "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1573"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1556"
     },
     {
       "id": "FAA-2026-4558-1566",
@@ -2453,16 +2447,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1564"
     },
     {
-      "id": "FAA-2026-4558-1581",
-      "org": "Venture Global LNG, Inc.",
+      "id": "FAA-2026-4558-1573",
+      "org": "International Liquid Terminals Association (ILTA)",
       "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1581"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1573"
     },
     {
       "id": "FAA-2026-4558-1575",
       "org": "Echodyne",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1575"
+    },
+    {
+      "id": "FAA-2026-4558-1581",
+      "org": "Venture Global LNG, Inc.",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1581"
     },
     {
       "id": "FAA-2026-4558-1587",
@@ -2597,12 +2597,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1633"
     },
     {
-      "id": "FAA-2026-4558-1651",
-      "org": "Williams Companies, Inc.",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
-    },
-    {
       "id": "FAA-2026-4558-1682",
       "org": "Animal Agriculture Alliance",
       "date": "2026-08-06",
@@ -2625,6 +2619,12 @@ const ANALYSIS_DATA = {
       "org": "Droneup LLC",
       "date": "2026-08-06",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1676"
+    },
+    {
+      "id": "FAA-2026-4558-1651",
+      "org": "Williams Companies, Inc.",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
     },
     {
       "id": "FAA-2026-4558-1678",
@@ -2657,18 +2657,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1620"
     },
     {
-      "id": "FAA-2026-4558-1661",
-      "org": "TechNet",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1661"
-    },
-    {
-      "id": "FAA-2026-4558-1658",
-      "org": "Data Center Coalition",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1658"
-    },
-    {
       "id": "FAA-2026-4558-1655",
       "org": "American Electric Power",
       "date": "2026-08-06",
@@ -2679,6 +2667,18 @@ const ANALYSIS_DATA = {
       "org": "The Commercial Drone Alliance",
       "date": "2026-08-06",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1639"
+    },
+    {
+      "id": "FAA-2026-4558-1661",
+      "org": "TechNet",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1661"
+    },
+    {
+      "id": "FAA-2026-4558-1658",
+      "org": "Data Center Coalition",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1658"
     }
   ],
   "takeaways": [
