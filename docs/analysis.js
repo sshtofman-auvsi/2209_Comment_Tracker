@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-08-23T14:20:09.215247+00:00",
+  "generated_utc": "2026-08-24T14:38:13.553083+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 526,
-    "support": 758
+    "oppose": 527,
+    "support": 757
   },
   "positions_ex_campaign": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 526,
-    "support": 390
+    "oppose": 527,
+    "support": 389
   },
   "categories": [
     {
@@ -95,23 +95,23 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 756
+      "count": 757
     },
     {
       "label": "Small business / cost",
-      "count": 731
+      "count": 732
     },
     {
       "label": "National security / threat",
-      "count": 713
+      "count": 714
     },
     {
       "label": "First Amendment / media",
-      "count": 548
+      "count": 549
     },
     {
       "label": "Privacy / surveillance",
-      "count": 399
+      "count": 398
     },
     {
       "label": "Access pathway / LAANC",
@@ -1931,16 +1931,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
-      "id": "FAA-2026-4558-0569",
-      "org": "Meat Institute",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
-    },
-    {
       "id": "FAA-2026-4558-0568",
       "org": "ACLU, CDT, EFF, and EPIC",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
+    },
+    {
+      "id": "FAA-2026-4558-0569",
+      "org": "Meat Institute",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
     },
     {
       "id": "FAA-2026-4558-0570",
@@ -2141,16 +2141,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1355"
     },
     {
-      "id": "FAA-2026-4558-1356",
-      "org": "Rose Acre Farms, Inc.",
-      "date": "2026-07-31",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
-    },
-    {
       "id": "FAA-2026-4558-1328",
       "org": "Star Milling Co.",
       "date": "2026-07-31",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
+    },
+    {
+      "id": "FAA-2026-4558-1356",
+      "org": "Rose Acre Farms, Inc.",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
     },
     {
       "id": "FAA-2026-4558-1450",
@@ -2231,6 +2231,24 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
     },
     {
+      "id": "FAA-2026-4558-1512",
+      "org": "LifeFlight of Maine",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
+    },
+    {
+      "id": "FAA-2026-4558-1515",
+      "org": "Vertical Aviation International (VAI)",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
+    },
+    {
+      "id": "FAA-2026-4558-1475",
+      "org": "Blueflite, Inc.",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
+    },
+    {
       "id": "FAA-2026-4558-1505",
       "org": "Society of Chemical Manufacturers & Affiliates (SOCMA)",
       "date": "2026-08-04",
@@ -2243,28 +2261,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1501"
     },
     {
-      "id": "FAA-2026-4558-1475",
-      "org": "Blueflite, Inc.",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1475"
-    },
-    {
       "id": "FAA-2026-4558-1527",
       "org": "Zipline International Inc.",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1527"
-    },
-    {
-      "id": "FAA-2026-4558-1515",
-      "org": "Vertical Aviation International (VAI)",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1515"
-    },
-    {
-      "id": "FAA-2026-4558-1512",
-      "org": "LifeFlight of Maine",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1512"
     },
     {
       "id": "FAA-2026-4558-1503",
