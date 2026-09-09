@@ -389,8 +389,8 @@ def main():
         {"severity": "high", "title": "Eligibility scope creep -> cumulative airspace loss",
          "body": "Commenters want everything in: amusement parks, schools, stadiums, hospitals, all water systems, ports, every rail bridge and tunnel. With 125,000+ potential sites, the cumulative effect threatens BVLOS scalability. Push for narrow, quantitative, evidence-based eligibility and a demonstrated-threat requirement to block frivolous/anti-competitive petitions.",
          "ids": ["FAA-2026-4558-0035", "FAA-2026-4558-0152", "FAA-2026-4558-0073", "FAA-2026-4558-0351"]},
-        {"severity": "high", "title": "Comment period extended to August 5 — docket still open",
-         "body": "The FAA granted the NY Attorney General's requested 30-day extension. The comment period now runs through August 5, 2026 (originally July 6). AUVSI's filing timeline should target the new deadline, and this dashboard's counts should be treated as a snapshot rather than a final tally until the docket actually closes.",
+        {"severity": "medium", "title": "Comment period closed August 5 — record is final",
+         "body": "The FAA granted the NY Attorney General's requested 30-day extension, moving the deadline from July 6 to August 5, 2026. No new comments have posted since (last: August 6). The counts on this dashboard are the final tally, not a snapshot.",
          "ids": ["FAA-2026-4558-0417"]},
         {"severity": "medium", "title": "Preemption is contested from both sides",
          "body": "Operators want STRONG federal preemption (uniform framework, machine-readable data). State DOTs (Virginia, Montana) want to PRESERVE authority over right-of-way and state drone laws. AUVSI's preemption position must thread this; note state-law spillover (e.g., Ohio HB77).",
@@ -420,7 +420,7 @@ def main():
         "unreviewed": unreviewed,
         "takeaways": takeaways,
         "flags": flags,
-        "method_note": "Substantive 2209 stakeholder comments are hand-verified; the railroad-labor campaign and remaining individuals are detected programmatically and update as new comments arrive.",
+        "method_note": "Substantive 2209 stakeholder comments are hand-verified; the railroad-labor campaign and remaining individuals are detected programmatically. The comment period closed August 5, 2026 and no new comments have posted since, so this is the final record.",
     }
 
     OUT.write_text("const ANALYSIS_DATA = " + json.dumps(out, indent=2, ensure_ascii=False) + ";\n", encoding="utf-8")

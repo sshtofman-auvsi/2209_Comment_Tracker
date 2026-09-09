@@ -1,8 +1,10 @@
 name: Fetch Comments
 
+# Daily schedule disabled 2026-09-09: the FAA-2026-4558 comment period closed
+# August 5, 2026 and no new comments have posted since. The tracker is now a
+# static final snapshot; re-run manually via workflow_dispatch if the docket
+# reopens or a late comment appears.
 on:
-  schedule:
-    - cron: "0 14 * * *"   # 10 AM ET daily
   workflow_dispatch:         # manual trigger from Actions tab
 
 permissions:

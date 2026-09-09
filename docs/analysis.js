@@ -1,5 +1,5 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-09-08T17:45:15.206314+00:00",
+  "generated_utc": "2026-09-09T17:50:25.347862+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
@@ -2730,9 +2730,9 @@ const ANALYSIS_DATA = {
       ]
     },
     {
-      "severity": "high",
-      "title": "Comment period extended to August 5 — docket still open",
-      "body": "The FAA granted the NY Attorney General's requested 30-day extension. The comment period now runs through August 5, 2026 (originally July 6). AUVSI's filing timeline should target the new deadline, and this dashboard's counts should be treated as a snapshot rather than a final tally until the docket actually closes.",
+      "severity": "medium",
+      "title": "Comment period closed August 5 — record is final",
+      "body": "The FAA granted the NY Attorney General's requested 30-day extension, moving the deadline from July 6 to August 5, 2026. No new comments have posted since (last: August 6). The counts on this dashboard are the final tally, not a snapshot.",
       "ids": [
         "FAA-2026-4558-0417"
       ]
@@ -2775,5 +2775,5 @@ const ANALYSIS_DATA = {
       ]
     }
   ],
-  "method_note": "Substantive 2209 stakeholder comments are hand-verified; the railroad-labor campaign and remaining individuals are detected programmatically and update as new comments arrive."
+  "method_note": "Substantive 2209 stakeholder comments are hand-verified; the railroad-labor campaign and remaining individuals are detected programmatically. The comment period closed August 5, 2026 and no new comments have posted since, so this is the final record."
 };
