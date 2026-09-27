@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-09-26T17:36:17.775612+00:00",
+  "generated_utc": "2026-09-27T18:02:46.350944+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 526,
-    "support": 758
+    "oppose": 525,
+    "support": 759
   },
   "positions_ex_campaign": {
     "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 526,
-    "support": 390
+    "oppose": 525,
+    "support": 391
   },
   "categories": [
     {
@@ -95,23 +95,23 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 756
+      "count": 755
     },
     {
       "label": "Small business / cost",
-      "count": 731
+      "count": 730
     },
     {
       "label": "National security / threat",
-      "count": 713
+      "count": 712
     },
     {
       "label": "First Amendment / media",
-      "count": 548
+      "count": 547
     },
     {
       "label": "Privacy / surveillance",
-      "count": 399
+      "count": 400
     },
     {
       "label": "Access pathway / LAANC",
@@ -1931,16 +1931,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0566"
     },
     {
-      "id": "FAA-2026-4558-0568",
-      "org": "ACLU, CDT, EFF, and EPIC",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
-    },
-    {
       "id": "FAA-2026-4558-0569",
       "org": "Meat Institute",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0569"
+    },
+    {
+      "id": "FAA-2026-4558-0568",
+      "org": "ACLU, CDT, EFF, and EPIC",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
       "id": "FAA-2026-4558-0570",
@@ -2093,16 +2093,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     },
     {
-      "id": "FAA-2026-4558-1251",
-      "org": "HUNTRAK Defense Systems, Inc.",
-      "date": "2026-07-28",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1251"
-    },
-    {
       "id": "FAA-2026-4558-1252",
       "org": "Aerodefense",
       "date": "2026-07-28",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
+    },
+    {
+      "id": "FAA-2026-4558-1251",
+      "org": "HUNTRAK Defense Systems, Inc.",
+      "date": "2026-07-28",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1251"
     },
     {
       "id": "FAA-2026-4558-1300",
@@ -2153,16 +2153,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
     },
     {
-      "id": "FAA-2026-4558-1421",
-      "org": "Save The Dogs Chi-Town",
-      "date": "2026-08-03",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1421"
-    },
-    {
       "id": "FAA-2026-4558-1450",
       "org": "United Network for Organ Sharing (UNOS)",
       "date": "2026-08-03",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1450"
+    },
+    {
+      "id": "FAA-2026-4558-1454",
+      "org": "Academy of Model Aeronautics (AMA)",
+      "date": "2026-08-03",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1454"
+    },
+    {
+      "id": "FAA-2026-4558-1421",
+      "org": "Save The Dogs Chi-Town",
+      "date": "2026-08-03",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1421"
     },
     {
       "id": "FAA-2026-4558-1420",
@@ -2181,12 +2187,6 @@ const ANALYSIS_DATA = {
       "org": "Vortezon Inc.",
       "date": "2026-08-03",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1444"
-    },
-    {
-      "id": "FAA-2026-4558-1454",
-      "org": "Academy of Model Aeronautics (AMA)",
-      "date": "2026-08-03",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1454"
     },
     {
       "id": "FAA-2026-4558-1424",
@@ -2219,16 +2219,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1516"
     },
     {
-      "id": "FAA-2026-4558-1526",
-      "org": "AX Enterprize",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
-    },
-    {
       "id": "FAA-2026-4558-1488",
       "org": "Asylon Incorporated",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1488"
+    },
+    {
+      "id": "FAA-2026-4558-1526",
+      "org": "AX Enterprize",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
     },
     {
       "id": "FAA-2026-4558-1505",
@@ -2291,6 +2291,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1565"
     },
     {
+      "id": "FAA-2026-4558-1608",
+      "org": "Tempest Droneworx",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1608"
+    },
+    {
       "id": "FAA-2026-4558-1614",
       "org": "Maryland Association of Municipal Wastewater Agencies",
       "date": "2026-08-05",
@@ -2313,30 +2319,6 @@ const ANALYSIS_DATA = {
       "org": "Airlines for America",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1604"
-    },
-    {
-      "id": "FAA-2026-4558-1608",
-      "org": "Tempest Droneworx",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1608"
-    },
-    {
-      "id": "FAA-2026-4558-1574",
-      "org": "International Liquid Terminals Association (ILTA)",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
-    },
-    {
-      "id": "FAA-2026-4558-1576",
-      "org": "DefendUAS, Inc.",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
-    },
-    {
-      "id": "FAA-2026-4558-1563",
-      "org": "Astrotech Space Operations",
-      "date": "2026-08-05",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
     },
     {
       "id": "FAA-2026-4558-1536",
@@ -2367,6 +2349,24 @@ const ANALYSIS_DATA = {
       "org": "Passenger Vessel Association",
       "date": "2026-08-05",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1543"
+    },
+    {
+      "id": "FAA-2026-4558-1563",
+      "org": "Astrotech Space Operations",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1563"
+    },
+    {
+      "id": "FAA-2026-4558-1574",
+      "org": "International Liquid Terminals Association (ILTA)",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1574"
+    },
+    {
+      "id": "FAA-2026-4558-1576",
+      "org": "DefendUAS, Inc.",
+      "date": "2026-08-05",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1576"
     },
     {
       "id": "FAA-2026-4558-1609",
@@ -2489,6 +2489,18 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1599"
     },
     {
+      "id": "FAA-2026-4558-1673",
+      "org": "Los Angeles Philharmonic Association",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1673"
+    },
+    {
+      "id": "FAA-2026-4558-1680",
+      "org": "New Roots Institute",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1680"
+    },
+    {
       "id": "FAA-2026-4558-1630",
       "org": "American Chemistry Council",
       "date": "2026-08-06",
@@ -2537,48 +2549,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1668"
     },
     {
-      "id": "FAA-2026-4558-1673",
-      "org": "Los Angeles Philharmonic Association",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1673"
-    },
-    {
-      "id": "FAA-2026-4558-1680",
-      "org": "New Roots Institute",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1680"
-    },
-    {
-      "id": "FAA-2026-4558-1651",
-      "org": "Williams Companies, Inc.",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
-    },
-    {
-      "id": "FAA-2026-4558-1682",
-      "org": "Animal Agriculture Alliance",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1682"
-    },
-    {
-      "id": "FAA-2026-4558-1632",
-      "org": "Arch Aerial LLC",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1632"
-    },
-    {
-      "id": "FAA-2026-4558-1643",
-      "org": "News Media Coalition",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1643"
-    },
-    {
-      "id": "FAA-2026-4558-1676",
-      "org": "Droneup LLC",
-      "date": "2026-08-06",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1676"
-    },
-    {
       "id": "FAA-2026-4558-1626",
       "org": "National Association of Broadcasters",
       "date": "2026-08-06",
@@ -2625,6 +2595,36 @@ const ANALYSIS_DATA = {
       "org": "Small UAV Coalition",
       "date": "2026-08-06",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1633"
+    },
+    {
+      "id": "FAA-2026-4558-1682",
+      "org": "Animal Agriculture Alliance",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1682"
+    },
+    {
+      "id": "FAA-2026-4558-1632",
+      "org": "Arch Aerial LLC",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1632"
+    },
+    {
+      "id": "FAA-2026-4558-1643",
+      "org": "News Media Coalition",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1643"
+    },
+    {
+      "id": "FAA-2026-4558-1676",
+      "org": "Droneup LLC",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1676"
+    },
+    {
+      "id": "FAA-2026-4558-1651",
+      "org": "Williams Companies, Inc.",
+      "date": "2026-08-06",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1651"
     },
     {
       "id": "FAA-2026-4558-1678",
