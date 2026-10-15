@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-10-14T18:17:45.173578+00:00",
+  "generated_utc": "2026-10-15T17:59:46.276850+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 382,
+    "support_with_changes": 383,
     "unclear": 3,
-    "oppose": 526,
-    "support": 758
+    "oppose": 528,
+    "support": 755
   },
   "positions_ex_campaign": {
-    "support_with_changes": 382,
+    "support_with_changes": 383,
     "unclear": 3,
-    "oppose": 526,
-    "support": 390
+    "oppose": 528,
+    "support": 387
   },
   "categories": [
     {
@@ -103,11 +103,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 713
+      "count": 715
     },
     {
       "label": "First Amendment / media",
-      "count": 548
+      "count": 550
     },
     {
       "label": "Privacy / surveillance",
@@ -115,11 +115,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 376
+      "count": 378
     },
     {
       "label": "Federal preemption",
-      "count": 301
+      "count": 302
     },
     {
       "label": "Transparency / publication",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 74
+      "count": 75
     }
   ],
   "timeline": [
@@ -1943,6 +1943,12 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
+    },
+    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1953,12 +1959,6 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
-    },
-    {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
@@ -2093,16 +2093,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     },
     {
-      "id": "FAA-2026-4558-1252",
-      "org": "Aerodefense",
-      "date": "2026-07-28",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
-    },
-    {
       "id": "FAA-2026-4558-1251",
       "org": "HUNTRAK Defense Systems, Inc.",
       "date": "2026-07-28",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1251"
+    },
+    {
+      "id": "FAA-2026-4558-1252",
+      "org": "Aerodefense",
+      "date": "2026-07-28",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
     },
     {
       "id": "FAA-2026-4558-1300",
@@ -2141,22 +2141,22 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1355"
     },
     {
-      "id": "FAA-2026-4558-1328",
-      "org": "Star Milling Co.",
-      "date": "2026-07-31",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
-    },
-    {
       "id": "FAA-2026-4558-1356",
       "org": "Rose Acre Farms, Inc.",
       "date": "2026-07-31",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1356"
     },
     {
-      "id": "FAA-2026-4558-1450",
-      "org": "United Network for Organ Sharing (UNOS)",
+      "id": "FAA-2026-4558-1328",
+      "org": "Star Milling Co.",
+      "date": "2026-07-31",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1328"
+    },
+    {
+      "id": "FAA-2026-4558-1421",
+      "org": "Save The Dogs Chi-Town",
       "date": "2026-08-03",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1450"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1421"
     },
     {
       "id": "FAA-2026-4558-1454",
@@ -2165,10 +2165,10 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1454"
     },
     {
-      "id": "FAA-2026-4558-1421",
-      "org": "Save The Dogs Chi-Town",
+      "id": "FAA-2026-4558-1450",
+      "org": "United Network for Organ Sharing (UNOS)",
       "date": "2026-08-03",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1421"
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1450"
     },
     {
       "id": "FAA-2026-4558-1420",
@@ -2219,16 +2219,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1516"
     },
     {
-      "id": "FAA-2026-4558-1488",
-      "org": "Asylon Incorporated",
-      "date": "2026-08-04",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1488"
-    },
-    {
       "id": "FAA-2026-4558-1526",
       "org": "AX Enterprize",
       "date": "2026-08-04",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1526"
+    },
+    {
+      "id": "FAA-2026-4558-1488",
+      "org": "Asylon Incorporated",
+      "date": "2026-08-04",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1488"
     },
     {
       "id": "FAA-2026-4558-1512",
