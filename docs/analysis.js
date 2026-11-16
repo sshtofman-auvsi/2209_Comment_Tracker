@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-11-15T19:32:19.047258+00:00",
+  "generated_utc": "2026-11-16T23:11:34.515950+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 382,
+    "support_with_changes": 383,
     "unclear": 3,
-    "oppose": 526,
-    "support": 758
+    "oppose": 528,
+    "support": 755
   },
   "positions_ex_campaign": {
-    "support_with_changes": 382,
+    "support_with_changes": 383,
     "unclear": 3,
-    "oppose": 526,
-    "support": 390
+    "oppose": 528,
+    "support": 387
   },
   "categories": [
     {
@@ -103,11 +103,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 713
+      "count": 715
     },
     {
       "label": "First Amendment / media",
-      "count": 548
+      "count": 550
     },
     {
       "label": "Privacy / surveillance",
@@ -115,11 +115,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 376
+      "count": 378
     },
     {
       "label": "Federal preemption",
-      "count": 301
+      "count": 302
     },
     {
       "label": "Transparency / publication",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 74
+      "count": 75
     }
   ],
   "timeline": [
