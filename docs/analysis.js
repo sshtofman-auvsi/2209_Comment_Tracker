@@ -1,30 +1,30 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-11-16T23:11:34.515950+00:00",
+  "generated_utc": "2026-11-17T22:01:17.734773+00:00",
   "total": 1669,
-  "campaign_count": 368,
+  "campaign_count": 369,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 383,
+    "support_with_changes": 380,
     "unclear": 3,
-    "oppose": 528,
-    "support": 755
+    "oppose": 524,
+    "support": 762
   },
   "positions_ex_campaign": {
-    "support_with_changes": 383,
+    "support_with_changes": 380,
     "unclear": 3,
-    "oppose": 528,
-    "support": 387
+    "oppose": 524,
+    "support": 393
   },
   "categories": [
     {
       "key": "individual_other",
       "label": "Other individuals",
-      "count": 1156
+      "count": 1155
     },
     {
       "key": "railroad_labor",
       "label": "Railroad labor (write-in campaign)",
-      "count": 368
+      "count": 369
     },
     {
       "key": "individual_hobbyist",
@@ -95,31 +95,31 @@ const ANALYSIS_DATA = {
   "themes": [
     {
       "label": "Facility eligibility scope",
-      "count": 756
+      "count": 757
     },
     {
       "label": "Small business / cost",
-      "count": 731
+      "count": 732
     },
     {
       "label": "National security / threat",
-      "count": 715
+      "count": 712
     },
     {
       "label": "First Amendment / media",
-      "count": 550
+      "count": 547
     },
     {
       "label": "Privacy / surveillance",
-      "count": 399
+      "count": 400
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 378
+      "count": 375
     },
     {
       "label": "Federal preemption",
-      "count": 302
+      "count": 301
     },
     {
       "label": "Transparency / publication",
@@ -127,27 +127,27 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Boundaries / altitude",
-      "count": 192
+      "count": 193
     },
     {
       "label": "Remote ID / detection gap",
-      "count": 182
+      "count": 183
     },
     {
       "label": "Contractor / owner gap",
-      "count": 178
+      "count": 179
     },
     {
       "label": "Counter-UAS / mitigation",
-      "count": 169
+      "count": 170
     },
     {
       "label": "Patchwork / no-fly zones",
-      "count": 81
+      "count": 82
     },
     {
       "label": "Overreach / withdraw",
-      "count": 75
+      "count": 74
     }
   ],
   "timeline": [
@@ -2093,16 +2093,16 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1211"
     },
     {
-      "id": "FAA-2026-4558-1252",
-      "org": "Aerodefense",
-      "date": "2026-07-28",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
-    },
-    {
       "id": "FAA-2026-4558-1251",
       "org": "HUNTRAK Defense Systems, Inc.",
       "date": "2026-07-28",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-1251"
+    },
+    {
+      "id": "FAA-2026-4558-1252",
+      "org": "Aerodefense",
+      "date": "2026-07-28",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1252"
     },
     {
       "id": "FAA-2026-4558-1300",
@@ -2684,7 +2684,7 @@ const ANALYSIS_DATA = {
   "takeaways": [
     {
       "title": "The volume is a labor write-in campaign, not 2209 endorsement",
-      "body": "About 22% of comments (368 of 1669) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
+      "body": "About 22% of comments (369 of 1669) are railroad workers (SMART-TD members, conductors, engineers, switchmen) protesting their OWN employers' use of drones for crew surveillance and discipline. They 'support restricting drones' but the target is employer 'operational testing,' not the external-threat problem Section 2209 addresses. Treat the raw support count as noise, not signal."
     },
     {
       "title": "Genuine 2209 stakeholders split into a predictable map",
