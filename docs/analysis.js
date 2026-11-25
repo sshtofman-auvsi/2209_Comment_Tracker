@@ -1,19 +1,19 @@
 const ANALYSIS_DATA = {
-  "generated_utc": "2026-11-24T23:22:54.690122+00:00",
+  "generated_utc": "2026-11-25T22:56:31.226341+00:00",
   "total": 1669,
   "campaign_count": 368,
   "campaign_pct": 22,
   "positions_all": {
-    "support_with_changes": 381,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 524,
-    "support": 761
+    "oppose": 526,
+    "support": 758
   },
   "positions_ex_campaign": {
-    "support_with_changes": 381,
+    "support_with_changes": 382,
     "unclear": 3,
-    "oppose": 524,
-    "support": 393
+    "oppose": 526,
+    "support": 390
   },
   "categories": [
     {
@@ -103,11 +103,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "National security / threat",
-      "count": 711
+      "count": 713
     },
     {
       "label": "First Amendment / media",
-      "count": 546
+      "count": 548
     },
     {
       "label": "Privacy / surveillance",
@@ -115,11 +115,11 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Access pathway / LAANC",
-      "count": 374
+      "count": 376
     },
     {
       "label": "Federal preemption",
-      "count": 300
+      "count": 301
     },
     {
       "label": "Transparency / publication",
@@ -147,7 +147,7 @@ const ANALYSIS_DATA = {
     },
     {
       "label": "Overreach / withdraw",
-      "count": 73
+      "count": 74
     }
   ],
   "timeline": [
@@ -1943,12 +1943,6 @@ const ANALYSIS_DATA = {
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0568"
     },
     {
-      "id": "FAA-2026-4558-0570",
-      "org": "Texas Cattle Feeders Association",
-      "date": "2026-07-07",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
-    },
-    {
       "id": "FAA-2026-4558-0565",
       "org": "National Pork Producers Council",
       "date": "2026-07-07",
@@ -1959,6 +1953,12 @@ const ANALYSIS_DATA = {
       "org": "Louisville Water Company",
       "date": "2026-07-07",
       "url": "https://www.regulations.gov/comment/FAA-2026-4558-0560"
+    },
+    {
+      "id": "FAA-2026-4558-0570",
+      "org": "Texas Cattle Feeders Association",
+      "date": "2026-07-07",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0570"
     },
     {
       "id": "FAA-2026-4558-0582",
